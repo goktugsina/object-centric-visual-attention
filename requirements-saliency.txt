@@ -1,0 +1,3 @@
+# In addition to the core and compatible Torch/Torchvision requirements.
+boltons==26.2.0
+deepgaze_pytorch @ https://github.com/matthias-k/DeepGaze/archive/c7db17e2d1d7ea6468ffdee2cfaddf141095dcff.zip

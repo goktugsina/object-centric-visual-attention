@@ -1,0 +1,4202 @@
+[
+  {
+    "name": "1001.jpg",
+    "foreground_area": 0.9624541666666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1002.jpg",
+    "foreground_area": 0.5306375,
+    "foreground_fixation_fraction": 0.8931297709923665,
+    "active_detections": 4
+  },
+  {
+    "name": "1003.jpg",
+    "foreground_area": 0.10680833333333334,
+    "foreground_fixation_fraction": 0.8135593220338984,
+    "active_detections": 2
+  },
+  {
+    "name": "1004.jpg",
+    "foreground_area": 0.288975,
+    "foreground_fixation_fraction": 0.9672131147540983,
+    "active_detections": 2
+  },
+  {
+    "name": "1005.jpg",
+    "foreground_area": 0.4146458333333333,
+    "foreground_fixation_fraction": 0.751937984496124,
+    "active_detections": 2
+  },
+  {
+    "name": "1006.jpg",
+    "foreground_area": 0.7284624999999999,
+    "foreground_fixation_fraction": 0.984251968503937,
+    "active_detections": 5
+  },
+  {
+    "name": "1007.jpg",
+    "foreground_area": 0.985,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1008.jpg",
+    "foreground_area": 0.6962291666666667,
+    "foreground_fixation_fraction": 0.925,
+    "active_detections": 3
+  },
+  {
+    "name": "1009.jpg",
+    "foreground_area": 0.39305833333333334,
+    "foreground_fixation_fraction": 0.638095238095238,
+    "active_detections": 1
+  },
+  {
+    "name": "1010.jpg",
+    "foreground_area": 0.017029166666666668,
+    "foreground_fixation_fraction": 0.08,
+    "active_detections": 1
+  },
+  {
+    "name": "1011.jpg",
+    "foreground_area": 0.80289375,
+    "foreground_fixation_fraction": 0.9312977099236641,
+    "active_detections": 5
+  },
+  {
+    "name": "1012.jpg",
+    "foreground_area": 0.6789145833333333,
+    "foreground_fixation_fraction": 0.9454545454545454,
+    "active_detections": 4
+  },
+  {
+    "name": "1013.jpg",
+    "foreground_area": 0.3902729166666667,
+    "foreground_fixation_fraction": 0.9928057553956835,
+    "active_detections": 8
+  },
+  {
+    "name": "1014.jpg",
+    "foreground_area": 0.29163125,
+    "foreground_fixation_fraction": 0.47692307692307695,
+    "active_detections": 2
+  },
+  {
+    "name": "1015.jpg",
+    "foreground_area": 0.9566125000000001,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1016.jpg",
+    "foreground_area": 0.09698958333333334,
+    "foreground_fixation_fraction": 0.18548387096774194,
+    "active_detections": 2
+  },
+  {
+    "name": "1017.jpg",
+    "foreground_area": 0.27320625,
+    "foreground_fixation_fraction": 0.7410071942446043,
+    "active_detections": 2
+  },
+  {
+    "name": "1018.jpg",
+    "foreground_area": 0.4736416666666667,
+    "foreground_fixation_fraction": 0.9925373134328358,
+    "active_detections": 3
+  },
+  {
+    "name": "1019.jpg",
+    "foreground_area": 0.9215958333333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1020.jpg",
+    "foreground_area": 0.8162729166666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1021.jpg",
+    "foreground_area": 0.8853187499999999,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 6
+  },
+  {
+    "name": "1022.jpg",
+    "foreground_area": 0.12058333333333333,
+    "foreground_fixation_fraction": 0.4852941176470588,
+    "active_detections": 2
+  },
+  {
+    "name": "1023.jpg",
+    "foreground_area": 0.47953541666666666,
+    "foreground_fixation_fraction": 0.7304964539007093,
+    "active_detections": 6
+  },
+  {
+    "name": "1024.jpg",
+    "foreground_area": 0.80456875,
+    "foreground_fixation_fraction": 0.9173553719008265,
+    "active_detections": 1
+  },
+  {
+    "name": "1025.jpg",
+    "foreground_area": 0.6541145833333333,
+    "foreground_fixation_fraction": 0.9734513274336283,
+    "active_detections": 4
+  },
+  {
+    "name": "1026.jpg",
+    "foreground_area": 0.1602,
+    "foreground_fixation_fraction": 0.1794871794871795,
+    "active_detections": 1
+  },
+  {
+    "name": "1027.jpg",
+    "foreground_area": 0.10992083333333333,
+    "foreground_fixation_fraction": 0.32142857142857145,
+    "active_detections": 3
+  },
+  {
+    "name": "1028.jpg",
+    "foreground_area": 0.8311770833333334,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 7
+  },
+  {
+    "name": "1029.jpg",
+    "foreground_area": 0.1278,
+    "foreground_fixation_fraction": 0.515625,
+    "active_detections": 1
+  },
+  {
+    "name": "1030.jpg",
+    "foreground_area": 0.93723125,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1031.jpg",
+    "foreground_area": 0.49455416666666663,
+    "foreground_fixation_fraction": 0.7121212121212122,
+    "active_detections": 5
+  },
+  {
+    "name": "1032.jpg",
+    "foreground_area": 0.4447,
+    "foreground_fixation_fraction": 0.296,
+    "active_detections": 3
+  },
+  {
+    "name": "1033.jpg",
+    "foreground_area": 0.03197083333333333,
+    "foreground_fixation_fraction": 0.46534653465346537,
+    "active_detections": 4
+  },
+  {
+    "name": "1034.jpg",
+    "foreground_area": 0.22117916666666665,
+    "foreground_fixation_fraction": 0.7401574803149606,
+    "active_detections": 2
+  },
+  {
+    "name": "1035.jpg",
+    "foreground_area": 0.9546833333333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 5
+  },
+  {
+    "name": "1036.jpg",
+    "foreground_area": 0.15198333333333333,
+    "foreground_fixation_fraction": 0.1773049645390071,
+    "active_detections": 2
+  },
+  {
+    "name": "1037.jpg",
+    "foreground_area": 0.2556541666666667,
+    "foreground_fixation_fraction": 0.824,
+    "active_detections": 3
+  },
+  {
+    "name": "1038.jpg",
+    "foreground_area": 0.10976666666666667,
+    "foreground_fixation_fraction": 0.2781954887218045,
+    "active_detections": 1
+  },
+  {
+    "name": "1039.jpg",
+    "foreground_area": 0.46331458333333336,
+    "foreground_fixation_fraction": 0.9230769230769231,
+    "active_detections": 2
+  },
+  {
+    "name": "1040.jpg",
+    "foreground_area": 0.45473125,
+    "foreground_fixation_fraction": 0.675,
+    "active_detections": 4
+  },
+  {
+    "name": "1041.jpg",
+    "foreground_area": 0.7561583333333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1042.jpg",
+    "foreground_area": 0.8077458333333334,
+    "foreground_fixation_fraction": 0.9534883720930233,
+    "active_detections": 5
+  },
+  {
+    "name": "1043.jpg",
+    "foreground_area": 0.7086145833333333,
+    "foreground_fixation_fraction": 0.9917355371900827,
+    "active_detections": 5
+  },
+  {
+    "name": "1044.jpg",
+    "foreground_area": 0.34020833333333333,
+    "foreground_fixation_fraction": 0.6503496503496503,
+    "active_detections": 2
+  },
+  {
+    "name": "1045.jpg",
+    "foreground_area": 0.35201666666666664,
+    "foreground_fixation_fraction": 0.8046875,
+    "active_detections": 2
+  },
+  {
+    "name": "1046.jpg",
+    "foreground_area": 0.2396375,
+    "foreground_fixation_fraction": 0.68,
+    "active_detections": 3
+  },
+  {
+    "name": "1047.jpg",
+    "foreground_area": 0.13307916666666667,
+    "foreground_fixation_fraction": 0.8360655737704918,
+    "active_detections": 3
+  },
+  {
+    "name": "1048.jpg",
+    "foreground_area": 0.6696375,
+    "foreground_fixation_fraction": 0.9416666666666667,
+    "active_detections": 3
+  },
+  {
+    "name": "1049.jpg",
+    "foreground_area": 0.24653125000000004,
+    "foreground_fixation_fraction": 0.4112903225806452,
+    "active_detections": 6
+  },
+  {
+    "name": "1050.jpg",
+    "foreground_area": 0.4248666666666667,
+    "foreground_fixation_fraction": 0.9632352941176471,
+    "active_detections": 3
+  },
+  {
+    "name": "1051.jpg",
+    "foreground_area": 0.5579041666666668,
+    "foreground_fixation_fraction": 0.9032258064516129,
+    "active_detections": 4
+  },
+  {
+    "name": "1052.jpg",
+    "foreground_area": 0.7846333333333334,
+    "foreground_fixation_fraction": 0.9920634920634921,
+    "active_detections": 7
+  },
+  {
+    "name": "1053.jpg",
+    "foreground_area": 0.25883125,
+    "foreground_fixation_fraction": 0.45081967213114754,
+    "active_detections": 2
+  },
+  {
+    "name": "1054.jpg",
+    "foreground_area": 0.20018541666666667,
+    "foreground_fixation_fraction": 0.9320388349514563,
+    "active_detections": 2
+  },
+  {
+    "name": "1055.jpg",
+    "foreground_area": 0.30818333333333336,
+    "foreground_fixation_fraction": 0.9074074074074074,
+    "active_detections": 2
+  },
+  {
+    "name": "1056.jpg",
+    "foreground_area": 0.0469375,
+    "foreground_fixation_fraction": 0.1111111111111111,
+    "active_detections": 2
+  },
+  {
+    "name": "1057.jpg",
+    "foreground_area": 0.029897916666666666,
+    "foreground_fixation_fraction": 0.22764227642276422,
+    "active_detections": 1
+  },
+  {
+    "name": "1058.jpg",
+    "foreground_area": 0.04706666666666667,
+    "foreground_fixation_fraction": 0.5,
+    "active_detections": 4
+  },
+  {
+    "name": "1059.jpg",
+    "foreground_area": 0.8083333333333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1060.jpg",
+    "foreground_area": 0.6036583333333334,
+    "foreground_fixation_fraction": 0.9915254237288136,
+    "active_detections": 2
+  },
+  {
+    "name": "1061.jpg",
+    "foreground_area": 0.6630041666666666,
+    "foreground_fixation_fraction": 0.9745762711864406,
+    "active_detections": 2
+  },
+  {
+    "name": "1062.jpg",
+    "foreground_area": 0.0,
+    "foreground_fixation_fraction": 0.0,
+    "active_detections": 0
+  },
+  {
+    "name": "1063.jpg",
+    "foreground_area": 0.47329166666666667,
+    "foreground_fixation_fraction": 0.8114754098360656,
+    "active_detections": 2
+  },
+  {
+    "name": "1064.jpg",
+    "foreground_area": 0.11999166666666666,
+    "foreground_fixation_fraction": 0.6507936507936508,
+    "active_detections": 2
+  },
+  {
+    "name": "1065.jpg",
+    "foreground_area": 0.7567041666666666,
+    "foreground_fixation_fraction": 0.923728813559322,
+    "active_detections": 5
+  },
+  {
+    "name": "1066.jpg",
+    "foreground_area": 0.9709291666666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1067.jpg",
+    "foreground_area": 0.8888083333333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1068.jpg",
+    "foreground_area": 0.24398333333333333,
+    "foreground_fixation_fraction": 0.8264462809917356,
+    "active_detections": 2
+  },
+  {
+    "name": "1069.jpg",
+    "foreground_area": 0.41577291666666666,
+    "foreground_fixation_fraction": 0.808695652173913,
+    "active_detections": 2
+  },
+  {
+    "name": "1070.jpg",
+    "foreground_area": 0.8764958333333333,
+    "foreground_fixation_fraction": 0.9541984732824428,
+    "active_detections": 3
+  },
+  {
+    "name": "1071.jpg",
+    "foreground_area": 0.11397083333333334,
+    "foreground_fixation_fraction": 0.8503937007874016,
+    "active_detections": 3
+  },
+  {
+    "name": "1072.jpg",
+    "foreground_area": 0.1085625,
+    "foreground_fixation_fraction": 0.7413793103448276,
+    "active_detections": 2
+  },
+  {
+    "name": "1073.jpg",
+    "foreground_area": 0.13885833333333333,
+    "foreground_fixation_fraction": 0.6869565217391305,
+    "active_detections": 3
+  },
+  {
+    "name": "1074.jpg",
+    "foreground_area": 0.08373333333333334,
+    "foreground_fixation_fraction": 0.4672897196261682,
+    "active_detections": 1
+  },
+  {
+    "name": "1075.jpg",
+    "foreground_area": 0.70468125,
+    "foreground_fixation_fraction": 0.8768115942028986,
+    "active_detections": 6
+  },
+  {
+    "name": "1076.jpg",
+    "foreground_area": 0.57666875,
+    "foreground_fixation_fraction": 0.9724770642201835,
+    "active_detections": 3
+  },
+  {
+    "name": "1077.jpg",
+    "foreground_area": 0.49888750000000004,
+    "foreground_fixation_fraction": 0.9516129032258065,
+    "active_detections": 5
+  },
+  {
+    "name": "1078.jpg",
+    "foreground_area": 0.7243229166666666,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1079.jpg",
+    "foreground_area": 0.17415625,
+    "foreground_fixation_fraction": 0.19230769230769232,
+    "active_detections": 2
+  },
+  {
+    "name": "1080.jpg",
+    "foreground_area": 0.31214583333333334,
+    "foreground_fixation_fraction": 0.9444444444444444,
+    "active_detections": 3
+  },
+  {
+    "name": "1081.jpg",
+    "foreground_area": 0.15655,
+    "foreground_fixation_fraction": 0.7637795275590551,
+    "active_detections": 3
+  },
+  {
+    "name": "1082.jpg",
+    "foreground_area": 0.16000833333333334,
+    "foreground_fixation_fraction": 0.5042735042735043,
+    "active_detections": 1
+  },
+  {
+    "name": "1083.jpg",
+    "foreground_area": 0.19649166666666668,
+    "foreground_fixation_fraction": 0.6293103448275862,
+    "active_detections": 1
+  },
+  {
+    "name": "1084.jpg",
+    "foreground_area": 0.14527916666666665,
+    "foreground_fixation_fraction": 0.753731343283582,
+    "active_detections": 2
+  },
+  {
+    "name": "1085.jpg",
+    "foreground_area": 0.1482,
+    "foreground_fixation_fraction": 0.860655737704918,
+    "active_detections": 3
+  },
+  {
+    "name": "1086.jpg",
+    "foreground_area": 0.9705208333333334,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1087.jpg",
+    "foreground_area": 0.41131874999999996,
+    "foreground_fixation_fraction": 0.5813953488372093,
+    "active_detections": 2
+  },
+  {
+    "name": "1088.jpg",
+    "foreground_area": 0.39289375,
+    "foreground_fixation_fraction": 0.9253731343283582,
+    "active_detections": 6
+  },
+  {
+    "name": "1089.jpg",
+    "foreground_area": 0.6554041666666667,
+    "foreground_fixation_fraction": 0.9302325581395349,
+    "active_detections": 3
+  },
+  {
+    "name": "1090.jpg",
+    "foreground_area": 0.61369375,
+    "foreground_fixation_fraction": 0.9763779527559056,
+    "active_detections": 4
+  },
+  {
+    "name": "1091.jpg",
+    "foreground_area": 0.26273125,
+    "foreground_fixation_fraction": 0.23015873015873015,
+    "active_detections": 2
+  },
+  {
+    "name": "1092.jpg",
+    "foreground_area": 0.21437499999999998,
+    "foreground_fixation_fraction": 0.6666666666666666,
+    "active_detections": 2
+  },
+  {
+    "name": "1093.jpg",
+    "foreground_area": 0.83833125,
+    "foreground_fixation_fraction": 0.9769230769230769,
+    "active_detections": 3
+  },
+  {
+    "name": "1094.jpg",
+    "foreground_area": 0.5324645833333334,
+    "foreground_fixation_fraction": 0.923728813559322,
+    "active_detections": 1
+  },
+  {
+    "name": "1095.jpg",
+    "foreground_area": 0.31972291666666663,
+    "foreground_fixation_fraction": 0.7096774193548387,
+    "active_detections": 2
+  },
+  {
+    "name": "1096.jpg",
+    "foreground_area": 0.4377479166666667,
+    "foreground_fixation_fraction": 0.8,
+    "active_detections": 4
+  },
+  {
+    "name": "1097.jpg",
+    "foreground_area": 0.4713541666666667,
+    "foreground_fixation_fraction": 0.9098360655737705,
+    "active_detections": 2
+  },
+  {
+    "name": "1098.jpg",
+    "foreground_area": 0.21086875,
+    "foreground_fixation_fraction": 0.6666666666666666,
+    "active_detections": 3
+  },
+  {
+    "name": "1099.jpg",
+    "foreground_area": 0.12750833333333333,
+    "foreground_fixation_fraction": 0.2682926829268293,
+    "active_detections": 1
+  },
+  {
+    "name": "1100.jpg",
+    "foreground_area": 0.6903604166666667,
+    "foreground_fixation_fraction": 0.9924812030075187,
+    "active_detections": 8
+  },
+  {
+    "name": "1101.jpg",
+    "foreground_area": 0.21496666666666667,
+    "foreground_fixation_fraction": 0.8031496062992126,
+    "active_detections": 2
+  },
+  {
+    "name": "1102.jpg",
+    "foreground_area": 0.48498125000000003,
+    "foreground_fixation_fraction": 0.7730496453900709,
+    "active_detections": 3
+  },
+  {
+    "name": "1103.jpg",
+    "foreground_area": 0.7961416666666666,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1104.jpg",
+    "foreground_area": 0.1108375,
+    "foreground_fixation_fraction": 0.392,
+    "active_detections": 2
+  },
+  {
+    "name": "1105.jpg",
+    "foreground_area": 0.10406666666666667,
+    "foreground_fixation_fraction": 0.16666666666666666,
+    "active_detections": 1
+  },
+  {
+    "name": "1106.jpg",
+    "foreground_area": 0.6301041666666667,
+    "foreground_fixation_fraction": 0.9191176470588235,
+    "active_detections": 4
+  },
+  {
+    "name": "1107.jpg",
+    "foreground_area": 0.9410270833333334,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1108.jpg",
+    "foreground_area": 0.6327,
+    "foreground_fixation_fraction": 0.9482758620689655,
+    "active_detections": 4
+  },
+  {
+    "name": "1109.jpg",
+    "foreground_area": 0.18958333333333333,
+    "foreground_fixation_fraction": 0.2204724409448819,
+    "active_detections": 1
+  },
+  {
+    "name": "1110.jpg",
+    "foreground_area": 0.84335625,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1111.jpg",
+    "foreground_area": 0.46239166666666665,
+    "foreground_fixation_fraction": 0.9426229508196722,
+    "active_detections": 4
+  },
+  {
+    "name": "1112.jpg",
+    "foreground_area": 0.36250208333333334,
+    "foreground_fixation_fraction": 0.944,
+    "active_detections": 3
+  },
+  {
+    "name": "1113.jpg",
+    "foreground_area": 0.177175,
+    "foreground_fixation_fraction": 0.4125874125874126,
+    "active_detections": 1
+  },
+  {
+    "name": "1114.jpg",
+    "foreground_area": 0.31010000000000004,
+    "foreground_fixation_fraction": 0.9112903225806451,
+    "active_detections": 6
+  },
+  {
+    "name": "1115.jpg",
+    "foreground_area": 0.14360416666666667,
+    "foreground_fixation_fraction": 0.9067796610169492,
+    "active_detections": 2
+  },
+  {
+    "name": "1116.jpg",
+    "foreground_area": 0.17359375,
+    "foreground_fixation_fraction": 0.3389830508474576,
+    "active_detections": 3
+  },
+  {
+    "name": "1117.jpg",
+    "foreground_area": 0.7987479166666666,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1118.jpg",
+    "foreground_area": 0.7479958333333334,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 7
+  },
+  {
+    "name": "1119.jpg",
+    "foreground_area": 0.62470625,
+    "foreground_fixation_fraction": 0.9632352941176471,
+    "active_detections": 5
+  },
+  {
+    "name": "1120.jpg",
+    "foreground_area": 0.244125,
+    "foreground_fixation_fraction": 0.625,
+    "active_detections": 1
+  },
+  {
+    "name": "1121.jpg",
+    "foreground_area": 0.38336458333333334,
+    "foreground_fixation_fraction": 0.3150684931506849,
+    "active_detections": 2
+  },
+  {
+    "name": "1122.jpg",
+    "foreground_area": 0.37545833333333334,
+    "foreground_fixation_fraction": 0.9568965517241379,
+    "active_detections": 2
+  },
+  {
+    "name": "1123.jpg",
+    "foreground_area": 0.10262291666666666,
+    "foreground_fixation_fraction": 0.47619047619047616,
+    "active_detections": 1
+  },
+  {
+    "name": "1124.jpg",
+    "foreground_area": 0.33161875,
+    "foreground_fixation_fraction": 0.8620689655172413,
+    "active_detections": 6
+  },
+  {
+    "name": "1125.jpg",
+    "foreground_area": 0.4169125,
+    "foreground_fixation_fraction": 0.8803418803418803,
+    "active_detections": 3
+  },
+  {
+    "name": "1126.jpg",
+    "foreground_area": 0.11488333333333332,
+    "foreground_fixation_fraction": 0.423728813559322,
+    "active_detections": 2
+  },
+  {
+    "name": "1127.jpg",
+    "foreground_area": 0.8540125,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 5
+  },
+  {
+    "name": "1128.jpg",
+    "foreground_area": 0.4294354166666666,
+    "foreground_fixation_fraction": 0.9769230769230769,
+    "active_detections": 2
+  },
+  {
+    "name": "1129.jpg",
+    "foreground_area": 0.5287833333333334,
+    "foreground_fixation_fraction": 0.9618320610687023,
+    "active_detections": 2
+  },
+  {
+    "name": "1130.jpg",
+    "foreground_area": 0.8182020833333333,
+    "foreground_fixation_fraction": 0.9477611940298507,
+    "active_detections": 4
+  },
+  {
+    "name": "1131.jpg",
+    "foreground_area": 0.42274375,
+    "foreground_fixation_fraction": 0.9090909090909091,
+    "active_detections": 1
+  },
+  {
+    "name": "1132.jpg",
+    "foreground_area": 0.6717833333333334,
+    "foreground_fixation_fraction": 0.9224137931034483,
+    "active_detections": 3
+  },
+  {
+    "name": "1133.jpg",
+    "foreground_area": 0.7239916666666668,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 6
+  },
+  {
+    "name": "1134.jpg",
+    "foreground_area": 0.085025,
+    "foreground_fixation_fraction": 0.5555555555555556,
+    "active_detections": 1
+  },
+  {
+    "name": "1135.jpg",
+    "foreground_area": 0.38165208333333334,
+    "foreground_fixation_fraction": 0.9014084507042254,
+    "active_detections": 5
+  },
+  {
+    "name": "1136.jpg",
+    "foreground_area": 0.6236562500000001,
+    "foreground_fixation_fraction": 0.905511811023622,
+    "active_detections": 7
+  },
+  {
+    "name": "1137.jpg",
+    "foreground_area": 0.995,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1138.jpg",
+    "foreground_area": 0.6894,
+    "foreground_fixation_fraction": 0.559322033898305,
+    "active_detections": 4
+  },
+  {
+    "name": "1139.jpg",
+    "foreground_area": 0.18915,
+    "foreground_fixation_fraction": 0.9186991869918699,
+    "active_detections": 3
+  },
+  {
+    "name": "1140.jpg",
+    "foreground_area": 0.7026083333333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 5
+  },
+  {
+    "name": "1141.jpg",
+    "foreground_area": 0.6626083333333334,
+    "foreground_fixation_fraction": 0.736,
+    "active_detections": 3
+  },
+  {
+    "name": "1142.jpg",
+    "foreground_area": 0.337625,
+    "foreground_fixation_fraction": 0.627906976744186,
+    "active_detections": 3
+  },
+  {
+    "name": "1143.jpg",
+    "foreground_area": 0.9362020833333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1144.jpg",
+    "foreground_area": 0.35790625,
+    "foreground_fixation_fraction": 0.7723577235772358,
+    "active_detections": 4
+  },
+  {
+    "name": "1145.jpg",
+    "foreground_area": 0.23811875,
+    "foreground_fixation_fraction": 0.3333333333333333,
+    "active_detections": 2
+  },
+  {
+    "name": "1146.jpg",
+    "foreground_area": 0.3979166666666667,
+    "foreground_fixation_fraction": 0.4244604316546763,
+    "active_detections": 3
+  },
+  {
+    "name": "1147.jpg",
+    "foreground_area": 0.52824375,
+    "foreground_fixation_fraction": 0.6744186046511628,
+    "active_detections": 2
+  },
+  {
+    "name": "1148.jpg",
+    "foreground_area": 0.39782708333333333,
+    "foreground_fixation_fraction": 0.9727272727272728,
+    "active_detections": 4
+  },
+  {
+    "name": "1149.jpg",
+    "foreground_area": 0.9756958333333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 5
+  },
+  {
+    "name": "1150.jpg",
+    "foreground_area": 0.5211416666666666,
+    "foreground_fixation_fraction": 0.7899159663865546,
+    "active_detections": 2
+  },
+  {
+    "name": "1151.jpg",
+    "foreground_area": 0.0,
+    "foreground_fixation_fraction": 0.0,
+    "active_detections": 0
+  },
+  {
+    "name": "1152.jpg",
+    "foreground_area": 0.9913375,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1153.jpg",
+    "foreground_area": 0.3139875,
+    "foreground_fixation_fraction": 0.6716417910447762,
+    "active_detections": 4
+  },
+  {
+    "name": "1154.jpg",
+    "foreground_area": 0.49283750000000004,
+    "foreground_fixation_fraction": 0.9770992366412213,
+    "active_detections": 3
+  },
+  {
+    "name": "1155.jpg",
+    "foreground_area": 0.062316666666666666,
+    "foreground_fixation_fraction": 0.515625,
+    "active_detections": 2
+  },
+  {
+    "name": "1156.jpg",
+    "foreground_area": 0.45856458333333333,
+    "foreground_fixation_fraction": 0.9523809523809523,
+    "active_detections": 4
+  },
+  {
+    "name": "1157.jpg",
+    "foreground_area": 0.4965145833333333,
+    "foreground_fixation_fraction": 0.9927536231884058,
+    "active_detections": 11
+  },
+  {
+    "name": "1158.jpg",
+    "foreground_area": 0.6117,
+    "foreground_fixation_fraction": 0.9770992366412213,
+    "active_detections": 3
+  },
+  {
+    "name": "1159.jpg",
+    "foreground_area": 0.7477604166666666,
+    "foreground_fixation_fraction": 0.9312977099236641,
+    "active_detections": 8
+  },
+  {
+    "name": "1160.jpg",
+    "foreground_area": 0.04438541666666667,
+    "foreground_fixation_fraction": 0.49166666666666664,
+    "active_detections": 2
+  },
+  {
+    "name": "1161.jpg",
+    "foreground_area": 0.6667770833333333,
+    "foreground_fixation_fraction": 0.9338842975206612,
+    "active_detections": 4
+  },
+  {
+    "name": "1162.jpg",
+    "foreground_area": 0.8575979166666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1163.jpg",
+    "foreground_area": 0.10026875,
+    "foreground_fixation_fraction": 0.19444444444444445,
+    "active_detections": 1
+  },
+  {
+    "name": "1164.jpg",
+    "foreground_area": 0.0238125,
+    "foreground_fixation_fraction": 0.7009345794392523,
+    "active_detections": 2
+  },
+  {
+    "name": "1165.jpg",
+    "foreground_area": 0.2435875,
+    "foreground_fixation_fraction": 0.5899280575539568,
+    "active_detections": 3
+  },
+  {
+    "name": "1166.jpg",
+    "foreground_area": 0.3051270833333333,
+    "foreground_fixation_fraction": 0.248,
+    "active_detections": 1
+  },
+  {
+    "name": "1167.jpg",
+    "foreground_area": 0.8541625,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1168.jpg",
+    "foreground_area": 0.6940041666666668,
+    "foreground_fixation_fraction": 0.7777777777777778,
+    "active_detections": 3
+  },
+  {
+    "name": "1169.jpg",
+    "foreground_area": 0.8370437500000001,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1170.jpg",
+    "foreground_area": 0.6839958333333334,
+    "foreground_fixation_fraction": 0.9672131147540983,
+    "active_detections": 3
+  },
+  {
+    "name": "1171.jpg",
+    "foreground_area": 0.29213541666666665,
+    "foreground_fixation_fraction": 0.8267716535433071,
+    "active_detections": 2
+  },
+  {
+    "name": "1172.jpg",
+    "foreground_area": 0.021025000000000002,
+    "foreground_fixation_fraction": 0.6698113207547169,
+    "active_detections": 2
+  },
+  {
+    "name": "1173.jpg",
+    "foreground_area": 0.11158541666666667,
+    "foreground_fixation_fraction": 0.6475409836065574,
+    "active_detections": 4
+  },
+  {
+    "name": "1174.jpg",
+    "foreground_area": 0.4814833333333334,
+    "foreground_fixation_fraction": 0.6641221374045801,
+    "active_detections": 3
+  },
+  {
+    "name": "1175.jpg",
+    "foreground_area": 0.22816666666666668,
+    "foreground_fixation_fraction": 0.9523809523809523,
+    "active_detections": 2
+  },
+  {
+    "name": "1176.jpg",
+    "foreground_area": 0.10245416666666665,
+    "foreground_fixation_fraction": 0.5035971223021583,
+    "active_detections": 3
+  },
+  {
+    "name": "1177.jpg",
+    "foreground_area": 0.5441833333333334,
+    "foreground_fixation_fraction": 0.8,
+    "active_detections": 2
+  },
+  {
+    "name": "1178.jpg",
+    "foreground_area": 0.728875,
+    "foreground_fixation_fraction": 0.9029850746268657,
+    "active_detections": 4
+  },
+  {
+    "name": "1179.jpg",
+    "foreground_area": 0.19578125000000002,
+    "foreground_fixation_fraction": 0.6333333333333333,
+    "active_detections": 2
+  },
+  {
+    "name": "1180.jpg",
+    "foreground_area": 0.17548333333333332,
+    "foreground_fixation_fraction": 0.9635036496350365,
+    "active_detections": 3
+  },
+  {
+    "name": "1181.jpg",
+    "foreground_area": 0.27231875,
+    "foreground_fixation_fraction": 0.7795275590551181,
+    "active_detections": 3
+  },
+  {
+    "name": "1182.jpg",
+    "foreground_area": 0.42374791666666667,
+    "foreground_fixation_fraction": 0.42857142857142855,
+    "active_detections": 1
+  },
+  {
+    "name": "1183.jpg",
+    "foreground_area": 0.29502083333333334,
+    "foreground_fixation_fraction": 0.5619834710743802,
+    "active_detections": 1
+  },
+  {
+    "name": "1184.jpg",
+    "foreground_area": 0.46731875,
+    "foreground_fixation_fraction": 0.7647058823529411,
+    "active_detections": 2
+  },
+  {
+    "name": "1185.jpg",
+    "foreground_area": 0.1413791666666667,
+    "foreground_fixation_fraction": 0.6976744186046512,
+    "active_detections": 4
+  },
+  {
+    "name": "1186.jpg",
+    "foreground_area": 0.3302458333333333,
+    "foreground_fixation_fraction": 0.9298245614035088,
+    "active_detections": 5
+  },
+  {
+    "name": "1187.jpg",
+    "foreground_area": 0.9685062499999999,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1188.jpg",
+    "foreground_area": 0.3922208333333333,
+    "foreground_fixation_fraction": 0.5736434108527132,
+    "active_detections": 5
+  },
+  {
+    "name": "1189.jpg",
+    "foreground_area": 0.9075604166666668,
+    "foreground_fixation_fraction": 0.9469026548672567,
+    "active_detections": 4
+  },
+  {
+    "name": "1190.jpg",
+    "foreground_area": 0.68026875,
+    "foreground_fixation_fraction": 0.9090909090909091,
+    "active_detections": 5
+  },
+  {
+    "name": "1191.jpg",
+    "foreground_area": 0.05869375,
+    "foreground_fixation_fraction": 0.5367647058823529,
+    "active_detections": 2
+  },
+  {
+    "name": "1192.jpg",
+    "foreground_area": 0.977625,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1193.jpg",
+    "foreground_area": 0.171425,
+    "foreground_fixation_fraction": 0.226890756302521,
+    "active_detections": 5
+  },
+  {
+    "name": "1194.jpg",
+    "foreground_area": 0.56329375,
+    "foreground_fixation_fraction": 0.984,
+    "active_detections": 4
+  },
+  {
+    "name": "1195.jpg",
+    "foreground_area": 0.2167625,
+    "foreground_fixation_fraction": 0.7899159663865546,
+    "active_detections": 3
+  },
+  {
+    "name": "1196.jpg",
+    "foreground_area": 0.1375,
+    "foreground_fixation_fraction": 0.5321100917431193,
+    "active_detections": 1
+  },
+  {
+    "name": "1197.jpg",
+    "foreground_area": 0.06887916666666667,
+    "foreground_fixation_fraction": 0.18181818181818182,
+    "active_detections": 1
+  },
+  {
+    "name": "1198.jpg",
+    "foreground_area": 0.90386875,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 9
+  },
+  {
+    "name": "1199.jpg",
+    "foreground_area": 0.5896895833333333,
+    "foreground_fixation_fraction": 0.811965811965812,
+    "active_detections": 2
+  },
+  {
+    "name": "1200.jpg",
+    "foreground_area": 0.3553395833333333,
+    "foreground_fixation_fraction": 0.9022556390977443,
+    "active_detections": 2
+  },
+  {
+    "name": "1201.jpg",
+    "foreground_area": 0.8978604166666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 5
+  },
+  {
+    "name": "1202.jpg",
+    "foreground_area": 0.22293333333333334,
+    "foreground_fixation_fraction": 0.7398373983739838,
+    "active_detections": 1
+  },
+  {
+    "name": "1203.jpg",
+    "foreground_area": 0.30765624999999996,
+    "foreground_fixation_fraction": 0.9285714285714286,
+    "active_detections": 3
+  },
+  {
+    "name": "1204.jpg",
+    "foreground_area": 0.39510416666666665,
+    "foreground_fixation_fraction": 0.4701492537313433,
+    "active_detections": 3
+  },
+  {
+    "name": "1205.jpg",
+    "foreground_area": 0.6684875,
+    "foreground_fixation_fraction": 0.9770992366412213,
+    "active_detections": 3
+  },
+  {
+    "name": "1206.jpg",
+    "foreground_area": 0.5198729166666667,
+    "foreground_fixation_fraction": 0.9274193548387096,
+    "active_detections": 2
+  },
+  {
+    "name": "1207.jpg",
+    "foreground_area": 0.4415395833333334,
+    "foreground_fixation_fraction": 0.9124087591240876,
+    "active_detections": 7
+  },
+  {
+    "name": "1208.jpg",
+    "foreground_area": 0.9466791666666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1209.jpg",
+    "foreground_area": 0.38360625,
+    "foreground_fixation_fraction": 0.7954545454545454,
+    "active_detections": 4
+  },
+  {
+    "name": "1210.jpg",
+    "foreground_area": 0.9066895833333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1211.jpg",
+    "foreground_area": 0.20005,
+    "foreground_fixation_fraction": 0.4793388429752066,
+    "active_detections": 3
+  },
+  {
+    "name": "1212.jpg",
+    "foreground_area": 0.5737458333333334,
+    "foreground_fixation_fraction": 0.9022556390977443,
+    "active_detections": 3
+  },
+  {
+    "name": "1213.jpg",
+    "foreground_area": 0.14072708333333334,
+    "foreground_fixation_fraction": 0.9754098360655737,
+    "active_detections": 4
+  },
+  {
+    "name": "1214.jpg",
+    "foreground_area": 0.11705625000000001,
+    "foreground_fixation_fraction": 0.5546875,
+    "active_detections": 3
+  },
+  {
+    "name": "1215.jpg",
+    "foreground_area": 0.7805354166666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1216.jpg",
+    "foreground_area": 0.12245625,
+    "foreground_fixation_fraction": 0.72,
+    "active_detections": 4
+  },
+  {
+    "name": "1217.jpg",
+    "foreground_area": 0.9676875,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 1
+  },
+  {
+    "name": "1218.jpg",
+    "foreground_area": 0.7249333333333333,
+    "foreground_fixation_fraction": 0.9928571428571429,
+    "active_detections": 6
+  },
+  {
+    "name": "1219.jpg",
+    "foreground_area": 0.06146875,
+    "foreground_fixation_fraction": 0.5130434782608696,
+    "active_detections": 1
+  },
+  {
+    "name": "1220.jpg",
+    "foreground_area": 0.13187291666666667,
+    "foreground_fixation_fraction": 0.463768115942029,
+    "active_detections": 2
+  },
+  {
+    "name": "1221.jpg",
+    "foreground_area": 0.38276875,
+    "foreground_fixation_fraction": 0.5333333333333333,
+    "active_detections": 2
+  },
+  {
+    "name": "1222.jpg",
+    "foreground_area": 0.36708749999999996,
+    "foreground_fixation_fraction": 0.837037037037037,
+    "active_detections": 4
+  },
+  {
+    "name": "1223.jpg",
+    "foreground_area": 0.3161583333333333,
+    "foreground_fixation_fraction": 0.6201550387596899,
+    "active_detections": 2
+  },
+  {
+    "name": "1224.jpg",
+    "foreground_area": 0.28589791666666664,
+    "foreground_fixation_fraction": 0.8487394957983193,
+    "active_detections": 4
+  },
+  {
+    "name": "1225.jpg",
+    "foreground_area": 0.15034583333333335,
+    "foreground_fixation_fraction": 0.7722772277227723,
+    "active_detections": 3
+  },
+  {
+    "name": "1226.jpg",
+    "foreground_area": 0.3231791666666667,
+    "foreground_fixation_fraction": 0.8931297709923665,
+    "active_detections": 5
+  },
+  {
+    "name": "1227.jpg",
+    "foreground_area": 0.6143833333333333,
+    "foreground_fixation_fraction": 0.908256880733945,
+    "active_detections": 4
+  },
+  {
+    "name": "1228.jpg",
+    "foreground_area": 0.23589374999999999,
+    "foreground_fixation_fraction": 0.907563025210084,
+    "active_detections": 2
+  },
+  {
+    "name": "1229.jpg",
+    "foreground_area": 0.9546625,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1230.jpg",
+    "foreground_area": 0.18085625,
+    "foreground_fixation_fraction": 0.717741935483871,
+    "active_detections": 3
+  },
+  {
+    "name": "1231.jpg",
+    "foreground_area": 0.9767333333333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1232.jpg",
+    "foreground_area": 0.03387916666666667,
+    "foreground_fixation_fraction": 0.3883495145631068,
+    "active_detections": 1
+  },
+  {
+    "name": "1233.jpg",
+    "foreground_area": 0.3622395833333333,
+    "foreground_fixation_fraction": 0.6782608695652174,
+    "active_detections": 6
+  },
+  {
+    "name": "1234.jpg",
+    "foreground_area": 0.11863333333333334,
+    "foreground_fixation_fraction": 0.48091603053435117,
+    "active_detections": 3
+  },
+  {
+    "name": "1235.jpg",
+    "foreground_area": 0.5500666666666667,
+    "foreground_fixation_fraction": 0.9910714285714286,
+    "active_detections": 2
+  },
+  {
+    "name": "1236.jpg",
+    "foreground_area": 0.44804583333333337,
+    "foreground_fixation_fraction": 0.6666666666666666,
+    "active_detections": 2
+  },
+  {
+    "name": "1237.jpg",
+    "foreground_area": 0.2800479166666667,
+    "foreground_fixation_fraction": 0.7463768115942029,
+    "active_detections": 4
+  },
+  {
+    "name": "1238.jpg",
+    "foreground_area": 0.1821875,
+    "foreground_fixation_fraction": 0.47794117647058826,
+    "active_detections": 1
+  },
+  {
+    "name": "1239.jpg",
+    "foreground_area": 0.9655520833333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1240.jpg",
+    "foreground_area": 0.410375,
+    "foreground_fixation_fraction": 0.8333333333333334,
+    "active_detections": 1
+  },
+  {
+    "name": "1241.jpg",
+    "foreground_area": 0.04489166666666666,
+    "foreground_fixation_fraction": 0.3617021276595745,
+    "active_detections": 2
+  },
+  {
+    "name": "1242.jpg",
+    "foreground_area": 0.02706875,
+    "foreground_fixation_fraction": 0.31896551724137934,
+    "active_detections": 1
+  },
+  {
+    "name": "1243.jpg",
+    "foreground_area": 0.18505208333333334,
+    "foreground_fixation_fraction": 0.416,
+    "active_detections": 1
+  },
+  {
+    "name": "1244.jpg",
+    "foreground_area": 0.337225,
+    "foreground_fixation_fraction": 0.7301587301587301,
+    "active_detections": 1
+  },
+  {
+    "name": "1245.jpg",
+    "foreground_area": 0.0,
+    "foreground_fixation_fraction": 0.0,
+    "active_detections": 0
+  },
+  {
+    "name": "1246.jpg",
+    "foreground_area": 0.10516875,
+    "foreground_fixation_fraction": 0.06976744186046512,
+    "active_detections": 1
+  },
+  {
+    "name": "1247.jpg",
+    "foreground_area": 0.17935,
+    "foreground_fixation_fraction": 0.28225806451612906,
+    "active_detections": 2
+  },
+  {
+    "name": "1248.jpg",
+    "foreground_area": 0.33906875000000003,
+    "foreground_fixation_fraction": 0.9292035398230089,
+    "active_detections": 3
+  },
+  {
+    "name": "1249.jpg",
+    "foreground_area": 0.056785416666666665,
+    "foreground_fixation_fraction": 0.45,
+    "active_detections": 1
+  },
+  {
+    "name": "1250.jpg",
+    "foreground_area": 0.9866666666666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1251.jpg",
+    "foreground_area": 0.27555,
+    "foreground_fixation_fraction": 0.5299145299145299,
+    "active_detections": 1
+  },
+  {
+    "name": "1252.jpg",
+    "foreground_area": 0.2653125,
+    "foreground_fixation_fraction": 0.23255813953488372,
+    "active_detections": 1
+  },
+  {
+    "name": "1253.jpg",
+    "foreground_area": 0.03,
+    "foreground_fixation_fraction": 0.23015873015873015,
+    "active_detections": 1
+  },
+  {
+    "name": "1254.jpg",
+    "foreground_area": 0.7671437500000001,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1255.jpg",
+    "foreground_area": 0.43542083333333337,
+    "foreground_fixation_fraction": 0.9931972789115646,
+    "active_detections": 3
+  },
+  {
+    "name": "1256.jpg",
+    "foreground_area": 0.6359499999999999,
+    "foreground_fixation_fraction": 0.8813559322033898,
+    "active_detections": 4
+  },
+  {
+    "name": "1257.jpg",
+    "foreground_area": 0.11265416666666667,
+    "foreground_fixation_fraction": 0.39855072463768115,
+    "active_detections": 4
+  },
+  {
+    "name": "1258.jpg",
+    "foreground_area": 0.2149375,
+    "foreground_fixation_fraction": 0.8888888888888888,
+    "active_detections": 3
+  },
+  {
+    "name": "1259.jpg",
+    "foreground_area": 0.8316666666666667,
+    "foreground_fixation_fraction": 0.9035087719298246,
+    "active_detections": 1
+  },
+  {
+    "name": "1260.jpg",
+    "foreground_area": 0.5236166666666665,
+    "foreground_fixation_fraction": 0.9432624113475178,
+    "active_detections": 7
+  },
+  {
+    "name": "1261.jpg",
+    "foreground_area": 0.26160625,
+    "foreground_fixation_fraction": 0.34146341463414637,
+    "active_detections": 6
+  },
+  {
+    "name": "1262.jpg",
+    "foreground_area": 0.55398125,
+    "foreground_fixation_fraction": 0.8907563025210085,
+    "active_detections": 5
+  },
+  {
+    "name": "1263.jpg",
+    "foreground_area": 0.760525,
+    "foreground_fixation_fraction": 0.9923664122137404,
+    "active_detections": 3
+  },
+  {
+    "name": "1264.jpg",
+    "foreground_area": 0.1789458333333333,
+    "foreground_fixation_fraction": 0.6379310344827587,
+    "active_detections": 3
+  },
+  {
+    "name": "1265.jpg",
+    "foreground_area": 0.17885625000000002,
+    "foreground_fixation_fraction": 0.36619718309859156,
+    "active_detections": 3
+  },
+  {
+    "name": "1266.jpg",
+    "foreground_area": 0.5981770833333333,
+    "foreground_fixation_fraction": 0.9516129032258065,
+    "active_detections": 4
+  },
+  {
+    "name": "1267.jpg",
+    "foreground_area": 0.16639583333333333,
+    "foreground_fixation_fraction": 0.4765625,
+    "active_detections": 1
+  },
+  {
+    "name": "1268.jpg",
+    "foreground_area": 0.12516875,
+    "foreground_fixation_fraction": 0.417910447761194,
+    "active_detections": 2
+  },
+  {
+    "name": "1269.jpg",
+    "foreground_area": 0.022604166666666668,
+    "foreground_fixation_fraction": 0.4107142857142857,
+    "active_detections": 1
+  },
+  {
+    "name": "1270.jpg",
+    "foreground_area": 0.9326687499999999,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 5
+  },
+  {
+    "name": "1271.jpg",
+    "foreground_area": 0.16638749999999997,
+    "foreground_fixation_fraction": 0.816,
+    "active_detections": 6
+  },
+  {
+    "name": "1272.jpg",
+    "foreground_area": 0.9683333333333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1273.jpg",
+    "foreground_area": 0.9631166666666666,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1274.jpg",
+    "foreground_area": 0.36033333333333334,
+    "foreground_fixation_fraction": 0.9264705882352942,
+    "active_detections": 2
+  },
+  {
+    "name": "1275.jpg",
+    "foreground_area": 0.0708,
+    "foreground_fixation_fraction": 0.1092436974789916,
+    "active_detections": 1
+  },
+  {
+    "name": "1276.jpg",
+    "foreground_area": 0.291925,
+    "foreground_fixation_fraction": 0.6834532374100719,
+    "active_detections": 4
+  },
+  {
+    "name": "1277.jpg",
+    "foreground_area": 0.71073125,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1278.jpg",
+    "foreground_area": 0.5739187499999999,
+    "foreground_fixation_fraction": 0.935251798561151,
+    "active_detections": 3
+  },
+  {
+    "name": "1279.jpg",
+    "foreground_area": 0.5677833333333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1280.jpg",
+    "foreground_area": 0.19520208333333333,
+    "foreground_fixation_fraction": 0.21238938053097345,
+    "active_detections": 3
+  },
+  {
+    "name": "1281.jpg",
+    "foreground_area": 0.20778124999999997,
+    "foreground_fixation_fraction": 0.4426229508196721,
+    "active_detections": 2
+  },
+  {
+    "name": "1282.jpg",
+    "foreground_area": 0.8253145833333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 6
+  },
+  {
+    "name": "1283.jpg",
+    "foreground_area": 0.0711875,
+    "foreground_fixation_fraction": 0.4426229508196721,
+    "active_detections": 1
+  },
+  {
+    "name": "1284.jpg",
+    "foreground_area": 0.13748749999999998,
+    "foreground_fixation_fraction": 0.3435114503816794,
+    "active_detections": 2
+  },
+  {
+    "name": "1285.jpg",
+    "foreground_area": 0.7749479166666666,
+    "foreground_fixation_fraction": 0.9852941176470589,
+    "active_detections": 3
+  },
+  {
+    "name": "1286.jpg",
+    "foreground_area": 0.5794958333333333,
+    "foreground_fixation_fraction": 0.9435483870967742,
+    "active_detections": 2
+  },
+  {
+    "name": "1287.jpg",
+    "foreground_area": 0.7938354166666667,
+    "foreground_fixation_fraction": 0.9932432432432432,
+    "active_detections": 3
+  },
+  {
+    "name": "1288.jpg",
+    "foreground_area": 0.8559104166666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1289.jpg",
+    "foreground_area": 0.36453125000000003,
+    "foreground_fixation_fraction": 0.9732142857142857,
+    "active_detections": 3
+  },
+  {
+    "name": "1290.jpg",
+    "foreground_area": 0.26295208333333336,
+    "foreground_fixation_fraction": 0.7727272727272727,
+    "active_detections": 4
+  },
+  {
+    "name": "1291.jpg",
+    "foreground_area": 0.6115208333333334,
+    "foreground_fixation_fraction": 0.7401574803149606,
+    "active_detections": 4
+  },
+  {
+    "name": "1292.jpg",
+    "foreground_area": 0.6422770833333332,
+    "foreground_fixation_fraction": 0.975609756097561,
+    "active_detections": 3
+  },
+  {
+    "name": "1293.jpg",
+    "foreground_area": 0.011375,
+    "foreground_fixation_fraction": 0.3684210526315789,
+    "active_detections": 1
+  },
+  {
+    "name": "1294.jpg",
+    "foreground_area": 0.2492875,
+    "foreground_fixation_fraction": 0.3695652173913043,
+    "active_detections": 2
+  },
+  {
+    "name": "1295.jpg",
+    "foreground_area": 0.5396104166666666,
+    "foreground_fixation_fraction": 0.8728813559322034,
+    "active_detections": 4
+  },
+  {
+    "name": "1296.jpg",
+    "foreground_area": 0.9449458333333334,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1297.jpg",
+    "foreground_area": 0.42885208333333336,
+    "foreground_fixation_fraction": 0.7962962962962963,
+    "active_detections": 2
+  },
+  {
+    "name": "1298.jpg",
+    "foreground_area": 0.6352104166666667,
+    "foreground_fixation_fraction": 0.8507462686567164,
+    "active_detections": 5
+  },
+  {
+    "name": "1299.jpg",
+    "foreground_area": 0.44470625,
+    "foreground_fixation_fraction": 0.8515625,
+    "active_detections": 5
+  },
+  {
+    "name": "1300.jpg",
+    "foreground_area": 0.7496541666666667,
+    "foreground_fixation_fraction": 0.7709923664122137,
+    "active_detections": 5
+  },
+  {
+    "name": "1301.jpg",
+    "foreground_area": 0.32588125,
+    "foreground_fixation_fraction": 0.5078125,
+    "active_detections": 2
+  },
+  {
+    "name": "1302.jpg",
+    "foreground_area": 0.45183958333333335,
+    "foreground_fixation_fraction": 0.7698412698412699,
+    "active_detections": 2
+  },
+  {
+    "name": "1303.jpg",
+    "foreground_area": 0.46593958333333335,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1304.jpg",
+    "foreground_area": 0.5555208333333334,
+    "foreground_fixation_fraction": 0.9741379310344828,
+    "active_detections": 3
+  },
+  {
+    "name": "1305.jpg",
+    "foreground_area": 0.9407708333333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1306.jpg",
+    "foreground_area": 0.9450000000000001,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1307.jpg",
+    "foreground_area": 0.9286604166666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 5
+  },
+  {
+    "name": "1308.jpg",
+    "foreground_area": 0.35751875,
+    "foreground_fixation_fraction": 0.7603305785123967,
+    "active_detections": 2
+  },
+  {
+    "name": "1309.jpg",
+    "foreground_area": 0.23765,
+    "foreground_fixation_fraction": 0.7355371900826446,
+    "active_detections": 7
+  },
+  {
+    "name": "1310.jpg",
+    "foreground_area": 0.5322270833333334,
+    "foreground_fixation_fraction": 0.9590163934426229,
+    "active_detections": 6
+  },
+  {
+    "name": "1311.jpg",
+    "foreground_area": 0.0715,
+    "foreground_fixation_fraction": 0.49107142857142855,
+    "active_detections": 1
+  },
+  {
+    "name": "1312.jpg",
+    "foreground_area": 0.695025,
+    "foreground_fixation_fraction": 0.9692307692307692,
+    "active_detections": 3
+  },
+  {
+    "name": "1313.jpg",
+    "foreground_area": 0.51965625,
+    "foreground_fixation_fraction": 0.525,
+    "active_detections": 3
+  },
+  {
+    "name": "1314.jpg",
+    "foreground_area": 0.27032708333333333,
+    "foreground_fixation_fraction": 0.6782608695652174,
+    "active_detections": 3
+  },
+  {
+    "name": "1315.jpg",
+    "foreground_area": 0.7349020833333333,
+    "foreground_fixation_fraction": 0.9612403100775194,
+    "active_detections": 6
+  },
+  {
+    "name": "1316.jpg",
+    "foreground_area": 0.31238125,
+    "foreground_fixation_fraction": 0.8717948717948718,
+    "active_detections": 4
+  },
+  {
+    "name": "1317.jpg",
+    "foreground_area": 0.9639375,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 1
+  },
+  {
+    "name": "1318.jpg",
+    "foreground_area": 0.2993854166666666,
+    "foreground_fixation_fraction": 0.8207547169811321,
+    "active_detections": 3
+  },
+  {
+    "name": "1319.jpg",
+    "foreground_area": 0.3877125,
+    "foreground_fixation_fraction": 0.688,
+    "active_detections": 1
+  },
+  {
+    "name": "1320.jpg",
+    "foreground_area": 0.9171854166666666,
+    "foreground_fixation_fraction": 0.9915254237288136,
+    "active_detections": 2
+  },
+  {
+    "name": "1321.jpg",
+    "foreground_area": 0.95421875,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 1
+  },
+  {
+    "name": "1322.jpg",
+    "foreground_area": 0.4121395833333333,
+    "foreground_fixation_fraction": 0.7844827586206896,
+    "active_detections": 3
+  },
+  {
+    "name": "1323.jpg",
+    "foreground_area": 0.04096875,
+    "foreground_fixation_fraction": 0.11016949152542373,
+    "active_detections": 1
+  },
+  {
+    "name": "1324.jpg",
+    "foreground_area": 0.25685625,
+    "foreground_fixation_fraction": 0.568,
+    "active_detections": 2
+  },
+  {
+    "name": "1325.jpg",
+    "foreground_area": 0.6943,
+    "foreground_fixation_fraction": 0.952755905511811,
+    "active_detections": 2
+  },
+  {
+    "name": "1326.jpg",
+    "foreground_area": 0.3087,
+    "foreground_fixation_fraction": 0.5671641791044776,
+    "active_detections": 3
+  },
+  {
+    "name": "1327.jpg",
+    "foreground_area": 0.7053458333333333,
+    "foreground_fixation_fraction": 0.9586776859504132,
+    "active_detections": 4
+  },
+  {
+    "name": "1328.jpg",
+    "foreground_area": 0.43403125000000004,
+    "foreground_fixation_fraction": 0.7833333333333333,
+    "active_detections": 5
+  },
+  {
+    "name": "1329.jpg",
+    "foreground_area": 0.19276041666666668,
+    "foreground_fixation_fraction": 0.908256880733945,
+    "active_detections": 3
+  },
+  {
+    "name": "1330.jpg",
+    "foreground_area": 0.6442666666666667,
+    "foreground_fixation_fraction": 0.9905660377358491,
+    "active_detections": 2
+  },
+  {
+    "name": "1331.jpg",
+    "foreground_area": 0.5746041666666667,
+    "foreground_fixation_fraction": 0.992,
+    "active_detections": 2
+  },
+  {
+    "name": "1332.jpg",
+    "foreground_area": 0.7505604166666667,
+    "foreground_fixation_fraction": 0.90625,
+    "active_detections": 5
+  },
+  {
+    "name": "1333.jpg",
+    "foreground_area": 0.5712541666666666,
+    "foreground_fixation_fraction": 0.9917355371900827,
+    "active_detections": 2
+  },
+  {
+    "name": "1334.jpg",
+    "foreground_area": 0.10806041666666666,
+    "foreground_fixation_fraction": 0.34558823529411764,
+    "active_detections": 2
+  },
+  {
+    "name": "1335.jpg",
+    "foreground_area": 0.8055604166666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1336.jpg",
+    "foreground_area": 0.5734,
+    "foreground_fixation_fraction": 0.9919354838709677,
+    "active_detections": 6
+  },
+  {
+    "name": "1337.jpg",
+    "foreground_area": 0.23423125,
+    "foreground_fixation_fraction": 0.45871559633027525,
+    "active_detections": 2
+  },
+  {
+    "name": "1338.jpg",
+    "foreground_area": 0.420375,
+    "foreground_fixation_fraction": 0.8976377952755905,
+    "active_detections": 7
+  },
+  {
+    "name": "1339.jpg",
+    "foreground_area": 0.5887125000000001,
+    "foreground_fixation_fraction": 0.8416666666666667,
+    "active_detections": 5
+  },
+  {
+    "name": "1340.jpg",
+    "foreground_area": 0.2714416666666667,
+    "foreground_fixation_fraction": 0.9453125,
+    "active_detections": 3
+  },
+  {
+    "name": "1341.jpg",
+    "foreground_area": 0.16170833333333334,
+    "foreground_fixation_fraction": 0.689922480620155,
+    "active_detections": 2
+  },
+  {
+    "name": "1342.jpg",
+    "foreground_area": 0.1918,
+    "foreground_fixation_fraction": 0.8968253968253969,
+    "active_detections": 2
+  },
+  {
+    "name": "1343.jpg",
+    "foreground_area": 0.0927875,
+    "foreground_fixation_fraction": 0.371900826446281,
+    "active_detections": 2
+  },
+  {
+    "name": "1344.jpg",
+    "foreground_area": 0.7952645833333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 6
+  },
+  {
+    "name": "1345.jpg",
+    "foreground_area": 0.34825,
+    "foreground_fixation_fraction": 0.6363636363636364,
+    "active_detections": 2
+  },
+  {
+    "name": "1346.jpg",
+    "foreground_area": 0.19029791666666668,
+    "foreground_fixation_fraction": 0.8135593220338984,
+    "active_detections": 2
+  },
+  {
+    "name": "1347.jpg",
+    "foreground_area": 0.349125,
+    "foreground_fixation_fraction": 0.2835820895522388,
+    "active_detections": 1
+  },
+  {
+    "name": "1348.jpg",
+    "foreground_area": 0.14536666666666667,
+    "foreground_fixation_fraction": 0.9259259259259259,
+    "active_detections": 2
+  },
+  {
+    "name": "1349.jpg",
+    "foreground_area": 0.48237708333333335,
+    "foreground_fixation_fraction": 0.8715596330275229,
+    "active_detections": 2
+  },
+  {
+    "name": "1350.jpg",
+    "foreground_area": 0.4150125,
+    "foreground_fixation_fraction": 0.7142857142857143,
+    "active_detections": 2
+  },
+  {
+    "name": "1351.jpg",
+    "foreground_area": 0.2954104166666667,
+    "foreground_fixation_fraction": 0.5785123966942148,
+    "active_detections": 1
+  },
+  {
+    "name": "1352.jpg",
+    "foreground_area": 0.9002583333333334,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 5
+  },
+  {
+    "name": "1353.jpg",
+    "foreground_area": 0.48721458333333334,
+    "foreground_fixation_fraction": 0.943089430894309,
+    "active_detections": 2
+  },
+  {
+    "name": "1354.jpg",
+    "foreground_area": 0.45459375,
+    "foreground_fixation_fraction": 0.8813559322033898,
+    "active_detections": 2
+  },
+  {
+    "name": "1355.jpg",
+    "foreground_area": 0.6696041666666667,
+    "foreground_fixation_fraction": 0.860655737704918,
+    "active_detections": 3
+  },
+  {
+    "name": "1356.jpg",
+    "foreground_area": 0.4616166666666667,
+    "foreground_fixation_fraction": 0.9779411764705882,
+    "active_detections": 4
+  },
+  {
+    "name": "1357.jpg",
+    "foreground_area": 0.9700166666666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1358.jpg",
+    "foreground_area": 0.23145833333333332,
+    "foreground_fixation_fraction": 0.3333333333333333,
+    "active_detections": 1
+  },
+  {
+    "name": "1359.jpg",
+    "foreground_area": 0.24708333333333332,
+    "foreground_fixation_fraction": 0.9618320610687023,
+    "active_detections": 2
+  },
+  {
+    "name": "1360.jpg",
+    "foreground_area": 0.5223749999999999,
+    "foreground_fixation_fraction": 0.847457627118644,
+    "active_detections": 3
+  },
+  {
+    "name": "1361.jpg",
+    "foreground_area": 0.9673354166666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1362.jpg",
+    "foreground_area": 0.8444291666666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 6
+  },
+  {
+    "name": "1363.jpg",
+    "foreground_area": 0.39670625,
+    "foreground_fixation_fraction": 0.5948275862068966,
+    "active_detections": 3
+  },
+  {
+    "name": "1364.jpg",
+    "foreground_area": 0.25308749999999997,
+    "foreground_fixation_fraction": 0.944,
+    "active_detections": 5
+  },
+  {
+    "name": "1365.jpg",
+    "foreground_area": 0.7461666666666666,
+    "foreground_fixation_fraction": 0.9747899159663865,
+    "active_detections": 5
+  },
+  {
+    "name": "1366.jpg",
+    "foreground_area": 0.20621458333333334,
+    "foreground_fixation_fraction": 0.72,
+    "active_detections": 3
+  },
+  {
+    "name": "1367.jpg",
+    "foreground_area": 0.9954208333333334,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1368.jpg",
+    "foreground_area": 0.7131562499999999,
+    "foreground_fixation_fraction": 0.957983193277311,
+    "active_detections": 4
+  },
+  {
+    "name": "1369.jpg",
+    "foreground_area": 0.40774374999999996,
+    "foreground_fixation_fraction": 0.5467625899280576,
+    "active_detections": 3
+  },
+  {
+    "name": "1370.jpg",
+    "foreground_area": 0.17166458333333334,
+    "foreground_fixation_fraction": 0.864,
+    "active_detections": 2
+  },
+  {
+    "name": "1371.jpg",
+    "foreground_area": 0.9690645833333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1372.jpg",
+    "foreground_area": 0.8862666666666666,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1373.jpg",
+    "foreground_area": 0.36261250000000006,
+    "foreground_fixation_fraction": 0.9292035398230089,
+    "active_detections": 5
+  },
+  {
+    "name": "1374.jpg",
+    "foreground_area": 0.5670604166666666,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1375.jpg",
+    "foreground_area": 0.23468125,
+    "foreground_fixation_fraction": 0.972972972972973,
+    "active_detections": 2
+  },
+  {
+    "name": "1376.jpg",
+    "foreground_area": 0.6230125,
+    "foreground_fixation_fraction": 0.6589147286821705,
+    "active_detections": 1
+  },
+  {
+    "name": "1377.jpg",
+    "foreground_area": 0.335475,
+    "foreground_fixation_fraction": 0.8,
+    "active_detections": 2
+  },
+  {
+    "name": "1378.jpg",
+    "foreground_area": 0.7846395833333334,
+    "foreground_fixation_fraction": 0.9912280701754386,
+    "active_detections": 3
+  },
+  {
+    "name": "1379.jpg",
+    "foreground_area": 0.3901,
+    "foreground_fixation_fraction": 0.896,
+    "active_detections": 1
+  },
+  {
+    "name": "1380.jpg",
+    "foreground_area": 0.16209375,
+    "foreground_fixation_fraction": 0.7844827586206896,
+    "active_detections": 1
+  },
+  {
+    "name": "1381.jpg",
+    "foreground_area": 0.8732854166666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1382.jpg",
+    "foreground_area": 0.36977916666666666,
+    "foreground_fixation_fraction": 0.7301587301587301,
+    "active_detections": 3
+  },
+  {
+    "name": "1383.jpg",
+    "foreground_area": 0.6024499999999999,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1384.jpg",
+    "foreground_area": 0.20430625000000002,
+    "foreground_fixation_fraction": 0.3851851851851852,
+    "active_detections": 2
+  },
+  {
+    "name": "1385.jpg",
+    "foreground_area": 0.5518166666666666,
+    "foreground_fixation_fraction": 0.956140350877193,
+    "active_detections": 3
+  },
+  {
+    "name": "1386.jpg",
+    "foreground_area": 0.7386229166666667,
+    "foreground_fixation_fraction": 0.92,
+    "active_detections": 4
+  },
+  {
+    "name": "1387.jpg",
+    "foreground_area": 0.9390937500000001,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1388.jpg",
+    "foreground_area": 0.3770375,
+    "foreground_fixation_fraction": 0.48717948717948717,
+    "active_detections": 2
+  },
+  {
+    "name": "1389.jpg",
+    "foreground_area": 0.4517291666666666,
+    "foreground_fixation_fraction": 0.5895522388059702,
+    "active_detections": 5
+  },
+  {
+    "name": "1390.jpg",
+    "foreground_area": 0.15785,
+    "foreground_fixation_fraction": 0.7723577235772358,
+    "active_detections": 3
+  },
+  {
+    "name": "1391.jpg",
+    "foreground_area": 0.9465166666666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1392.jpg",
+    "foreground_area": 0.24008124999999997,
+    "foreground_fixation_fraction": 0.7238095238095238,
+    "active_detections": 9
+  },
+  {
+    "name": "1393.jpg",
+    "foreground_area": 0.29397083333333335,
+    "foreground_fixation_fraction": 0.9032258064516129,
+    "active_detections": 3
+  },
+  {
+    "name": "1394.jpg",
+    "foreground_area": 0.6739416666666667,
+    "foreground_fixation_fraction": 0.8986486486486487,
+    "active_detections": 3
+  },
+  {
+    "name": "1395.jpg",
+    "foreground_area": 0.13116041666666667,
+    "foreground_fixation_fraction": 0.23809523809523808,
+    "active_detections": 2
+  },
+  {
+    "name": "1396.jpg",
+    "foreground_area": 0.3501270833333333,
+    "foreground_fixation_fraction": 0.6643835616438356,
+    "active_detections": 4
+  },
+  {
+    "name": "1397.jpg",
+    "foreground_area": 0.253075,
+    "foreground_fixation_fraction": 0.5526315789473685,
+    "active_detections": 3
+  },
+  {
+    "name": "1398.jpg",
+    "foreground_area": 0.43576458333333334,
+    "foreground_fixation_fraction": 0.9834710743801653,
+    "active_detections": 2
+  },
+  {
+    "name": "1399.jpg",
+    "foreground_area": 0.42972083333333333,
+    "foreground_fixation_fraction": 0.8429752066115702,
+    "active_detections": 2
+  },
+  {
+    "name": "1400.jpg",
+    "foreground_area": 0.702375,
+    "foreground_fixation_fraction": 0.9758064516129032,
+    "active_detections": 2
+  },
+  {
+    "name": "1401.jpg",
+    "foreground_area": 0.7903979166666667,
+    "foreground_fixation_fraction": 0.9714285714285714,
+    "active_detections": 3
+  },
+  {
+    "name": "1402.jpg",
+    "foreground_area": 0.2542979166666667,
+    "foreground_fixation_fraction": 0.925,
+    "active_detections": 3
+  },
+  {
+    "name": "1403.jpg",
+    "foreground_area": 0.09512916666666668,
+    "foreground_fixation_fraction": 0.5882352941176471,
+    "active_detections": 3
+  },
+  {
+    "name": "1404.jpg",
+    "foreground_area": 0.3223166666666667,
+    "foreground_fixation_fraction": 0.8203125,
+    "active_detections": 3
+  },
+  {
+    "name": "1405.jpg",
+    "foreground_area": 0.9076083333333335,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1406.jpg",
+    "foreground_area": 0.10886875,
+    "foreground_fixation_fraction": 0.5555555555555556,
+    "active_detections": 2
+  },
+  {
+    "name": "1407.jpg",
+    "foreground_area": 0.6959854166666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1408.jpg",
+    "foreground_area": 0.4843145833333333,
+    "foreground_fixation_fraction": 0.9420289855072463,
+    "active_detections": 2
+  },
+  {
+    "name": "1409.jpg",
+    "foreground_area": 0.6405229166666666,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1410.jpg",
+    "foreground_area": 0.8757375,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1411.jpg",
+    "foreground_area": 0.15786666666666668,
+    "foreground_fixation_fraction": 0.8731343283582089,
+    "active_detections": 5
+  },
+  {
+    "name": "1412.jpg",
+    "foreground_area": 0.39579791666666664,
+    "foreground_fixation_fraction": 0.8543046357615894,
+    "active_detections": 3
+  },
+  {
+    "name": "1413.jpg",
+    "foreground_area": 0.3208854166666667,
+    "foreground_fixation_fraction": 0.9629629629629629,
+    "active_detections": 3
+  },
+  {
+    "name": "1414.jpg",
+    "foreground_area": 0.3819041666666667,
+    "foreground_fixation_fraction": 0.9133858267716536,
+    "active_detections": 4
+  },
+  {
+    "name": "1415.jpg",
+    "foreground_area": 0.6327541666666666,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1416.jpg",
+    "foreground_area": 0.60479375,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 1
+  },
+  {
+    "name": "1417.jpg",
+    "foreground_area": 0.4952958333333333,
+    "foreground_fixation_fraction": 0.824,
+    "active_detections": 5
+  },
+  {
+    "name": "1418.jpg",
+    "foreground_area": 0.803975,
+    "foreground_fixation_fraction": 0.9482758620689655,
+    "active_detections": 5
+  },
+  {
+    "name": "1419.jpg",
+    "foreground_area": 0.11016666666666666,
+    "foreground_fixation_fraction": 0.5271317829457365,
+    "active_detections": 2
+  },
+  {
+    "name": "1420.jpg",
+    "foreground_area": 0.5456666666666665,
+    "foreground_fixation_fraction": 0.765625,
+    "active_detections": 5
+  },
+  {
+    "name": "1421.jpg",
+    "foreground_area": 0.19636874999999998,
+    "foreground_fixation_fraction": 0.6585365853658537,
+    "active_detections": 2
+  },
+  {
+    "name": "1422.jpg",
+    "foreground_area": 0.3638291666666667,
+    "foreground_fixation_fraction": 0.9291338582677166,
+    "active_detections": 4
+  },
+  {
+    "name": "1423.jpg",
+    "foreground_area": 0.851525,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1424.jpg",
+    "foreground_area": 0.5419541666666666,
+    "foreground_fixation_fraction": 0.7913043478260869,
+    "active_detections": 2
+  },
+  {
+    "name": "1425.jpg",
+    "foreground_area": 0.6551583333333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 6
+  },
+  {
+    "name": "1426.jpg",
+    "foreground_area": 0.7726041666666665,
+    "foreground_fixation_fraction": 0.9821428571428571,
+    "active_detections": 5
+  },
+  {
+    "name": "1427.jpg",
+    "foreground_area": 0.23478541666666666,
+    "foreground_fixation_fraction": 0.3082191780821918,
+    "active_detections": 3
+  },
+  {
+    "name": "1428.jpg",
+    "foreground_area": 0.8142416666666668,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1429.jpg",
+    "foreground_area": 0.34000416666666666,
+    "foreground_fixation_fraction": 0.953125,
+    "active_detections": 4
+  },
+  {
+    "name": "1430.jpg",
+    "foreground_area": 0.9238,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1431.jpg",
+    "foreground_area": 0.0801,
+    "foreground_fixation_fraction": 0.2867647058823529,
+    "active_detections": 1
+  },
+  {
+    "name": "1432.jpg",
+    "foreground_area": 0.8214625,
+    "foreground_fixation_fraction": 0.983739837398374,
+    "active_detections": 3
+  },
+  {
+    "name": "1433.jpg",
+    "foreground_area": 0.7210125000000001,
+    "foreground_fixation_fraction": 0.9583333333333334,
+    "active_detections": 2
+  },
+  {
+    "name": "1434.jpg",
+    "foreground_area": 0.3246791666666667,
+    "foreground_fixation_fraction": 0.7948717948717948,
+    "active_detections": 6
+  },
+  {
+    "name": "1435.jpg",
+    "foreground_area": 0.4361541666666667,
+    "foreground_fixation_fraction": 0.5373134328358209,
+    "active_detections": 3
+  },
+  {
+    "name": "1436.jpg",
+    "foreground_area": 0.21359791666666667,
+    "foreground_fixation_fraction": 0.6190476190476191,
+    "active_detections": 3
+  },
+  {
+    "name": "1437.jpg",
+    "foreground_area": 0.19799166666666665,
+    "foreground_fixation_fraction": 0.5338983050847458,
+    "active_detections": 2
+  },
+  {
+    "name": "1438.jpg",
+    "foreground_area": 0.10106875,
+    "foreground_fixation_fraction": 0.3548387096774194,
+    "active_detections": 1
+  },
+  {
+    "name": "1439.jpg",
+    "foreground_area": 0.36691874999999996,
+    "foreground_fixation_fraction": 0.9145299145299145,
+    "active_detections": 3
+  },
+  {
+    "name": "1440.jpg",
+    "foreground_area": 0.28955,
+    "foreground_fixation_fraction": 0.9015151515151515,
+    "active_detections": 4
+  },
+  {
+    "name": "1441.jpg",
+    "foreground_area": 0.5853125,
+    "foreground_fixation_fraction": 0.984251968503937,
+    "active_detections": 3
+  },
+  {
+    "name": "1442.jpg",
+    "foreground_area": 0.7833541666666666,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1443.jpg",
+    "foreground_area": 0.31256666666666666,
+    "foreground_fixation_fraction": 0.864,
+    "active_detections": 3
+  },
+  {
+    "name": "1444.jpg",
+    "foreground_area": 0.43261041666666666,
+    "foreground_fixation_fraction": 0.9203539823008849,
+    "active_detections": 2
+  },
+  {
+    "name": "1445.jpg",
+    "foreground_area": 0.7033104166666666,
+    "foreground_fixation_fraction": 0.9829059829059829,
+    "active_detections": 4
+  },
+  {
+    "name": "1446.jpg",
+    "foreground_area": 0.71126875,
+    "foreground_fixation_fraction": 0.9173553719008265,
+    "active_detections": 2
+  },
+  {
+    "name": "1447.jpg",
+    "foreground_area": 0.25290208333333336,
+    "foreground_fixation_fraction": 0.2867647058823529,
+    "active_detections": 1
+  },
+  {
+    "name": "1448.jpg",
+    "foreground_area": 0.48750625000000003,
+    "foreground_fixation_fraction": 0.9629629629629629,
+    "active_detections": 3
+  },
+  {
+    "name": "1449.jpg",
+    "foreground_area": 0.27973750000000003,
+    "foreground_fixation_fraction": 0.583941605839416,
+    "active_detections": 4
+  },
+  {
+    "name": "1450.jpg",
+    "foreground_area": 0.3783104166666667,
+    "foreground_fixation_fraction": 0.9457364341085271,
+    "active_detections": 3
+  },
+  {
+    "name": "1451.jpg",
+    "foreground_area": 0.5646916666666667,
+    "foreground_fixation_fraction": 0.9913793103448276,
+    "active_detections": 2
+  },
+  {
+    "name": "1452.jpg",
+    "foreground_area": 0.2980833333333333,
+    "foreground_fixation_fraction": 0.14084507042253522,
+    "active_detections": 1
+  },
+  {
+    "name": "1453.jpg",
+    "foreground_area": 0.691725,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1454.jpg",
+    "foreground_area": 0.025737499999999996,
+    "foreground_fixation_fraction": 0.7837837837837838,
+    "active_detections": 2
+  },
+  {
+    "name": "1455.jpg",
+    "foreground_area": 0.27186041666666666,
+    "foreground_fixation_fraction": 0.44696969696969696,
+    "active_detections": 2
+  },
+  {
+    "name": "1456.jpg",
+    "foreground_area": 0.38519791666666664,
+    "foreground_fixation_fraction": 0.34814814814814815,
+    "active_detections": 4
+  },
+  {
+    "name": "1457.jpg",
+    "foreground_area": 0.44034166666666663,
+    "foreground_fixation_fraction": 0.609375,
+    "active_detections": 3
+  },
+  {
+    "name": "1458.jpg",
+    "foreground_area": 0.9526166666666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1459.jpg",
+    "foreground_area": 0.8195145833333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 5
+  },
+  {
+    "name": "1460.jpg",
+    "foreground_area": 0.39612083333333337,
+    "foreground_fixation_fraction": 0.9224137931034483,
+    "active_detections": 3
+  },
+  {
+    "name": "1461.jpg",
+    "foreground_area": 0.4538833333333333,
+    "foreground_fixation_fraction": 0.8362068965517241,
+    "active_detections": 2
+  },
+  {
+    "name": "1462.jpg",
+    "foreground_area": 0.5497875000000001,
+    "foreground_fixation_fraction": 0.9473684210526315,
+    "active_detections": 3
+  },
+  {
+    "name": "1463.jpg",
+    "foreground_area": 0.11644375000000001,
+    "foreground_fixation_fraction": 0.2777777777777778,
+    "active_detections": 2
+  },
+  {
+    "name": "1464.jpg",
+    "foreground_area": 0.6876833333333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1465.jpg",
+    "foreground_area": 0.10075625,
+    "foreground_fixation_fraction": 0.49586776859504134,
+    "active_detections": 1
+  },
+  {
+    "name": "1466.jpg",
+    "foreground_area": 0.8255708333333334,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1467.jpg",
+    "foreground_area": 0.7344291666666667,
+    "foreground_fixation_fraction": 0.7164179104477612,
+    "active_detections": 2
+  },
+  {
+    "name": "1468.jpg",
+    "foreground_area": 0.35696666666666665,
+    "foreground_fixation_fraction": 0.9206349206349206,
+    "active_detections": 6
+  },
+  {
+    "name": "1469.jpg",
+    "foreground_area": 0.87611875,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 1
+  },
+  {
+    "name": "1470.jpg",
+    "foreground_area": 0.33189166666666664,
+    "foreground_fixation_fraction": 0.5572519083969466,
+    "active_detections": 4
+  },
+  {
+    "name": "1471.jpg",
+    "foreground_area": 0.024333333333333332,
+    "foreground_fixation_fraction": 0.00909090909090909,
+    "active_detections": 1
+  },
+  {
+    "name": "1472.jpg",
+    "foreground_area": 0.4114,
+    "foreground_fixation_fraction": 0.8461538461538461,
+    "active_detections": 1
+  },
+  {
+    "name": "1473.jpg",
+    "foreground_area": 0.23152083333333334,
+    "foreground_fixation_fraction": 0.6782608695652174,
+    "active_detections": 2
+  },
+  {
+    "name": "1474.jpg",
+    "foreground_area": 0.14289583333333333,
+    "foreground_fixation_fraction": 0.8114754098360656,
+    "active_detections": 2
+  },
+  {
+    "name": "1475.jpg",
+    "foreground_area": 0.6053958333333334,
+    "foreground_fixation_fraction": 0.992,
+    "active_detections": 4
+  },
+  {
+    "name": "1476.jpg",
+    "foreground_area": 0.18961666666666666,
+    "foreground_fixation_fraction": 0.3790322580645161,
+    "active_detections": 3
+  },
+  {
+    "name": "1477.jpg",
+    "foreground_area": 0.3385,
+    "foreground_fixation_fraction": 0.9393939393939394,
+    "active_detections": 2
+  },
+  {
+    "name": "1478.jpg",
+    "foreground_area": 0.0129375,
+    "foreground_fixation_fraction": 0.36885245901639346,
+    "active_detections": 1
+  },
+  {
+    "name": "1479.jpg",
+    "foreground_area": 0.5250020833333333,
+    "foreground_fixation_fraction": 0.7404580152671756,
+    "active_detections": 2
+  },
+  {
+    "name": "1480.jpg",
+    "foreground_area": 0.72636875,
+    "foreground_fixation_fraction": 0.859504132231405,
+    "active_detections": 3
+  },
+  {
+    "name": "1481.jpg",
+    "foreground_area": 0.44644791666666667,
+    "foreground_fixation_fraction": 0.937007874015748,
+    "active_detections": 2
+  },
+  {
+    "name": "1482.jpg",
+    "foreground_area": 0.21578333333333333,
+    "foreground_fixation_fraction": 0.6695652173913044,
+    "active_detections": 2
+  },
+  {
+    "name": "1483.jpg",
+    "foreground_area": 0.304325,
+    "foreground_fixation_fraction": 0.768,
+    "active_detections": 1
+  },
+  {
+    "name": "1484.jpg",
+    "foreground_area": 0.5538604166666666,
+    "foreground_fixation_fraction": 0.725925925925926,
+    "active_detections": 6
+  },
+  {
+    "name": "1485.jpg",
+    "foreground_area": 0.6368979166666666,
+    "foreground_fixation_fraction": 0.7941176470588235,
+    "active_detections": 2
+  },
+  {
+    "name": "1486.jpg",
+    "foreground_area": 0.20563541666666665,
+    "foreground_fixation_fraction": 0.41007194244604317,
+    "active_detections": 4
+  },
+  {
+    "name": "1487.jpg",
+    "foreground_area": 0.5042249999999999,
+    "foreground_fixation_fraction": 0.9912280701754386,
+    "active_detections": 2
+  },
+  {
+    "name": "1488.jpg",
+    "foreground_area": 0.25635416666666666,
+    "foreground_fixation_fraction": 0.416,
+    "active_detections": 2
+  },
+  {
+    "name": "1489.jpg",
+    "foreground_area": 0.66545,
+    "foreground_fixation_fraction": 0.8548387096774194,
+    "active_detections": 6
+  },
+  {
+    "name": "1490.jpg",
+    "foreground_area": 0.23497916666666668,
+    "foreground_fixation_fraction": 0.9158878504672897,
+    "active_detections": 2
+  },
+  {
+    "name": "1491.jpg",
+    "foreground_area": 0.9063083333333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 5
+  },
+  {
+    "name": "1492.jpg",
+    "foreground_area": 0.421425,
+    "foreground_fixation_fraction": 0.5929203539823009,
+    "active_detections": 2
+  },
+  {
+    "name": "1493.jpg",
+    "foreground_area": 0.7205416666666666,
+    "foreground_fixation_fraction": 0.9534883720930233,
+    "active_detections": 3
+  },
+  {
+    "name": "1494.jpg",
+    "foreground_area": 0.7467874999999999,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1495.jpg",
+    "foreground_area": 0.18254166666666666,
+    "foreground_fixation_fraction": 0.5323741007194245,
+    "active_detections": 2
+  },
+  {
+    "name": "1496.jpg",
+    "foreground_area": 0.11984375,
+    "foreground_fixation_fraction": 0.4,
+    "active_detections": 2
+  },
+  {
+    "name": "1497.jpg",
+    "foreground_area": 0.23154166666666667,
+    "foreground_fixation_fraction": 0.8017241379310345,
+    "active_detections": 5
+  },
+  {
+    "name": "1498.jpg",
+    "foreground_area": 0.39875625,
+    "foreground_fixation_fraction": 0.4966442953020134,
+    "active_detections": 1
+  },
+  {
+    "name": "1499.jpg",
+    "foreground_area": 0.23824166666666666,
+    "foreground_fixation_fraction": 0.2905982905982906,
+    "active_detections": 1
+  },
+  {
+    "name": "1500.jpg",
+    "foreground_area": 0.2852,
+    "foreground_fixation_fraction": 0.4714285714285714,
+    "active_detections": 1
+  },
+  {
+    "name": "1501.jpg",
+    "foreground_area": 0.7422041666666668,
+    "foreground_fixation_fraction": 0.9922480620155039,
+    "active_detections": 4
+  },
+  {
+    "name": "1502.jpg",
+    "foreground_area": 0.7385083333333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1503.jpg",
+    "foreground_area": 0.44404166666666667,
+    "foreground_fixation_fraction": 0.9391304347826087,
+    "active_detections": 3
+  },
+  {
+    "name": "1504.jpg",
+    "foreground_area": 0.8393270833333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 7
+  },
+  {
+    "name": "1505.jpg",
+    "foreground_area": 0.66201875,
+    "foreground_fixation_fraction": 0.8857142857142857,
+    "active_detections": 6
+  },
+  {
+    "name": "1506.jpg",
+    "foreground_area": 0.08622708333333334,
+    "foreground_fixation_fraction": 0.8273381294964028,
+    "active_detections": 7
+  },
+  {
+    "name": "1507.jpg",
+    "foreground_area": 0.1323375,
+    "foreground_fixation_fraction": 0.8333333333333334,
+    "active_detections": 2
+  },
+  {
+    "name": "1508.jpg",
+    "foreground_area": 0.8596104166666667,
+    "foreground_fixation_fraction": 0.9562043795620438,
+    "active_detections": 5
+  },
+  {
+    "name": "1509.jpg",
+    "foreground_area": 0.39988958333333335,
+    "foreground_fixation_fraction": 0.6893939393939394,
+    "active_detections": 3
+  },
+  {
+    "name": "1510.jpg",
+    "foreground_area": 0.5067395833333334,
+    "foreground_fixation_fraction": 0.9558823529411765,
+    "active_detections": 2
+  },
+  {
+    "name": "1511.jpg",
+    "foreground_area": 0.23968958333333332,
+    "foreground_fixation_fraction": 0.6402877697841727,
+    "active_detections": 6
+  },
+  {
+    "name": "1512.jpg",
+    "foreground_area": 0.20592708333333332,
+    "foreground_fixation_fraction": 0.6299212598425197,
+    "active_detections": 5
+  },
+  {
+    "name": "1513.jpg",
+    "foreground_area": 0.64081875,
+    "foreground_fixation_fraction": 0.9921259842519685,
+    "active_detections": 3
+  },
+  {
+    "name": "1514.jpg",
+    "foreground_area": 0.34781249999999997,
+    "foreground_fixation_fraction": 0.9307692307692308,
+    "active_detections": 3
+  },
+  {
+    "name": "1515.jpg",
+    "foreground_area": 0.6612250000000001,
+    "foreground_fixation_fraction": 0.753968253968254,
+    "active_detections": 4
+  },
+  {
+    "name": "1516.jpg",
+    "foreground_area": 0.6449,
+    "foreground_fixation_fraction": 0.875,
+    "active_detections": 3
+  },
+  {
+    "name": "1517.jpg",
+    "foreground_area": 0.31479583333333333,
+    "foreground_fixation_fraction": 0.828125,
+    "active_detections": 3
+  },
+  {
+    "name": "1518.jpg",
+    "foreground_area": 0.24239583333333334,
+    "foreground_fixation_fraction": 0.29333333333333333,
+    "active_detections": 1
+  },
+  {
+    "name": "1519.jpg",
+    "foreground_area": 0.52934375,
+    "foreground_fixation_fraction": 0.925,
+    "active_detections": 2
+  },
+  {
+    "name": "1520.jpg",
+    "foreground_area": 0.99,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1521.jpg",
+    "foreground_area": 0.257525,
+    "foreground_fixation_fraction": 0.9351851851851852,
+    "active_detections": 3
+  },
+  {
+    "name": "1522.jpg",
+    "foreground_area": 0.7896458333333334,
+    "foreground_fixation_fraction": 0.9637681159420289,
+    "active_detections": 4
+  },
+  {
+    "name": "1523.jpg",
+    "foreground_area": 0.9113375,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1524.jpg",
+    "foreground_area": 0.8246020833333334,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1525.jpg",
+    "foreground_area": 0.78621875,
+    "foreground_fixation_fraction": 0.9910714285714286,
+    "active_detections": 4
+  },
+  {
+    "name": "1526.jpg",
+    "foreground_area": 0.29754375000000005,
+    "foreground_fixation_fraction": 0.2676056338028169,
+    "active_detections": 5
+  },
+  {
+    "name": "1527.jpg",
+    "foreground_area": 0.43070625,
+    "foreground_fixation_fraction": 0.9512195121951219,
+    "active_detections": 1
+  },
+  {
+    "name": "1528.jpg",
+    "foreground_area": 0.93673125,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1529.jpg",
+    "foreground_area": 0.8923666666666668,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 5
+  },
+  {
+    "name": "1530.jpg",
+    "foreground_area": 0.7078249999999999,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1531.jpg",
+    "foreground_area": 0.48425833333333335,
+    "foreground_fixation_fraction": 0.9920634920634921,
+    "active_detections": 3
+  },
+  {
+    "name": "1532.jpg",
+    "foreground_area": 0.8189395833333333,
+    "foreground_fixation_fraction": 0.9921259842519685,
+    "active_detections": 3
+  },
+  {
+    "name": "1533.jpg",
+    "foreground_area": 0.3767583333333333,
+    "foreground_fixation_fraction": 0.9180327868852459,
+    "active_detections": 2
+  },
+  {
+    "name": "1534.jpg",
+    "foreground_area": 0.9581416666666668,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1535.jpg",
+    "foreground_area": 0.462,
+    "foreground_fixation_fraction": 0.6147540983606558,
+    "active_detections": 1
+  },
+  {
+    "name": "1536.jpg",
+    "foreground_area": 0.7787104166666666,
+    "foreground_fixation_fraction": 0.9910714285714286,
+    "active_detections": 4
+  },
+  {
+    "name": "1537.jpg",
+    "foreground_area": 0.15330208333333334,
+    "foreground_fixation_fraction": 0.9,
+    "active_detections": 4
+  },
+  {
+    "name": "1538.jpg",
+    "foreground_area": 0.2595625,
+    "foreground_fixation_fraction": 0.37272727272727274,
+    "active_detections": 3
+  },
+  {
+    "name": "1539.jpg",
+    "foreground_area": 0.21666666666666667,
+    "foreground_fixation_fraction": 0.2698412698412698,
+    "active_detections": 1
+  },
+  {
+    "name": "1540.jpg",
+    "foreground_area": 0.5144833333333334,
+    "foreground_fixation_fraction": 0.9920634920634921,
+    "active_detections": 3
+  },
+  {
+    "name": "1541.jpg",
+    "foreground_area": 0.5621916666666668,
+    "foreground_fixation_fraction": 0.5675675675675675,
+    "active_detections": 5
+  },
+  {
+    "name": "1542.jpg",
+    "foreground_area": 0.14408333333333334,
+    "foreground_fixation_fraction": 0.8547008547008547,
+    "active_detections": 3
+  },
+  {
+    "name": "1543.jpg",
+    "foreground_area": 0.6111958333333334,
+    "foreground_fixation_fraction": 0.96,
+    "active_detections": 6
+  },
+  {
+    "name": "1544.jpg",
+    "foreground_area": 0.22238125000000003,
+    "foreground_fixation_fraction": 0.5076923076923077,
+    "active_detections": 2
+  },
+  {
+    "name": "1545.jpg",
+    "foreground_area": 0.66,
+    "foreground_fixation_fraction": 0.8671875,
+    "active_detections": 5
+  },
+  {
+    "name": "1546.jpg",
+    "foreground_area": 0.6780375,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1547.jpg",
+    "foreground_area": 0.4652833333333334,
+    "foreground_fixation_fraction": 0.8297872340425532,
+    "active_detections": 2
+  },
+  {
+    "name": "1548.jpg",
+    "foreground_area": 0.08011666666666667,
+    "foreground_fixation_fraction": 0.12949640287769784,
+    "active_detections": 1
+  },
+  {
+    "name": "1549.jpg",
+    "foreground_area": 0.7187958333333332,
+    "foreground_fixation_fraction": 0.943089430894309,
+    "active_detections": 3
+  },
+  {
+    "name": "1550.jpg",
+    "foreground_area": 0.8682916666666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1551.jpg",
+    "foreground_area": 0.03902083333333334,
+    "foreground_fixation_fraction": 0.7326732673267327,
+    "active_detections": 3
+  },
+  {
+    "name": "1552.jpg",
+    "foreground_area": 0.3025625,
+    "foreground_fixation_fraction": 0.8661417322834646,
+    "active_detections": 1
+  },
+  {
+    "name": "1553.jpg",
+    "foreground_area": 0.8148104166666666,
+    "foreground_fixation_fraction": 0.9813084112149533,
+    "active_detections": 2
+  },
+  {
+    "name": "1554.jpg",
+    "foreground_area": 0.00934375,
+    "foreground_fixation_fraction": 0.14563106796116504,
+    "active_detections": 1
+  },
+  {
+    "name": "1555.jpg",
+    "foreground_area": 0.4787604166666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1556.jpg",
+    "foreground_area": 0.00455,
+    "foreground_fixation_fraction": 0.021739130434782608,
+    "active_detections": 1
+  },
+  {
+    "name": "1557.jpg",
+    "foreground_area": 0.45770833333333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1558.jpg",
+    "foreground_area": 0.2075625,
+    "foreground_fixation_fraction": 0.5714285714285714,
+    "active_detections": 1
+  },
+  {
+    "name": "1559.jpg",
+    "foreground_area": 0.4183541666666667,
+    "foreground_fixation_fraction": 0.40298507462686567,
+    "active_detections": 1
+  },
+  {
+    "name": "1560.jpg",
+    "foreground_area": 0.15587916666666668,
+    "foreground_fixation_fraction": 0.3458646616541353,
+    "active_detections": 3
+  },
+  {
+    "name": "1561.jpg",
+    "foreground_area": 0.8527375,
+    "foreground_fixation_fraction": 0.9917355371900827,
+    "active_detections": 4
+  },
+  {
+    "name": "1562.jpg",
+    "foreground_area": 0.7209395833333334,
+    "foreground_fixation_fraction": 0.9692307692307692,
+    "active_detections": 2
+  },
+  {
+    "name": "1563.jpg",
+    "foreground_area": 0.6322229166666665,
+    "foreground_fixation_fraction": 0.9057971014492754,
+    "active_detections": 4
+  },
+  {
+    "name": "1564.jpg",
+    "foreground_area": 0.9305833333333333,
+    "foreground_fixation_fraction": 0.9765625,
+    "active_detections": 4
+  },
+  {
+    "name": "1565.jpg",
+    "foreground_area": 0.7001958333333334,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1566.jpg",
+    "foreground_area": 0.2485541666666667,
+    "foreground_fixation_fraction": 0.5394736842105263,
+    "active_detections": 5
+  },
+  {
+    "name": "1567.jpg",
+    "foreground_area": 0.97951875,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 5
+  },
+  {
+    "name": "1568.jpg",
+    "foreground_area": 0.052066666666666664,
+    "foreground_fixation_fraction": 0.44545454545454544,
+    "active_detections": 2
+  },
+  {
+    "name": "1569.jpg",
+    "foreground_area": 0.29259166666666664,
+    "foreground_fixation_fraction": 0.8739495798319328,
+    "active_detections": 4
+  },
+  {
+    "name": "1570.jpg",
+    "foreground_area": 0.6501291666666666,
+    "foreground_fixation_fraction": 0.9365079365079365,
+    "active_detections": 2
+  },
+  {
+    "name": "1571.jpg",
+    "foreground_area": 0.40431875,
+    "foreground_fixation_fraction": 0.9769230769230769,
+    "active_detections": 3
+  },
+  {
+    "name": "1572.jpg",
+    "foreground_area": 0.18600833333333333,
+    "foreground_fixation_fraction": 0.7244094488188977,
+    "active_detections": 2
+  },
+  {
+    "name": "1573.jpg",
+    "foreground_area": 0.8029208333333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1574.jpg",
+    "foreground_area": 0.16492916666666668,
+    "foreground_fixation_fraction": 0.5581395348837209,
+    "active_detections": 2
+  },
+  {
+    "name": "1575.jpg",
+    "foreground_area": 0.45296875000000003,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1576.jpg",
+    "foreground_area": 0.9307458333333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1577.jpg",
+    "foreground_area": 0.3872333333333333,
+    "foreground_fixation_fraction": 0.8512396694214877,
+    "active_detections": 3
+  },
+  {
+    "name": "1578.jpg",
+    "foreground_area": 0.0211375,
+    "foreground_fixation_fraction": 0.18571428571428572,
+    "active_detections": 2
+  },
+  {
+    "name": "1579.jpg",
+    "foreground_area": 0.88936875,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1580.jpg",
+    "foreground_area": 0.30100000000000005,
+    "foreground_fixation_fraction": 0.608,
+    "active_detections": 5
+  },
+  {
+    "name": "1581.jpg",
+    "foreground_area": 0.35286666666666666,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1582.jpg",
+    "foreground_area": 0.32073125,
+    "foreground_fixation_fraction": 0.9327731092436975,
+    "active_detections": 3
+  },
+  {
+    "name": "1583.jpg",
+    "foreground_area": 0.71571875,
+    "foreground_fixation_fraction": 0.9769230769230769,
+    "active_detections": 2
+  },
+  {
+    "name": "1584.jpg",
+    "foreground_area": 0.12439583333333333,
+    "foreground_fixation_fraction": 0.8181818181818182,
+    "active_detections": 2
+  },
+  {
+    "name": "1585.jpg",
+    "foreground_area": 0.8190041666666668,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1586.jpg",
+    "foreground_area": 0.643725,
+    "foreground_fixation_fraction": 0.9745762711864406,
+    "active_detections": 2
+  },
+  {
+    "name": "1587.jpg",
+    "foreground_area": 0.103425,
+    "foreground_fixation_fraction": 0.35537190082644626,
+    "active_detections": 1
+  },
+  {
+    "name": "1588.jpg",
+    "foreground_area": 0.8399708333333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1589.jpg",
+    "foreground_area": 0.18516666666666667,
+    "foreground_fixation_fraction": 0.3333333333333333,
+    "active_detections": 3
+  },
+  {
+    "name": "1590.jpg",
+    "foreground_area": 0.40285208333333333,
+    "foreground_fixation_fraction": 0.4921875,
+    "active_detections": 4
+  },
+  {
+    "name": "1591.jpg",
+    "foreground_area": 0.0,
+    "foreground_fixation_fraction": 0.0,
+    "active_detections": 0
+  },
+  {
+    "name": "1592.jpg",
+    "foreground_area": 0.09110833333333333,
+    "foreground_fixation_fraction": 0.7142857142857143,
+    "active_detections": 4
+  },
+  {
+    "name": "1593.jpg",
+    "foreground_area": 0.5254416666666667,
+    "foreground_fixation_fraction": 0.781021897810219,
+    "active_detections": 4
+  },
+  {
+    "name": "1594.jpg",
+    "foreground_area": 0.17684583333333334,
+    "foreground_fixation_fraction": 0.9615384615384616,
+    "active_detections": 2
+  },
+  {
+    "name": "1595.jpg",
+    "foreground_area": 0.8203270833333334,
+    "foreground_fixation_fraction": 0.9836065573770492,
+    "active_detections": 4
+  },
+  {
+    "name": "1596.jpg",
+    "foreground_area": 0.4044125,
+    "foreground_fixation_fraction": 0.6541353383458647,
+    "active_detections": 2
+  },
+  {
+    "name": "1597.jpg",
+    "foreground_area": 0.6171708333333333,
+    "foreground_fixation_fraction": 0.9487179487179487,
+    "active_detections": 3
+  },
+  {
+    "name": "1598.jpg",
+    "foreground_area": 0.02956458333333333,
+    "foreground_fixation_fraction": 0.183206106870229,
+    "active_detections": 2
+  },
+  {
+    "name": "1599.jpg",
+    "foreground_area": 0.7574791666666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 5
+  },
+  {
+    "name": "1600.jpg",
+    "foreground_area": 0.3117333333333333,
+    "foreground_fixation_fraction": 0.5454545454545454,
+    "active_detections": 1
+  },
+  {
+    "name": "1601.jpg",
+    "foreground_area": 0.10285,
+    "foreground_fixation_fraction": 0.22764227642276422,
+    "active_detections": 1
+  },
+  {
+    "name": "1602.jpg",
+    "foreground_area": 0.5652458333333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 1
+  },
+  {
+    "name": "1603.jpg",
+    "foreground_area": 0.22603541666666666,
+    "foreground_fixation_fraction": 0.576271186440678,
+    "active_detections": 4
+  },
+  {
+    "name": "1604.jpg",
+    "foreground_area": 0.56985,
+    "foreground_fixation_fraction": 0.8421052631578947,
+    "active_detections": 3
+  },
+  {
+    "name": "1605.jpg",
+    "foreground_area": 0.048722916666666664,
+    "foreground_fixation_fraction": 0.37272727272727274,
+    "active_detections": 1
+  },
+  {
+    "name": "1606.jpg",
+    "foreground_area": 0.06591458333333333,
+    "foreground_fixation_fraction": 0.26277372262773724,
+    "active_detections": 3
+  },
+  {
+    "name": "1607.jpg",
+    "foreground_area": 0.9506875,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1608.jpg",
+    "foreground_area": 0.6518895833333334,
+    "foreground_fixation_fraction": 0.8814814814814815,
+    "active_detections": 3
+  },
+  {
+    "name": "1609.jpg",
+    "foreground_area": 0.6908479166666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 1
+  },
+  {
+    "name": "1610.jpg",
+    "foreground_area": 0.6370687500000001,
+    "foreground_fixation_fraction": 0.9736842105263158,
+    "active_detections": 3
+  },
+  {
+    "name": "1611.jpg",
+    "foreground_area": 0.2411916666666667,
+    "foreground_fixation_fraction": 0.9,
+    "active_detections": 2
+  },
+  {
+    "name": "1612.jpg",
+    "foreground_area": 0.8697833333333332,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1613.jpg",
+    "foreground_area": 0.74293125,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1614.jpg",
+    "foreground_area": 0.6352812499999999,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1615.jpg",
+    "foreground_area": 0.6998395833333334,
+    "foreground_fixation_fraction": 0.993103448275862,
+    "active_detections": 7
+  },
+  {
+    "name": "1616.jpg",
+    "foreground_area": 0.9424250000000001,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1617.jpg",
+    "foreground_area": 0.6785708333333333,
+    "foreground_fixation_fraction": 0.7983870967741935,
+    "active_detections": 2
+  },
+  {
+    "name": "1618.jpg",
+    "foreground_area": 0.349325,
+    "foreground_fixation_fraction": 0.7457627118644068,
+    "active_detections": 4
+  },
+  {
+    "name": "1619.jpg",
+    "foreground_area": 0.76396875,
+    "foreground_fixation_fraction": 0.9919354838709677,
+    "active_detections": 4
+  },
+  {
+    "name": "1620.jpg",
+    "foreground_area": 0.81443125,
+    "foreground_fixation_fraction": 0.9224806201550387,
+    "active_detections": 11
+  },
+  {
+    "name": "1621.jpg",
+    "foreground_area": 0.19438958333333334,
+    "foreground_fixation_fraction": 0.4928571428571429,
+    "active_detections": 3
+  },
+  {
+    "name": "1622.jpg",
+    "foreground_area": 0.2518916666666667,
+    "foreground_fixation_fraction": 0.7610619469026548,
+    "active_detections": 3
+  },
+  {
+    "name": "1623.jpg",
+    "foreground_area": 0.1620875,
+    "foreground_fixation_fraction": 0.6695652173913044,
+    "active_detections": 5
+  },
+  {
+    "name": "1624.jpg",
+    "foreground_area": 0.52129375,
+    "foreground_fixation_fraction": 0.5333333333333333,
+    "active_detections": 4
+  },
+  {
+    "name": "1625.jpg",
+    "foreground_area": 0.26137916666666666,
+    "foreground_fixation_fraction": 0.536,
+    "active_detections": 6
+  },
+  {
+    "name": "1626.jpg",
+    "foreground_area": 0.5989,
+    "foreground_fixation_fraction": 0.96,
+    "active_detections": 4
+  },
+  {
+    "name": "1627.jpg",
+    "foreground_area": 0.313625,
+    "foreground_fixation_fraction": 0.8205128205128205,
+    "active_detections": 1
+  },
+  {
+    "name": "1628.jpg",
+    "foreground_area": 0.29718125,
+    "foreground_fixation_fraction": 0.7983870967741935,
+    "active_detections": 4
+  },
+  {
+    "name": "1629.jpg",
+    "foreground_area": 0.62724375,
+    "foreground_fixation_fraction": 0.9852941176470589,
+    "active_detections": 1
+  },
+  {
+    "name": "1630.jpg",
+    "foreground_area": 0.062525,
+    "foreground_fixation_fraction": 0.543859649122807,
+    "active_detections": 2
+  },
+  {
+    "name": "1631.jpg",
+    "foreground_area": 0.65559375,
+    "foreground_fixation_fraction": 0.6974789915966386,
+    "active_detections": 3
+  },
+  {
+    "name": "1632.jpg",
+    "foreground_area": 0.2534854166666667,
+    "foreground_fixation_fraction": 0.37209302325581395,
+    "active_detections": 3
+  },
+  {
+    "name": "1633.jpg",
+    "foreground_area": 0.5782916666666665,
+    "foreground_fixation_fraction": 0.983739837398374,
+    "active_detections": 4
+  },
+  {
+    "name": "1634.jpg",
+    "foreground_area": 0.26408125,
+    "foreground_fixation_fraction": 0.6714285714285714,
+    "active_detections": 4
+  },
+  {
+    "name": "1635.jpg",
+    "foreground_area": 0.14922916666666666,
+    "foreground_fixation_fraction": 0.8859649122807017,
+    "active_detections": 3
+  },
+  {
+    "name": "1636.jpg",
+    "foreground_area": 0.333625,
+    "foreground_fixation_fraction": 0.8373983739837398,
+    "active_detections": 1
+  },
+  {
+    "name": "1637.jpg",
+    "foreground_area": 0.8858125000000001,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1638.jpg",
+    "foreground_area": 0.5325833333333334,
+    "foreground_fixation_fraction": 0.8646616541353384,
+    "active_detections": 2
+  },
+  {
+    "name": "1639.jpg",
+    "foreground_area": 0.5822958333333333,
+    "foreground_fixation_fraction": 0.9661016949152542,
+    "active_detections": 2
+  },
+  {
+    "name": "1640.jpg",
+    "foreground_area": 0.5163166666666666,
+    "foreground_fixation_fraction": 0.9787234042553191,
+    "active_detections": 6
+  },
+  {
+    "name": "1641.jpg",
+    "foreground_area": 0.16139375,
+    "foreground_fixation_fraction": 0.5161290322580645,
+    "active_detections": 5
+  },
+  {
+    "name": "1642.jpg",
+    "foreground_area": 0.97815625,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1643.jpg",
+    "foreground_area": 0.014277083333333333,
+    "foreground_fixation_fraction": 0.2116788321167883,
+    "active_detections": 1
+  },
+  {
+    "name": "1644.jpg",
+    "foreground_area": 0.4871291666666666,
+    "foreground_fixation_fraction": 0.7815126050420168,
+    "active_detections": 4
+  },
+  {
+    "name": "1645.jpg",
+    "foreground_area": 0.18569375,
+    "foreground_fixation_fraction": 0.20491803278688525,
+    "active_detections": 1
+  },
+  {
+    "name": "1646.jpg",
+    "foreground_area": 0.7610250000000001,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1647.jpg",
+    "foreground_area": 0.8776583333333333,
+    "foreground_fixation_fraction": 0.9923664122137404,
+    "active_detections": 5
+  },
+  {
+    "name": "1648.jpg",
+    "foreground_area": 0.4007604166666667,
+    "foreground_fixation_fraction": 0.6136363636363636,
+    "active_detections": 5
+  },
+  {
+    "name": "1649.jpg",
+    "foreground_area": 0.7143833333333334,
+    "foreground_fixation_fraction": 0.8646616541353384,
+    "active_detections": 3
+  },
+  {
+    "name": "1650.jpg",
+    "foreground_area": 0.5025937500000001,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1651.jpg",
+    "foreground_area": 0.21884583333333335,
+    "foreground_fixation_fraction": 0.40441176470588236,
+    "active_detections": 2
+  },
+  {
+    "name": "1652.jpg",
+    "foreground_area": 0.0,
+    "foreground_fixation_fraction": 0.0,
+    "active_detections": 0
+  },
+  {
+    "name": "1653.jpg",
+    "foreground_area": 0.48342916666666663,
+    "foreground_fixation_fraction": 0.34710743801652894,
+    "active_detections": 6
+  },
+  {
+    "name": "1654.jpg",
+    "foreground_area": 0.39752916666666666,
+    "foreground_fixation_fraction": 0.36752136752136755,
+    "active_detections": 1
+  },
+  {
+    "name": "1655.jpg",
+    "foreground_area": 0.6186791666666667,
+    "foreground_fixation_fraction": 0.9824561403508771,
+    "active_detections": 2
+  },
+  {
+    "name": "1656.jpg",
+    "foreground_area": 0.9387250000000001,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 7
+  },
+  {
+    "name": "1657.jpg",
+    "foreground_area": 0.8269583333333334,
+    "foreground_fixation_fraction": 0.8702290076335878,
+    "active_detections": 3
+  },
+  {
+    "name": "1658.jpg",
+    "foreground_area": 0.23927916666666665,
+    "foreground_fixation_fraction": 0.8267716535433071,
+    "active_detections": 2
+  },
+  {
+    "name": "1659.jpg",
+    "foreground_area": 0.14014583333333333,
+    "foreground_fixation_fraction": 0.2966101694915254,
+    "active_detections": 1
+  },
+  {
+    "name": "1660.jpg",
+    "foreground_area": 0.99625,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1661.jpg",
+    "foreground_area": 0.22455,
+    "foreground_fixation_fraction": 0.625,
+    "active_detections": 1
+  },
+  {
+    "name": "1662.jpg",
+    "foreground_area": 0.17389166666666667,
+    "foreground_fixation_fraction": 0.3442622950819672,
+    "active_detections": 1
+  },
+  {
+    "name": "1663.jpg",
+    "foreground_area": 0.6097229166666668,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1664.jpg",
+    "foreground_area": 0.0,
+    "foreground_fixation_fraction": 0.0,
+    "active_detections": 0
+  },
+  {
+    "name": "1665.jpg",
+    "foreground_area": 0.89105,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 5
+  },
+  {
+    "name": "1666.jpg",
+    "foreground_area": 0.5938916666666667,
+    "foreground_fixation_fraction": 0.96875,
+    "active_detections": 2
+  },
+  {
+    "name": "1667.jpg",
+    "foreground_area": 0.580375,
+    "foreground_fixation_fraction": 0.9401709401709402,
+    "active_detections": 2
+  },
+  {
+    "name": "1668.jpg",
+    "foreground_area": 0.6698625,
+    "foreground_fixation_fraction": 0.9148936170212766,
+    "active_detections": 3
+  },
+  {
+    "name": "1669.jpg",
+    "foreground_area": 0.28040625,
+    "foreground_fixation_fraction": 0.4,
+    "active_detections": 4
+  },
+  {
+    "name": "1670.jpg",
+    "foreground_area": 0.95501875,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1671.jpg",
+    "foreground_area": 0.6058666666666667,
+    "foreground_fixation_fraction": 0.8835616438356164,
+    "active_detections": 2
+  },
+  {
+    "name": "1672.jpg",
+    "foreground_area": 0.0,
+    "foreground_fixation_fraction": 0.0,
+    "active_detections": 0
+  },
+  {
+    "name": "1673.jpg",
+    "foreground_area": 0.25617291666666664,
+    "foreground_fixation_fraction": 0.2230769230769231,
+    "active_detections": 2
+  },
+  {
+    "name": "1674.jpg",
+    "foreground_area": 0.7401625000000001,
+    "foreground_fixation_fraction": 0.6355140186915887,
+    "active_detections": 2
+  },
+  {
+    "name": "1675.jpg",
+    "foreground_area": 0.4641125,
+    "foreground_fixation_fraction": 0.6859504132231405,
+    "active_detections": 2
+  },
+  {
+    "name": "1676.jpg",
+    "foreground_area": 0.6275083333333333,
+    "foreground_fixation_fraction": 0.9813084112149533,
+    "active_detections": 3
+  },
+  {
+    "name": "1677.jpg",
+    "foreground_area": 0.6662749999999998,
+    "foreground_fixation_fraction": 0.8770491803278688,
+    "active_detections": 4
+  },
+  {
+    "name": "1678.jpg",
+    "foreground_area": 0.8424833333333333,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 4
+  },
+  {
+    "name": "1679.jpg",
+    "foreground_area": 0.8265541666666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1680.jpg",
+    "foreground_area": 0.7066791666666666,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 8
+  },
+  {
+    "name": "1681.jpg",
+    "foreground_area": 0.0897,
+    "foreground_fixation_fraction": 0.5631067961165048,
+    "active_detections": 3
+  },
+  {
+    "name": "1682.jpg",
+    "foreground_area": 0.6621583333333333,
+    "foreground_fixation_fraction": 0.9637681159420289,
+    "active_detections": 2
+  },
+  {
+    "name": "1683.jpg",
+    "foreground_area": 0.3348,
+    "foreground_fixation_fraction": 0.7007874015748031,
+    "active_detections": 1
+  },
+  {
+    "name": "1684.jpg",
+    "foreground_area": 0.5490999999999999,
+    "foreground_fixation_fraction": 0.9858156028368794,
+    "active_detections": 2
+  },
+  {
+    "name": "1685.jpg",
+    "foreground_area": 0.36507708333333333,
+    "foreground_fixation_fraction": 0.925,
+    "active_detections": 3
+  },
+  {
+    "name": "1686.jpg",
+    "foreground_area": 0.31257083333333335,
+    "foreground_fixation_fraction": 0.8558558558558559,
+    "active_detections": 2
+  },
+  {
+    "name": "1687.jpg",
+    "foreground_area": 0.93,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 3
+  },
+  {
+    "name": "1688.jpg",
+    "foreground_area": 0.8963166666666667,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 7
+  },
+  {
+    "name": "1689.jpg",
+    "foreground_area": 0.22553333333333334,
+    "foreground_fixation_fraction": 0.9444444444444444,
+    "active_detections": 4
+  },
+  {
+    "name": "1690.jpg",
+    "foreground_area": 0.1065625,
+    "foreground_fixation_fraction": 0.6974789915966386,
+    "active_detections": 2
+  },
+  {
+    "name": "1691.jpg",
+    "foreground_area": 0.3558958333333333,
+    "foreground_fixation_fraction": 0.9420289855072463,
+    "active_detections": 3
+  },
+  {
+    "name": "1692.jpg",
+    "foreground_area": 0.1379125,
+    "foreground_fixation_fraction": 0.6861313868613139,
+    "active_detections": 2
+  },
+  {
+    "name": "1693.jpg",
+    "foreground_area": 0.8461104166666666,
+    "foreground_fixation_fraction": 0.9736842105263158,
+    "active_detections": 3
+  },
+  {
+    "name": "1694.jpg",
+    "foreground_area": 0.41242708333333333,
+    "foreground_fixation_fraction": 0.6771653543307087,
+    "active_detections": 5
+  },
+  {
+    "name": "1695.jpg",
+    "foreground_area": 0.91330625,
+    "foreground_fixation_fraction": 1.0,
+    "active_detections": 2
+  },
+  {
+    "name": "1696.jpg",
+    "foreground_area": 0.08301458333333334,
+    "foreground_fixation_fraction": 0.5827338129496403,
+    "active_detections": 4
+  },
+  {
+    "name": "1697.jpg",
+    "foreground_area": 0.68749375,
+    "foreground_fixation_fraction": 0.984,
+    "active_detections": 5
+  },
+  {
+    "name": "1698.jpg",
+    "foreground_area": 0.4290229166666667,
+    "foreground_fixation_fraction": 0.8782608695652174,
+    "active_detections": 2
+  },
+  {
+    "name": "1699.jpg",
+    "foreground_area": 0.29708125,
+    "foreground_fixation_fraction": 0.8188976377952756,
+    "active_detections": 8
+  },
+  {
+    "name": "1700.jpg",
+    "foreground_area": 0.4104333333333333,
+    "foreground_fixation_fraction": 0.43478260869565216,
+    "active_detections": 4
+  }
+]

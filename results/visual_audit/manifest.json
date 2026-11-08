@@ -1,0 +1,107 @@
+{
+  "selection_seed": 20261103,
+  "selection": "10 training images without replacement",
+  "source_split_sha256": "1b9a0305daeac85bb66571f64198e003592f4527a893ccfd721cd96eba15ee33",
+  "scenes": [
+    {
+      "image": "1109.jpg",
+      "split": "train",
+      "figure": "1109.png",
+      "objects": 4,
+      "fixations": 127,
+      "background_fraction": 0.047244094488188976,
+      "coordinates_match_loader": true,
+      "figure_sha256": "6646354887d6fd048dd7b196ec9c3c0ba2ae7291d07e999a911ff413361c3629"
+    },
+    {
+      "image": "1135.jpg",
+      "split": "train",
+      "figure": "1135.png",
+      "objects": 12,
+      "fixations": 142,
+      "background_fraction": 0.09154929577464789,
+      "coordinates_match_loader": true,
+      "figure_sha256": "974d7c4096d9d30cecbf1990531dba3cad6a0b08e4e7afb5e2ac9f77628edc59"
+    },
+    {
+      "image": "1213.jpg",
+      "split": "train",
+      "figure": "1213.png",
+      "objects": 7,
+      "fixations": 122,
+      "background_fraction": 0.36885245901639346,
+      "coordinates_match_loader": true,
+      "figure_sha256": "4e2033ace2b82c412d824b39018ae194191a64425b4ba17dc8b534af07369e7b"
+    },
+    {
+      "image": "1276.jpg",
+      "split": "train",
+      "figure": "1276.png",
+      "objects": 13,
+      "fixations": 139,
+      "background_fraction": 0.1223021582733813,
+      "coordinates_match_loader": true,
+      "figure_sha256": "1971888ebe784b87a1de930db2c0c165e1eb3152053ead94217f29206e02e459"
+    },
+    {
+      "image": "1282.jpg",
+      "split": "train",
+      "figure": "1282.png",
+      "objects": 9,
+      "fixations": 128,
+      "background_fraction": 0.09375,
+      "coordinates_match_loader": true,
+      "figure_sha256": "47a01e282d8d471670503fec1f76328f279ea99d67a63d0f3c18024b04fcc589"
+    },
+    {
+      "image": "1475.jpg",
+      "split": "train",
+      "figure": "1475.png",
+      "objects": 7,
+      "fixations": 125,
+      "background_fraction": 0.112,
+      "coordinates_match_loader": true,
+      "figure_sha256": "022676065b9b3a57b0296502169998b429e6232068bd0ee6e116ed911e0338cb"
+    },
+    {
+      "image": "1607.jpg",
+      "split": "train",
+      "figure": "1607.png",
+      "objects": 5,
+      "fixations": 128,
+      "background_fraction": 0.0234375,
+      "coordinates_match_loader": true,
+      "figure_sha256": "d4acc955ffc6eb29336c102f9f94fcbf411fe77f656d9f21f79a9257688615ba"
+    },
+    {
+      "image": "1616.jpg",
+      "split": "train",
+      "figure": "1616.png",
+      "objects": 7,
+      "fixations": 120,
+      "background_fraction": 0.058333333333333334,
+      "coordinates_match_loader": true,
+      "figure_sha256": "52a171ce0451bc97d73cf5ba9cb3b6062883d21bb7d445e0a2879dc066323f33"
+    },
+    {
+      "image": "1666.jpg",
+      "split": "train",
+      "figure": "1666.png",
+      "objects": 6,
+      "fixations": 128,
+      "background_fraction": 0.171875,
+      "coordinates_match_loader": true,
+      "figure_sha256": "bf289ecb375739f5c04d9cd652c01e820f24a2f01f6c2d466d179abced7d0674"
+    },
+    {
+      "image": "1681.jpg",
+      "split": "train",
+      "figure": "1681.png",
+      "objects": 6,
+      "fixations": 103,
+      "background_fraction": 0.44660194174757284,
+      "coordinates_match_loader": true,
+      "figure_sha256": "2b64727b8d18b9d809adbb395c9294c55802574202878b7062f9c5664f7ebd1a"
+    }
+  ]
+}

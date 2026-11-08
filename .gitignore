@@ -1,0 +1,16 @@
+data/raw/
+data/processed/
+output/predictions/
+output/visual_audit/
+output/relational_checkpoints/
+output/colab/
+output/archive/
+.deps/
+.research-deps/
+.venv/
+__pycache__/
+*.py[cod]
+tmp/
+.env
+*.log
+~$*

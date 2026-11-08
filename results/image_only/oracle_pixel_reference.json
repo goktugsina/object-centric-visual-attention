@@ -1,0 +1,1143 @@
+{
+  "split_seed": 20261102,
+  "models": {
+    "geometry": {
+      "ig_uniform_bits": 1.3657317169583438,
+      "ci95": [
+        1.2672151115968882,
+        1.458312939996817
+      ],
+      "per_image": [
+        {
+          "image": "1007.jpg",
+          "ig_uniform_bits": 1.4379978198239596
+        },
+        {
+          "image": "1010.jpg",
+          "ig_uniform_bits": 2.388543621876333
+        },
+        {
+          "image": "1019.jpg",
+          "ig_uniform_bits": 1.4825720091140593
+        },
+        {
+          "image": "1026.jpg",
+          "ig_uniform_bits": 0.6966478477346474
+        },
+        {
+          "image": "1028.jpg",
+          "ig_uniform_bits": 1.57026845681101
+        },
+        {
+          "image": "1030.jpg",
+          "ig_uniform_bits": 0.3664617175931618
+        },
+        {
+          "image": "1031.jpg",
+          "ig_uniform_bits": 0.7664370161885683
+        },
+        {
+          "image": "1032.jpg",
+          "ig_uniform_bits": 0.5941488182330359
+        },
+        {
+          "image": "1034.jpg",
+          "ig_uniform_bits": 2.1745746565532817
+        },
+        {
+          "image": "1035.jpg",
+          "ig_uniform_bits": 0.593763349412675
+        },
+        {
+          "image": "1037.jpg",
+          "ig_uniform_bits": 2.074698456120599
+        },
+        {
+          "image": "1040.jpg",
+          "ig_uniform_bits": 1.0368988718474585
+        },
+        {
+          "image": "1047.jpg",
+          "ig_uniform_bits": 1.9563816195618173
+        },
+        {
+          "image": "1051.jpg",
+          "ig_uniform_bits": 1.2624694377651713
+        },
+        {
+          "image": "1058.jpg",
+          "ig_uniform_bits": 1.1941872071666144
+        },
+        {
+          "image": "1065.jpg",
+          "ig_uniform_bits": 0.4259810338950304
+        },
+        {
+          "image": "1071.jpg",
+          "ig_uniform_bits": 1.9934153193478028
+        },
+        {
+          "image": "1072.jpg",
+          "ig_uniform_bits": 1.3031276009759314
+        },
+        {
+          "image": "1073.jpg",
+          "ig_uniform_bits": 1.5308247904464578
+        },
+        {
+          "image": "1074.jpg",
+          "ig_uniform_bits": 1.5740465625037579
+        },
+        {
+          "image": "1079.jpg",
+          "ig_uniform_bits": 1.5197199928842267
+        },
+        {
+          "image": "1081.jpg",
+          "ig_uniform_bits": 1.5877625243720372
+        },
+        {
+          "image": "1087.jpg",
+          "ig_uniform_bits": 0.32309319658342794
+        },
+        {
+          "image": "1088.jpg",
+          "ig_uniform_bits": 0.8675434411675551
+        },
+        {
+          "image": "1090.jpg",
+          "ig_uniform_bits": 1.255700716382322
+        },
+        {
+          "image": "1098.jpg",
+          "ig_uniform_bits": 1.695626760692966
+        },
+        {
+          "image": "1100.jpg",
+          "ig_uniform_bits": 1.244324697303226
+        },
+        {
+          "image": "1102.jpg",
+          "ig_uniform_bits": 1.2143417120827522
+        },
+        {
+          "image": "1106.jpg",
+          "ig_uniform_bits": 1.442646541939891
+        },
+        {
+          "image": "1107.jpg",
+          "ig_uniform_bits": 0.35061992264317865
+        },
+        {
+          "image": "1111.jpg",
+          "ig_uniform_bits": 0.8676732262120137
+        },
+        {
+          "image": "1112.jpg",
+          "ig_uniform_bits": 1.726570282322443
+        },
+        {
+          "image": "1121.jpg",
+          "ig_uniform_bits": 1.5544383233032053
+        },
+        {
+          "image": "1125.jpg",
+          "ig_uniform_bits": 1.0841458569375537
+        },
+        {
+          "image": "1131.jpg",
+          "ig_uniform_bits": 1.6006732070765708
+        },
+        {
+          "image": "1136.jpg",
+          "ig_uniform_bits": 0.9242580975928394
+        },
+        {
+          "image": "1138.jpg",
+          "ig_uniform_bits": -0.03618669443514953
+        },
+        {
+          "image": "1140.jpg",
+          "ig_uniform_bits": 1.3617667157009077
+        },
+        {
+          "image": "1145.jpg",
+          "ig_uniform_bits": 0.8696701743095399
+        },
+        {
+          "image": "1146.jpg",
+          "ig_uniform_bits": 2.3177127218629634
+        },
+        {
+          "image": "1154.jpg",
+          "ig_uniform_bits": 1.8246651067358866
+        },
+        {
+          "image": "1157.jpg",
+          "ig_uniform_bits": 0.942488690686561
+        },
+        {
+          "image": "1163.jpg",
+          "ig_uniform_bits": 2.4884397896936847
+        },
+        {
+          "image": "1179.jpg",
+          "ig_uniform_bits": 1.062756755002327
+        },
+        {
+          "image": "1187.jpg",
+          "ig_uniform_bits": 0.7883063016669277
+        },
+        {
+          "image": "1193.jpg",
+          "ig_uniform_bits": 0.4276605176740057
+        },
+        {
+          "image": "1196.jpg",
+          "ig_uniform_bits": 1.686257683353919
+        },
+        {
+          "image": "1202.jpg",
+          "ig_uniform_bits": 0.7103550084519143
+        },
+        {
+          "image": "1203.jpg",
+          "ig_uniform_bits": 1.8464287982633556
+        },
+        {
+          "image": "1207.jpg",
+          "ig_uniform_bits": 1.3064160010906039
+        },
+        {
+          "image": "1210.jpg",
+          "ig_uniform_bits": 1.5108491823466523
+        },
+        {
+          "image": "1211.jpg",
+          "ig_uniform_bits": 1.3181133569633632
+        },
+        {
+          "image": "1224.jpg",
+          "ig_uniform_bits": 1.590656477748165
+        },
+        {
+          "image": "1229.jpg",
+          "ig_uniform_bits": 1.5809090952871399
+        },
+        {
+          "image": "1231.jpg",
+          "ig_uniform_bits": 1.7591841697073118
+        },
+        {
+          "image": "1237.jpg",
+          "ig_uniform_bits": 1.5288994411547405
+        },
+        {
+          "image": "1249.jpg",
+          "ig_uniform_bits": 1.6419525287198755
+        },
+        {
+          "image": "1260.jpg",
+          "ig_uniform_bits": 0.5907439744270679
+        },
+        {
+          "image": "1261.jpg",
+          "ig_uniform_bits": 1.7333316129726053
+        },
+        {
+          "image": "1263.jpg",
+          "ig_uniform_bits": 1.1876189999582256
+        },
+        {
+          "image": "1265.jpg",
+          "ig_uniform_bits": 2.4447576947939234
+        },
+        {
+          "image": "1268.jpg",
+          "ig_uniform_bits": 0.9593218391547224
+        },
+        {
+          "image": "1275.jpg",
+          "ig_uniform_bits": 1.1098410733167954
+        },
+        {
+          "image": "1278.jpg",
+          "ig_uniform_bits": 1.0315725921195174
+        },
+        {
+          "image": "1281.jpg",
+          "ig_uniform_bits": 1.4408216410144792
+        },
+        {
+          "image": "1286.jpg",
+          "ig_uniform_bits": 1.0953524382710902
+        },
+        {
+          "image": "1295.jpg",
+          "ig_uniform_bits": 1.446540973472507
+        },
+        {
+          "image": "1297.jpg",
+          "ig_uniform_bits": 1.3082777298355732
+        },
+        {
+          "image": "1300.jpg",
+          "ig_uniform_bits": 1.069199076656913
+        },
+        {
+          "image": "1302.jpg",
+          "ig_uniform_bits": 1.4282109213052159
+        },
+        {
+          "image": "1303.jpg",
+          "ig_uniform_bits": 1.4457050177213473
+        },
+        {
+          "image": "1320.jpg",
+          "ig_uniform_bits": 1.362546295261591
+        },
+        {
+          "image": "1326.jpg",
+          "ig_uniform_bits": 2.2264893379245674
+        },
+        {
+          "image": "1342.jpg",
+          "ig_uniform_bits": 2.2864802599955936
+        },
+        {
+          "image": "1349.jpg",
+          "ig_uniform_bits": 1.1665738590607835
+        },
+        {
+          "image": "1350.jpg",
+          "ig_uniform_bits": 1.9265905991169017
+        },
+        {
+          "image": "1354.jpg",
+          "ig_uniform_bits": 1.05077275632586
+        },
+        {
+          "image": "1360.jpg",
+          "ig_uniform_bits": 0.561503317836312
+        },
+        {
+          "image": "1364.jpg",
+          "ig_uniform_bits": 2.2073293996901007
+        },
+        {
+          "image": "1367.jpg",
+          "ig_uniform_bits": 1.3224418041240131
+        },
+        {
+          "image": "1370.jpg",
+          "ig_uniform_bits": 3.004538001636385
+        },
+        {
+          "image": "1373.jpg",
+          "ig_uniform_bits": 1.9935477152435874
+        },
+        {
+          "image": "1375.jpg",
+          "ig_uniform_bits": 2.327538569773555
+        },
+        {
+          "image": "1379.jpg",
+          "ig_uniform_bits": 1.649297519448563
+        },
+        {
+          "image": "1387.jpg",
+          "ig_uniform_bits": 1.757953738925896
+        },
+        {
+          "image": "1399.jpg",
+          "ig_uniform_bits": 0.565248309838202
+        },
+        {
+          "image": "1400.jpg",
+          "ig_uniform_bits": 2.3270175805660043
+        },
+        {
+          "image": "1403.jpg",
+          "ig_uniform_bits": 1.3203831766254546
+        },
+        {
+          "image": "1405.jpg",
+          "ig_uniform_bits": 1.091818351110369
+        },
+        {
+          "image": "1406.jpg",
+          "ig_uniform_bits": 1.0448564440278296
+        },
+        {
+          "image": "1411.jpg",
+          "ig_uniform_bits": 1.9905291659062783
+        },
+        {
+          "image": "1430.jpg",
+          "ig_uniform_bits": 0.7842825451976805
+        },
+        {
+          "image": "1433.jpg",
+          "ig_uniform_bits": 1.1969825660874245
+        },
+        {
+          "image": "1436.jpg",
+          "ig_uniform_bits": 0.9217246743587781
+        },
+        {
+          "image": "1438.jpg",
+          "ig_uniform_bits": 2.5651079370552328
+        },
+        {
+          "image": "1440.jpg",
+          "ig_uniform_bits": 1.2187367073767157
+        },
+        {
+          "image": "1441.jpg",
+          "ig_uniform_bits": 2.0544749219611766
+        },
+        {
+          "image": "1442.jpg",
+          "ig_uniform_bits": 0.9553658703533239
+        },
+        {
+          "image": "1444.jpg",
+          "ig_uniform_bits": 1.5177738492251953
+        },
+        {
+          "image": "1446.jpg",
+          "ig_uniform_bits": 0.9937358820478336
+        },
+        {
+          "image": "1451.jpg",
+          "ig_uniform_bits": 1.3269552934796214
+        },
+        {
+          "image": "1453.jpg",
+          "ig_uniform_bits": 1.7153590749055232
+        },
+        {
+          "image": "1462.jpg",
+          "ig_uniform_bits": 1.5645920328565042
+        },
+        {
+          "image": "1466.jpg",
+          "ig_uniform_bits": 0.18466105180291786
+        },
+        {
+          "image": "1474.jpg",
+          "ig_uniform_bits": 1.7247171354197552
+        },
+        {
+          "image": "1481.jpg",
+          "ig_uniform_bits": 1.8070485903439484
+        },
+        {
+          "image": "1489.jpg",
+          "ig_uniform_bits": 0.9651553285322284
+        },
+        {
+          "image": "1499.jpg",
+          "ig_uniform_bits": 1.504524426905617
+        },
+        {
+          "image": "1500.jpg",
+          "ig_uniform_bits": 1.4746816386286914
+        },
+        {
+          "image": "1506.jpg",
+          "ig_uniform_bits": 1.7603419612619993
+        },
+        {
+          "image": "1521.jpg",
+          "ig_uniform_bits": 2.82975083086583
+        },
+        {
+          "image": "1525.jpg",
+          "ig_uniform_bits": 0.47151445332123015
+        },
+        {
+          "image": "1527.jpg",
+          "ig_uniform_bits": 2.350308810654483
+        },
+        {
+          "image": "1528.jpg",
+          "ig_uniform_bits": 0.957529722176209
+        },
+        {
+          "image": "1540.jpg",
+          "ig_uniform_bits": 2.004038367308308
+        },
+        {
+          "image": "1541.jpg",
+          "ig_uniform_bits": -0.15144369306803349
+        },
+        {
+          "image": "1542.jpg",
+          "ig_uniform_bits": 1.5842516304305463
+        },
+        {
+          "image": "1543.jpg",
+          "ig_uniform_bits": 1.1972011844852122
+        },
+        {
+          "image": "1553.jpg",
+          "ig_uniform_bits": 1.0171353566758954
+        },
+        {
+          "image": "1557.jpg",
+          "ig_uniform_bits": 1.3211942509930454
+        },
+        {
+          "image": "1559.jpg",
+          "ig_uniform_bits": 0.6839672705076821
+        },
+        {
+          "image": "1562.jpg",
+          "ig_uniform_bits": 1.3930165736958477
+        },
+        {
+          "image": "1566.jpg",
+          "ig_uniform_bits": 0.22044811541277712
+        },
+        {
+          "image": "1575.jpg",
+          "ig_uniform_bits": 1.5958306940191833
+        },
+        {
+          "image": "1584.jpg",
+          "ig_uniform_bits": 1.8197491417987408
+        },
+        {
+          "image": "1596.jpg",
+          "ig_uniform_bits": 1.1500921870345364
+        },
+        {
+          "image": "1598.jpg",
+          "ig_uniform_bits": 1.9987805667667482
+        },
+        {
+          "image": "1608.jpg",
+          "ig_uniform_bits": 1.3072557096555706
+        },
+        {
+          "image": "1610.jpg",
+          "ig_uniform_bits": 1.3557230135962786
+        },
+        {
+          "image": "1613.jpg",
+          "ig_uniform_bits": 1.4469633769960126
+        },
+        {
+          "image": "1631.jpg",
+          "ig_uniform_bits": 1.419739794974091
+        },
+        {
+          "image": "1636.jpg",
+          "ig_uniform_bits": 1.8022439080646155
+        },
+        {
+          "image": "1651.jpg",
+          "ig_uniform_bits": 1.2260962824948451
+        },
+        {
+          "image": "1655.jpg",
+          "ig_uniform_bits": 0.7303073530823387
+        },
+        {
+          "image": "1658.jpg",
+          "ig_uniform_bits": 1.1833908700338638
+        },
+        {
+          "image": "1664.jpg",
+          "ig_uniform_bits": 1.3863206473028842
+        },
+        {
+          "image": "1674.jpg",
+          "ig_uniform_bits": 1.0895424434422796
+        },
+        {
+          "image": "1692.jpg",
+          "ig_uniform_bits": 1.8273107679558278
+        },
+        {
+          "image": "1695.jpg",
+          "ig_uniform_bits": 1.4512884173107516
+        },
+        {
+          "image": "1697.jpg",
+          "ig_uniform_bits": 0.6120325164702486
+        }
+      ]
+    },
+    "semantics": {
+      "ig_uniform_bits": 1.5145337878381617,
+      "ci95": [
+        1.4124351571393006,
+        1.608429511203402
+      ],
+      "per_image": [
+        {
+          "image": "1007.jpg",
+          "ig_uniform_bits": 1.551925574564836
+        },
+        {
+          "image": "1010.jpg",
+          "ig_uniform_bits": 2.3956778699653345
+        },
+        {
+          "image": "1019.jpg",
+          "ig_uniform_bits": 1.6329723512297922
+        },
+        {
+          "image": "1026.jpg",
+          "ig_uniform_bits": 0.826010225723863
+        },
+        {
+          "image": "1028.jpg",
+          "ig_uniform_bits": 1.6930212980902777
+        },
+        {
+          "image": "1030.jpg",
+          "ig_uniform_bits": 0.3928486168824357
+        },
+        {
+          "image": "1031.jpg",
+          "ig_uniform_bits": 1.0030133682923512
+        },
+        {
+          "image": "1032.jpg",
+          "ig_uniform_bits": 0.7238357726709274
+        },
+        {
+          "image": "1034.jpg",
+          "ig_uniform_bits": 2.5445580612634475
+        },
+        {
+          "image": "1035.jpg",
+          "ig_uniform_bits": 0.8067531942988766
+        },
+        {
+          "image": "1037.jpg",
+          "ig_uniform_bits": 1.9989512864390686
+        },
+        {
+          "image": "1040.jpg",
+          "ig_uniform_bits": 0.9195574141155458
+        },
+        {
+          "image": "1047.jpg",
+          "ig_uniform_bits": 1.9418148266346946
+        },
+        {
+          "image": "1051.jpg",
+          "ig_uniform_bits": 1.46138433562471
+        },
+        {
+          "image": "1058.jpg",
+          "ig_uniform_bits": 1.2849553639241844
+        },
+        {
+          "image": "1065.jpg",
+          "ig_uniform_bits": 0.6134616577624896
+        },
+        {
+          "image": "1071.jpg",
+          "ig_uniform_bits": 2.341208528909541
+        },
+        {
+          "image": "1072.jpg",
+          "ig_uniform_bits": 1.346379968558743
+        },
+        {
+          "image": "1073.jpg",
+          "ig_uniform_bits": 1.6100189567252208
+        },
+        {
+          "image": "1074.jpg",
+          "ig_uniform_bits": 1.5739343713173937
+        },
+        {
+          "image": "1079.jpg",
+          "ig_uniform_bits": 1.6203804325297095
+        },
+        {
+          "image": "1081.jpg",
+          "ig_uniform_bits": 1.7394759479320563
+        },
+        {
+          "image": "1087.jpg",
+          "ig_uniform_bits": 0.4497237207661527
+        },
+        {
+          "image": "1088.jpg",
+          "ig_uniform_bits": 0.8335534795511103
+        },
+        {
+          "image": "1090.jpg",
+          "ig_uniform_bits": 1.6585163441905069
+        },
+        {
+          "image": "1098.jpg",
+          "ig_uniform_bits": 1.8187963401875202
+        },
+        {
+          "image": "1100.jpg",
+          "ig_uniform_bits": 1.7312333178181083
+        },
+        {
+          "image": "1102.jpg",
+          "ig_uniform_bits": 1.5772209666587027
+        },
+        {
+          "image": "1106.jpg",
+          "ig_uniform_bits": 1.8454818844986323
+        },
+        {
+          "image": "1107.jpg",
+          "ig_uniform_bits": 0.659890706808355
+        },
+        {
+          "image": "1111.jpg",
+          "ig_uniform_bits": 0.8198924701175053
+        },
+        {
+          "image": "1112.jpg",
+          "ig_uniform_bits": 1.7925391428382256
+        },
+        {
+          "image": "1121.jpg",
+          "ig_uniform_bits": 1.8108106310584144
+        },
+        {
+          "image": "1125.jpg",
+          "ig_uniform_bits": 1.5135250012080692
+        },
+        {
+          "image": "1131.jpg",
+          "ig_uniform_bits": 1.4936889418669432
+        },
+        {
+          "image": "1136.jpg",
+          "ig_uniform_bits": 1.2128172243844872
+        },
+        {
+          "image": "1138.jpg",
+          "ig_uniform_bits": 0.33830273125592863
+        },
+        {
+          "image": "1140.jpg",
+          "ig_uniform_bits": 1.9368374507647725
+        },
+        {
+          "image": "1145.jpg",
+          "ig_uniform_bits": 1.0358474287844046
+        },
+        {
+          "image": "1146.jpg",
+          "ig_uniform_bits": 2.8038756590921516
+        },
+        {
+          "image": "1154.jpg",
+          "ig_uniform_bits": 1.9083262009940147
+        },
+        {
+          "image": "1157.jpg",
+          "ig_uniform_bits": 1.1212953682523377
+        },
+        {
+          "image": "1163.jpg",
+          "ig_uniform_bits": 2.871769865511531
+        },
+        {
+          "image": "1179.jpg",
+          "ig_uniform_bits": 1.0611280200643078
+        },
+        {
+          "image": "1187.jpg",
+          "ig_uniform_bits": 1.3972645943899207
+        },
+        {
+          "image": "1193.jpg",
+          "ig_uniform_bits": 0.4195665186051728
+        },
+        {
+          "image": "1196.jpg",
+          "ig_uniform_bits": 1.5476426755999524
+        },
+        {
+          "image": "1202.jpg",
+          "ig_uniform_bits": 0.7834381767565524
+        },
+        {
+          "image": "1203.jpg",
+          "ig_uniform_bits": 1.79268825642346
+        },
+        {
+          "image": "1207.jpg",
+          "ig_uniform_bits": 1.4033454911251402
+        },
+        {
+          "image": "1210.jpg",
+          "ig_uniform_bits": 1.3848808403161064
+        },
+        {
+          "image": "1211.jpg",
+          "ig_uniform_bits": 1.3392418649143076
+        },
+        {
+          "image": "1224.jpg",
+          "ig_uniform_bits": 1.8191495990522903
+        },
+        {
+          "image": "1229.jpg",
+          "ig_uniform_bits": 1.567245242957085
+        },
+        {
+          "image": "1231.jpg",
+          "ig_uniform_bits": 2.0738588368643196
+        },
+        {
+          "image": "1237.jpg",
+          "ig_uniform_bits": 1.8271737874147134
+        },
+        {
+          "image": "1249.jpg",
+          "ig_uniform_bits": 1.671357628239931
+        },
+        {
+          "image": "1260.jpg",
+          "ig_uniform_bits": 0.46121645898924984
+        },
+        {
+          "image": "1261.jpg",
+          "ig_uniform_bits": 1.9299356284049685
+        },
+        {
+          "image": "1263.jpg",
+          "ig_uniform_bits": 1.361641216452931
+        },
+        {
+          "image": "1265.jpg",
+          "ig_uniform_bits": 2.714742417188478
+        },
+        {
+          "image": "1268.jpg",
+          "ig_uniform_bits": 1.2972735564683802
+        },
+        {
+          "image": "1275.jpg",
+          "ig_uniform_bits": 1.1526957652759615
+        },
+        {
+          "image": "1278.jpg",
+          "ig_uniform_bits": 1.1613023611110926
+        },
+        {
+          "image": "1281.jpg",
+          "ig_uniform_bits": 1.635899133582433
+        },
+        {
+          "image": "1286.jpg",
+          "ig_uniform_bits": 1.4198739367344295
+        },
+        {
+          "image": "1295.jpg",
+          "ig_uniform_bits": 1.9239083597027993
+        },
+        {
+          "image": "1297.jpg",
+          "ig_uniform_bits": 1.4808436012617103
+        },
+        {
+          "image": "1300.jpg",
+          "ig_uniform_bits": 1.2499718290911053
+        },
+        {
+          "image": "1302.jpg",
+          "ig_uniform_bits": 1.549713492611889
+        },
+        {
+          "image": "1303.jpg",
+          "ig_uniform_bits": 1.431185302548395
+        },
+        {
+          "image": "1320.jpg",
+          "ig_uniform_bits": 1.7175304664402267
+        },
+        {
+          "image": "1326.jpg",
+          "ig_uniform_bits": 2.880267094806768
+        },
+        {
+          "image": "1342.jpg",
+          "ig_uniform_bits": 2.0954213882042714
+        },
+        {
+          "image": "1349.jpg",
+          "ig_uniform_bits": 1.427474661606167
+        },
+        {
+          "image": "1350.jpg",
+          "ig_uniform_bits": 2.1705602495645997
+        },
+        {
+          "image": "1354.jpg",
+          "ig_uniform_bits": 1.1178840778181467
+        },
+        {
+          "image": "1360.jpg",
+          "ig_uniform_bits": 0.6190498021242817
+        },
+        {
+          "image": "1364.jpg",
+          "ig_uniform_bits": 2.152078263560921
+        },
+        {
+          "image": "1367.jpg",
+          "ig_uniform_bits": 1.44667792502665
+        },
+        {
+          "image": "1370.jpg",
+          "ig_uniform_bits": 3.151706490242507
+        },
+        {
+          "image": "1373.jpg",
+          "ig_uniform_bits": 2.301630052316641
+        },
+        {
+          "image": "1375.jpg",
+          "ig_uniform_bits": 2.2303109717871905
+        },
+        {
+          "image": "1379.jpg",
+          "ig_uniform_bits": 1.9403894109049389
+        },
+        {
+          "image": "1387.jpg",
+          "ig_uniform_bits": 1.8204232507484372
+        },
+        {
+          "image": "1399.jpg",
+          "ig_uniform_bits": 0.8438488190543626
+        },
+        {
+          "image": "1400.jpg",
+          "ig_uniform_bits": 2.289269925054308
+        },
+        {
+          "image": "1403.jpg",
+          "ig_uniform_bits": 1.3477895382667586
+        },
+        {
+          "image": "1405.jpg",
+          "ig_uniform_bits": 1.198899699017953
+        },
+        {
+          "image": "1406.jpg",
+          "ig_uniform_bits": 1.172030406475637
+        },
+        {
+          "image": "1411.jpg",
+          "ig_uniform_bits": 1.9028154604990373
+        },
+        {
+          "image": "1430.jpg",
+          "ig_uniform_bits": 1.028930836728935
+        },
+        {
+          "image": "1433.jpg",
+          "ig_uniform_bits": 1.3601609261206706
+        },
+        {
+          "image": "1436.jpg",
+          "ig_uniform_bits": 0.8920651941130985
+        },
+        {
+          "image": "1438.jpg",
+          "ig_uniform_bits": 2.514437541660073
+        },
+        {
+          "image": "1440.jpg",
+          "ig_uniform_bits": 1.428163841245643
+        },
+        {
+          "image": "1441.jpg",
+          "ig_uniform_bits": 2.438782488043711
+        },
+        {
+          "image": "1442.jpg",
+          "ig_uniform_bits": 1.123893117452962
+        },
+        {
+          "image": "1444.jpg",
+          "ig_uniform_bits": 1.6441959962758992
+        },
+        {
+          "image": "1446.jpg",
+          "ig_uniform_bits": 0.9815213812354201
+        },
+        {
+          "image": "1451.jpg",
+          "ig_uniform_bits": 1.384344057293549
+        },
+        {
+          "image": "1453.jpg",
+          "ig_uniform_bits": 1.9052197318312456
+        },
+        {
+          "image": "1462.jpg",
+          "ig_uniform_bits": 1.849916265939032
+        },
+        {
+          "image": "1466.jpg",
+          "ig_uniform_bits": 0.537770614851867
+        },
+        {
+          "image": "1474.jpg",
+          "ig_uniform_bits": 1.8045361035997944
+        },
+        {
+          "image": "1481.jpg",
+          "ig_uniform_bits": 1.8010173922744337
+        },
+        {
+          "image": "1489.jpg",
+          "ig_uniform_bits": 1.0139737411739707
+        },
+        {
+          "image": "1499.jpg",
+          "ig_uniform_bits": 1.5564251174500487
+        },
+        {
+          "image": "1500.jpg",
+          "ig_uniform_bits": 1.737817824113523
+        },
+        {
+          "image": "1506.jpg",
+          "ig_uniform_bits": 1.676996169807016
+        },
+        {
+          "image": "1521.jpg",
+          "ig_uniform_bits": 2.9662323165184445
+        },
+        {
+          "image": "1525.jpg",
+          "ig_uniform_bits": 0.7945002989108958
+        },
+        {
+          "image": "1527.jpg",
+          "ig_uniform_bits": 2.4467599479678737
+        },
+        {
+          "image": "1528.jpg",
+          "ig_uniform_bits": 0.5220509614813104
+        },
+        {
+          "image": "1540.jpg",
+          "ig_uniform_bits": 2.276278276522309
+        },
+        {
+          "image": "1541.jpg",
+          "ig_uniform_bits": -0.006845279129898413
+        },
+        {
+          "image": "1542.jpg",
+          "ig_uniform_bits": 1.7039870460410405
+        },
+        {
+          "image": "1543.jpg",
+          "ig_uniform_bits": 1.3801819725358946
+        },
+        {
+          "image": "1553.jpg",
+          "ig_uniform_bits": 1.5818138988760233
+        },
+        {
+          "image": "1557.jpg",
+          "ig_uniform_bits": 1.5519275264365566
+        },
+        {
+          "image": "1559.jpg",
+          "ig_uniform_bits": 0.8161732821322241
+        },
+        {
+          "image": "1562.jpg",
+          "ig_uniform_bits": 1.6287704374543353
+        },
+        {
+          "image": "1566.jpg",
+          "ig_uniform_bits": 0.39220085615340383
+        },
+        {
+          "image": "1575.jpg",
+          "ig_uniform_bits": 1.810757209235906
+        },
+        {
+          "image": "1584.jpg",
+          "ig_uniform_bits": 1.8589246482984148
+        },
+        {
+          "image": "1596.jpg",
+          "ig_uniform_bits": 1.3723439298793665
+        },
+        {
+          "image": "1598.jpg",
+          "ig_uniform_bits": 2.062981145093442
+        },
+        {
+          "image": "1608.jpg",
+          "ig_uniform_bits": 1.5174513389479858
+        },
+        {
+          "image": "1610.jpg",
+          "ig_uniform_bits": 1.3410872011429502
+        },
+        {
+          "image": "1613.jpg",
+          "ig_uniform_bits": 1.6783813974596031
+        },
+        {
+          "image": "1631.jpg",
+          "ig_uniform_bits": 1.6699120506115654
+        },
+        {
+          "image": "1636.jpg",
+          "ig_uniform_bits": 1.6830851728445277
+        },
+        {
+          "image": "1651.jpg",
+          "ig_uniform_bits": 1.2449232674825934
+        },
+        {
+          "image": "1655.jpg",
+          "ig_uniform_bits": 0.815275488386827
+        },
+        {
+          "image": "1658.jpg",
+          "ig_uniform_bits": 1.2204215507969198
+        },
+        {
+          "image": "1664.jpg",
+          "ig_uniform_bits": 1.8539214904826327
+        },
+        {
+          "image": "1674.jpg",
+          "ig_uniform_bits": 1.1713052533770598
+        },
+        {
+          "image": "1692.jpg",
+          "ig_uniform_bits": 1.9292236891001244
+        },
+        {
+          "image": "1695.jpg",
+          "ig_uniform_bits": 1.5547535032069035
+        },
+        {
+          "image": "1697.jpg",
+          "ig_uniform_bits": 0.5754552321542399
+        }
+      ]
+    }
+  }
+}

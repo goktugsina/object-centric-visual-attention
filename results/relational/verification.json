@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "checkpoints_replayed": 30,
+  "image_predictions_checked": 4200,
+  "max_score_absolute_error": 0.0,
+  "training_only_normalizers_verified": true,
+  "source_hashes_verified": true,
+  "checkpoint_hashes_verified": true,
+  "summary_sha256": "914b829fce81b957f6cdb054afd6975e04dab39c54884ec0c496de5db74b9cc6",
+  "table_sha256": "80cbfaea5fa1e8d71cb59455cf093cf25c666bfa61164cac4921cd53c9357ecf"
+}

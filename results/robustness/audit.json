@@ -1,0 +1,34 @@
+{
+  "images": 700,
+  "annotated_objects": 5551,
+  "active_objects": 5549,
+  "subject_records": 10500,
+  "raw_fixations": 98321,
+  "dropped_first": 0,
+  "rejected_duration": 10659,
+  "rejected_coordinates": 0,
+  "retained_fixations": 87662,
+  "background_fixations": 14388,
+  "overlap_fixations": 24775,
+  "overlap_pixels": 11945964,
+  "total_pixels": 336000000,
+  "semantic_attributes": [
+    "text",
+    "face",
+    "emotion",
+    "sound",
+    "smell",
+    "taste",
+    "touch",
+    "motion",
+    "operability",
+    "watchability",
+    "touched",
+    "gazed"
+  ],
+  "overlap_policy": "smallest",
+  "source_sha256": {
+    "attrs.mat": "51e9747fc6364102080cd5bac8921a279fc3f9e2a022119ae691c4bee4e8b74e",
+    "fixations.mat": "2aab9133a407e4eff3f57ab5799872b162dbc77ca462c0391762eb5e67deadb9"
+  }
+}

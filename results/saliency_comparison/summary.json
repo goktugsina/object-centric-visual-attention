@@ -1,0 +1,210 @@
+{
+  "status": "complete",
+  "images": 140,
+  "fixations": 17516,
+  "metrics": {
+    "primary": "image-average IG over uniform, bits",
+    "auc": "Judd positive-pixel thresholds, no jitter; tie-aware",
+    "cc_kl_target_sigma_fraction_of_short_side": 0.03,
+    "kl_units": "bits"
+  },
+  "models": {
+    "center": {
+      "ig_uniform_bits": 0.5222789269705918,
+      "pixel_nll_bits": 18.350395953300012,
+      "equal_observer_ig_bits": 0.5278244245890625,
+      "nss": 0.8419430728345265,
+      "auc_judd": 0.7418467517743506,
+      "cc": 0.2530111051658513,
+      "kl_bits": 2.3811285328736638,
+      "ig_ci95": [
+        0.44244760419504986,
+        0.6025193515512158
+      ]
+    },
+    "deepgaze_iie": {
+      "ig_uniform_bits": 2.6952593840709205,
+      "pixel_nll_bits": 16.177415496199682,
+      "equal_observer_ig_bits": 2.724073159749476,
+      "nss": 3.770821454583027,
+      "auc_judd": 0.9321269363919603,
+      "cc": 0.809420725166289,
+      "kl_bits": 0.6969058187831556,
+      "ig_ci95": [
+        2.5921978401671577,
+        2.7963149991552014
+      ]
+    },
+    "detected_linear": {
+      "ig_uniform_bits": 0.5010767131519266,
+      "pixel_nll_bits": 18.371598167118677,
+      "equal_observer_ig_bits": 0.508885831736851,
+      "nss": 0.8838262294670292,
+      "auc_judd": 0.6830613038375479,
+      "cc": 0.24530478095205116,
+      "kl_bits": 2.433040902775044,
+      "ig_ci95": [
+        0.41171573466570366,
+        0.5955320215579594
+      ]
+    },
+    "full_gat_11": {
+      "ig_uniform_bits": 0.31835545406501087,
+      "pixel_nll_bits": 18.554319426205595,
+      "equal_observer_ig_bits": 0.32900829127562653,
+      "nss": 0.7331164106053398,
+      "auc_judd": 0.6788715800943306,
+      "cc": 0.1995837037756477,
+      "kl_bits": 2.6354508449050726,
+      "ig_ci95": [
+        0.1977403342460867,
+        0.4422398892120149
+      ]
+    },
+    "full_self_11": {
+      "ig_uniform_bits": 0.380040225578269,
+      "pixel_nll_bits": 18.49263465469234,
+      "equal_observer_ig_bits": 0.3901110760895083,
+      "nss": 0.7491176193576152,
+      "auc_judd": 0.6791551460835151,
+      "cc": 0.20448397716607883,
+      "kl_bits": 2.568894889134248,
+      "ig_ci95": [
+        0.2731782213249368,
+        0.49320675636887157
+      ]
+    },
+    "human_semantic_linear": {
+      "ig_uniform_bits": 1.5145337878381617,
+      "pixel_nll_bits": 17.35814109243244,
+      "equal_observer_ig_bits": 1.5299748065246828,
+      "nss": 2.3022735037571245,
+      "auc_judd": 0.8186108739975639,
+      "cc": 0.5220948579000101,
+      "kl_bits": 1.81234879652642,
+      "ig_ci95": [
+        1.4124351571393006,
+        1.608429511203402
+      ]
+    },
+    "uniform": {
+      "ig_uniform_bits": -1.601713251907459e-16,
+      "pixel_nll_bits": 18.872674880270605,
+      "equal_observer_ig_bits": -1.601713251907459e-16,
+      "nss": 0.0,
+      "auc_judd": 0.5,
+      "cc": 0.0,
+      "kl_bits": 2.8788759716411927,
+      "ig_ci95": [
+        -1.601713251907459e-16,
+        -1.601713251907459e-16
+      ]
+    }
+  },
+  "contrasts": {
+    "center_over_detected_linear": {
+      "improvement_bits": 0.021202213818665213,
+      "ci95": [
+        -0.09467623667848174,
+        0.13695156974652853
+      ]
+    },
+    "deepgaze_iie_over_center": {
+      "improvement_bits": 2.1729804571003286,
+      "ci95": [
+        2.0579427383841864,
+        2.2872623711691906
+      ]
+    },
+    "deepgaze_iie_over_detected_linear": {
+      "improvement_bits": 2.1941826709189933,
+      "ci95": [
+        2.0830745994918267,
+        2.3049172929729886
+      ]
+    },
+    "detected_linear_over_center": {
+      "improvement_bits": -0.021202213818665213,
+      "ci95": [
+        -0.13695156974652856,
+        0.09467623667848173
+      ]
+    },
+    "full_gat_11_over_center": {
+      "improvement_bits": -0.20392347290558097,
+      "ci95": [
+        -0.3534263561522487,
+        -0.054258252235205466
+      ]
+    },
+    "full_gat_11_over_detected_linear": {
+      "improvement_bits": -0.18272125908691578,
+      "ci95": [
+        -0.2513763610339477,
+        -0.12203642579495765
+      ]
+    },
+    "full_self_11_over_center": {
+      "improvement_bits": -0.14223870139232278,
+      "ci95": [
+        -0.2769055578470431,
+        -0.006855528155780132
+      ]
+    },
+    "full_self_11_over_detected_linear": {
+      "improvement_bits": -0.12103648757365758,
+      "ci95": [
+        -0.16694629474017364,
+        -0.07798562099679641
+      ]
+    },
+    "human_semantic_linear_over_center": {
+      "improvement_bits": 0.99225486086757,
+      "ci95": [
+        0.871212521562353,
+        1.1110908204815408
+      ]
+    },
+    "human_semantic_linear_over_detected_linear": {
+      "improvement_bits": 1.0134570746862352,
+      "ci95": [
+        0.9039176779593964,
+        1.1215707861020534
+      ]
+    },
+    "uniform_over_center": {
+      "improvement_bits": -0.522278926970592,
+      "ci95": [
+        -0.6025193515512162,
+        -0.44244760419505014
+      ]
+    },
+    "uniform_over_detected_linear": {
+      "improvement_bits": -0.5010767131519268,
+      "ci95": [
+        -0.5955320215579596,
+        -0.41171573466570394
+      ]
+    }
+  },
+  "checkpoint_sha256": {
+    "full_self_11": "ae2bb16f48e98bbc26d0ed2e2081ef51a32dff3d97aaa9c330e04f4b155a5a3f",
+    "full_gat_11": "c00eececc60a46b3a85415f2c7d7380ad90baf9d45da8329d56304e5aad0e232"
+  },
+  "source_sha256": {
+    "scripts/compare_saliency.py": "0cd23549a84d99f0bc7153793a26ca939dfed3494de60e0834a56e7fc5e5f054",
+    "src/attention/saliency.py": "c437c7ad5b68b974810926698d925a63e6a850a5506357b5cd2768583ef8dbb8",
+    "src/attention/frozen_heads.py": "a2c4871efbbb60cf99a655718079447e859eb1873dcdf7875ce968fff98d56ff"
+  },
+  "references_sha256": {
+    "results/primary/splits.json": "1b9a0305daeac85bb66571f64198e003592f4527a893ccfd721cd96eba15ee33",
+    "results/primary/coefficients.json": "52b562ba1928253ee0fbfaab907ecb2dafd2157e2c2421b81afeac11356dac5e",
+    "results/image_only/model.json": "d52c402eb56853e6fe493c28767abb8dc11373b81ddf6dbc2245f5faa685fcf2"
+  },
+  "deepgaze_provenance_sha256": "2a9fabaa3028aa9bf50cf752faacae932fea9915d3e3e0554d8450ba7eb6749b",
+  "reference_replay_max_error": {
+    "human": 8.881784197001252e-16,
+    "detected": 9.992007221626409e-16
+  },
+  "elapsed_seconds": 203.72961119981483
+}

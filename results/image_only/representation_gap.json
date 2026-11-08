@@ -1,0 +1,8 @@
+{
+  "human_semantics_minus_detected_class_bits": 1.0134570746862352,
+  "paired_ci95": [
+    0.9039176779593963,
+    1.1215707861020534
+  ],
+  "interpretation": "Joint representation difference; mask geometry, classes and semantic attributes differ."
+}

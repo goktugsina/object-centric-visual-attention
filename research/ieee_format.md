@@ -1,0 +1,15 @@
+# IEEE conference format and template provenance
+
+The manuscript uses the IEEE conference US Letter Word template distributed through [IEEE's E12 conference site](https://attend.ieee.org/e12-2025/wp-content/uploads/sites/684/conference-template-letter.docx), consulted 2 November 2026. The [IEEE author center](https://conferences.ieeeauthorcenter.ieee.org/write-your-paper/authoring-tools-and-templates/) describes the conference-template workflow. This is a format choice, not a claim of IEEE acceptance, publication or PDF eXpress certification.
+
+The unchanged source is retained at `research/templates/ieee-conference-letter.docx`, SHA-256 `4589779a1a74782dc5a7a657a9907f243c9dd54510cb6c154acaf24cc9079852`. It has three rendered reference pages. Its Strict OOXML namespaces and point-valued dimensions are normalized into a temporary working copy for python-docx; the original is never rewritten.
+
+The format contract is US Letter (612 by 792 points), top margin 54 points, bottom margin 72 points, body side margins 45.35 points, two body columns separated by 18 points, and one full-width title/author section. Body text uses the template's Times New Roman 10-point style, title 24 points, author 11 points, abstract and keywords 9 points, and references/captions 8 points. Major headings have Roman numerals and small capitals; subsections use letters and italics. Table captions appear above tables, figure captions below figures, and equations have right-aligned numbers. Citations are numbered by first appearance.
+
+Content slots replace all demonstration text, author placeholders, illustrative table and figure, and funding/copyright placeholders. A single author is used without an invented affiliation, and the unused author columns are removed as directed by the template. No conference-specific header, copyright line, page number or submission identifier is inserted. Styles, numbering definitions, font table and theme are preserved from the syntax-normalized template. Local paragraph overrides provide explicit section/reference labels and single-author spacing.
+
+Scientific figures are regenerated at column width with 8-point labels. The results table abbreviates temperature scaling as T, defined in the accompanying text. The mathematical illustrations are numbered; editable formula strings remain in `scripts/build_manuscript.py`. All numeric manuscript fields remain linked to committed experiment outputs.
+
+Validation uses Microsoft Word PDF export followed by Poppler page rendering and visual inspection. A venue may impose its own page limit, anonymization, copyright notice, or additional submission checks; none is inferred here.
+
+The robustness extension produces six pages with 20 references, four equations, two tables and one main results figure. A terminal continuous section follows the source template mechanism to balance the final reference columns. All six rendered pages were inspected; after balancing, the first five raster pages were byte-identical to their inspected versions and the revised sixth page was inspected separately.

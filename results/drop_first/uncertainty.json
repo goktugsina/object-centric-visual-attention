@@ -1,0 +1,982 @@
+[
+  {
+    "image": "1007.jpg",
+    "ensemble_disagreement_bits": 0.0019758124044226832,
+    "empirical_observer_jsd_bits": 0.49683632542981293,
+    "outcome_entropy_bits": 2.226522348869188,
+    "regions": 7
+  },
+  {
+    "image": "1010.jpg",
+    "ensemble_disagreement_bits": 0.001674689103249083,
+    "empirical_observer_jsd_bits": 1.0691463021711223,
+    "outcome_entropy_bits": 3.4998982294562704,
+    "regions": 14
+  },
+  {
+    "image": "1019.jpg",
+    "ensemble_disagreement_bits": 0.0014562981495704896,
+    "empirical_observer_jsd_bits": 0.49003911646972687,
+    "outcome_entropy_bits": 2.423571456531823,
+    "regions": 7
+  },
+  {
+    "image": "1026.jpg",
+    "ensemble_disagreement_bits": 0.0021508891992407797,
+    "empirical_observer_jsd_bits": 0.6124477326244269,
+    "outcome_entropy_bits": 1.54595167569365,
+    "regions": 5
+  },
+  {
+    "image": "1028.jpg",
+    "ensemble_disagreement_bits": 0.002728294221415961,
+    "empirical_observer_jsd_bits": 0.6421335261662477,
+    "outcome_entropy_bits": 2.680889200465722,
+    "regions": 9
+  },
+  {
+    "image": "1030.jpg",
+    "ensemble_disagreement_bits": 0.0028093530864805594,
+    "empirical_observer_jsd_bits": 0.7223732581175508,
+    "outcome_entropy_bits": 2.384088964379413,
+    "regions": 9
+  },
+  {
+    "image": "1031.jpg",
+    "ensemble_disagreement_bits": 0.00169350898999987,
+    "empirical_observer_jsd_bits": 0.8395693476406203,
+    "outcome_entropy_bits": 3.2196969376617237,
+    "regions": 15
+  },
+  {
+    "image": "1032.jpg",
+    "ensemble_disagreement_bits": 0.002468317883151716,
+    "empirical_observer_jsd_bits": 0.8893453757183762,
+    "outcome_entropy_bits": 2.7374270536853857,
+    "regions": 10
+  },
+  {
+    "image": "1034.jpg",
+    "ensemble_disagreement_bits": 0.002741875052679088,
+    "empirical_observer_jsd_bits": 0.9637972062538123,
+    "outcome_entropy_bits": 3.1479249523652415,
+    "regions": 14
+  },
+  {
+    "image": "1035.jpg",
+    "ensemble_disagreement_bits": 0.002263738165821483,
+    "empirical_observer_jsd_bits": 0.3112143042494171,
+    "outcome_entropy_bits": 1.7234068467127175,
+    "regions": 8
+  },
+  {
+    "image": "1037.jpg",
+    "ensemble_disagreement_bits": 0.0016608681790275526,
+    "empirical_observer_jsd_bits": 0.4406662345277983,
+    "outcome_entropy_bits": 1.8880351858871256,
+    "regions": 4
+  },
+  {
+    "image": "1040.jpg",
+    "ensemble_disagreement_bits": 0.0012345426367255108,
+    "empirical_observer_jsd_bits": 0.6217462012700457,
+    "outcome_entropy_bits": 2.1163526174462937,
+    "regions": 5
+  },
+  {
+    "image": "1047.jpg",
+    "ensemble_disagreement_bits": 0.0011533642376164721,
+    "empirical_observer_jsd_bits": 0.7130546779531046,
+    "outcome_entropy_bits": 2.551582198195021,
+    "regions": 8
+  },
+  {
+    "image": "1051.jpg",
+    "ensemble_disagreement_bits": 0.002551490865097872,
+    "empirical_observer_jsd_bits": 0.8432348793719329,
+    "outcome_entropy_bits": 3.0598970105329535,
+    "regions": 12
+  },
+  {
+    "image": "1058.jpg",
+    "ensemble_disagreement_bits": 0.001476022623723594,
+    "empirical_observer_jsd_bits": 0.6502730944400836,
+    "outcome_entropy_bits": 2.026443732318449,
+    "regions": 9
+  },
+  {
+    "image": "1065.jpg",
+    "ensemble_disagreement_bits": 0.004771078513200244,
+    "empirical_observer_jsd_bits": 0.35956013826417754,
+    "outcome_entropy_bits": 2.029238297050947,
+    "regions": 6
+  },
+  {
+    "image": "1071.jpg",
+    "ensemble_disagreement_bits": 0.002120710901268641,
+    "empirical_observer_jsd_bits": 0.43454559279972127,
+    "outcome_entropy_bits": 2.111051705855709,
+    "regions": 5
+  },
+  {
+    "image": "1072.jpg",
+    "ensemble_disagreement_bits": 0.0006297690375971499,
+    "empirical_observer_jsd_bits": 0.38248380415722405,
+    "outcome_entropy_bits": 1.614460077989889,
+    "regions": 4
+  },
+  {
+    "image": "1073.jpg",
+    "ensemble_disagreement_bits": 0.0018358903882220723,
+    "empirical_observer_jsd_bits": 0.48690560051830545,
+    "outcome_entropy_bits": 2.1900217905362873,
+    "regions": 5
+  },
+  {
+    "image": "1074.jpg",
+    "ensemble_disagreement_bits": 0.001361596043424118,
+    "empirical_observer_jsd_bits": 0.48501926262592554,
+    "outcome_entropy_bits": 1.6697041658551912,
+    "regions": 4
+  },
+  {
+    "image": "1079.jpg",
+    "ensemble_disagreement_bits": 0.0023031426193744764,
+    "empirical_observer_jsd_bits": 0.7199606547904254,
+    "outcome_entropy_bits": 2.5476748826325615,
+    "regions": 7
+  },
+  {
+    "image": "1081.jpg",
+    "ensemble_disagreement_bits": 0.002616150203554657,
+    "empirical_observer_jsd_bits": 1.115062934818841,
+    "outcome_entropy_bits": 3.2120066290419014,
+    "regions": 14
+  },
+  {
+    "image": "1087.jpg",
+    "ensemble_disagreement_bits": 0.0018518530583517823,
+    "empirical_observer_jsd_bits": 0.9663605912221795,
+    "outcome_entropy_bits": 2.9883368967901376,
+    "regions": 17
+  },
+  {
+    "image": "1088.jpg",
+    "ensemble_disagreement_bits": 0.002788616756871587,
+    "empirical_observer_jsd_bits": 0.7464055090322295,
+    "outcome_entropy_bits": 2.6290639161608205,
+    "regions": 9
+  },
+  {
+    "image": "1090.jpg",
+    "ensemble_disagreement_bits": 0.0015761891344401313,
+    "empirical_observer_jsd_bits": 0.7527304854366552,
+    "outcome_entropy_bits": 2.6009193909141115,
+    "regions": 8
+  },
+  {
+    "image": "1098.jpg",
+    "ensemble_disagreement_bits": 0.0025814387494556,
+    "empirical_observer_jsd_bits": 0.8709402093386456,
+    "outcome_entropy_bits": 2.5146574434453433,
+    "regions": 11
+  },
+  {
+    "image": "1100.jpg",
+    "ensemble_disagreement_bits": 0.002677432925444201,
+    "empirical_observer_jsd_bits": 0.85851056425208,
+    "outcome_entropy_bits": 2.8215832925648203,
+    "regions": 16
+  },
+  {
+    "image": "1102.jpg",
+    "ensemble_disagreement_bits": 0.004243173933486499,
+    "empirical_observer_jsd_bits": 0.709950838220188,
+    "outcome_entropy_bits": 2.9954815930731202,
+    "regions": 15
+  },
+  {
+    "image": "1106.jpg",
+    "ensemble_disagreement_bits": 0.003317762306173311,
+    "empirical_observer_jsd_bits": 0.6989192342090358,
+    "outcome_entropy_bits": 2.5649420705600834,
+    "regions": 13
+  },
+  {
+    "image": "1107.jpg",
+    "ensemble_disagreement_bits": 0.0026112058152882867,
+    "empirical_observer_jsd_bits": 0.6675029662714747,
+    "outcome_entropy_bits": 2.3238558237994944,
+    "regions": 11
+  },
+  {
+    "image": "1111.jpg",
+    "ensemble_disagreement_bits": 0.0012999882417843445,
+    "empirical_observer_jsd_bits": 0.6745571429001103,
+    "outcome_entropy_bits": 2.359874184637103,
+    "regions": 7
+  },
+  {
+    "image": "1112.jpg",
+    "ensemble_disagreement_bits": 0.001924624810953901,
+    "empirical_observer_jsd_bits": 0.6845246771684002,
+    "outcome_entropy_bits": 2.585278648708022,
+    "regions": 8
+  },
+  {
+    "image": "1121.jpg",
+    "ensemble_disagreement_bits": 0.002699949094350451,
+    "empirical_observer_jsd_bits": 0.5488138256991788,
+    "outcome_entropy_bits": 1.6197909828313781,
+    "regions": 6
+  },
+  {
+    "image": "1125.jpg",
+    "ensemble_disagreement_bits": 0.0033394832626765236,
+    "empirical_observer_jsd_bits": 0.89838024868963,
+    "outcome_entropy_bits": 2.508620513145109,
+    "regions": 9
+  },
+  {
+    "image": "1131.jpg",
+    "ensemble_disagreement_bits": 0.0018491034278227403,
+    "empirical_observer_jsd_bits": 0.6317912833291988,
+    "outcome_entropy_bits": 2.1946955990325665,
+    "regions": 6
+  },
+  {
+    "image": "1136.jpg",
+    "ensemble_disagreement_bits": 0.004569039954191112,
+    "empirical_observer_jsd_bits": 0.9348351445140537,
+    "outcome_entropy_bits": 2.912239524041043,
+    "regions": 20
+  },
+  {
+    "image": "1138.jpg",
+    "ensemble_disagreement_bits": 0.005238195702433668,
+    "empirical_observer_jsd_bits": 0.6861224184988339,
+    "outcome_entropy_bits": 2.5037221406371732,
+    "regions": 12
+  },
+  {
+    "image": "1140.jpg",
+    "ensemble_disagreement_bits": 0.0022693878599246986,
+    "empirical_observer_jsd_bits": 0.4243474571633985,
+    "outcome_entropy_bits": 2.4138274896637943,
+    "regions": 10
+  },
+  {
+    "image": "1145.jpg",
+    "ensemble_disagreement_bits": 0.003312646174873368,
+    "empirical_observer_jsd_bits": 0.7010194812799135,
+    "outcome_entropy_bits": 2.3721804488878018,
+    "regions": 8
+  },
+  {
+    "image": "1146.jpg",
+    "ensemble_disagreement_bits": 0.0022363234395657017,
+    "empirical_observer_jsd_bits": 0.5491965007407773,
+    "outcome_entropy_bits": 1.8769173173414988,
+    "regions": 8
+  },
+  {
+    "image": "1154.jpg",
+    "ensemble_disagreement_bits": 0.0013996010609380605,
+    "empirical_observer_jsd_bits": 0.6702523815680177,
+    "outcome_entropy_bits": 2.7101882168354754,
+    "regions": 8
+  },
+  {
+    "image": "1157.jpg",
+    "ensemble_disagreement_bits": 0.004920188715471063,
+    "empirical_observer_jsd_bits": 1.1440076383545645,
+    "outcome_entropy_bits": 3.4043579394296595,
+    "regions": 23
+  },
+  {
+    "image": "1163.jpg",
+    "ensemble_disagreement_bits": 0.0019226803557113037,
+    "empirical_observer_jsd_bits": 0.5538514473718557,
+    "outcome_entropy_bits": 2.239090389340139,
+    "regions": 7
+  },
+  {
+    "image": "1179.jpg",
+    "ensemble_disagreement_bits": 0.0034317846009082054,
+    "empirical_observer_jsd_bits": 0.4695055755301525,
+    "outcome_entropy_bits": 2.230981770499086,
+    "regions": 5
+  },
+  {
+    "image": "1187.jpg",
+    "ensemble_disagreement_bits": 0.0026596437300030473,
+    "empirical_observer_jsd_bits": 0.5694208320231435,
+    "outcome_entropy_bits": 2.3758007645893975,
+    "regions": 11
+  },
+  {
+    "image": "1193.jpg",
+    "ensemble_disagreement_bits": 0.0024478986718370344,
+    "empirical_observer_jsd_bits": 0.5321313662232499,
+    "outcome_entropy_bits": 2.4165003816248873,
+    "regions": 7
+  },
+  {
+    "image": "1196.jpg",
+    "ensemble_disagreement_bits": 0.001687036603958969,
+    "empirical_observer_jsd_bits": 0.7279405168641631,
+    "outcome_entropy_bits": 2.2899773463644078,
+    "regions": 8
+  },
+  {
+    "image": "1202.jpg",
+    "ensemble_disagreement_bits": 0.001456316856039308,
+    "empirical_observer_jsd_bits": 0.5051177831846412,
+    "outcome_entropy_bits": 1.9203528447044012,
+    "regions": 7
+  },
+  {
+    "image": "1203.jpg",
+    "ensemble_disagreement_bits": 0.002362813427808863,
+    "empirical_observer_jsd_bits": 0.5808457105320781,
+    "outcome_entropy_bits": 2.6996987788128184,
+    "regions": 9
+  },
+  {
+    "image": "1207.jpg",
+    "ensemble_disagreement_bits": 0.0034855961149808934,
+    "empirical_observer_jsd_bits": 1.1025711989784832,
+    "outcome_entropy_bits": 3.526428279215023,
+    "regions": 18
+  },
+  {
+    "image": "1210.jpg",
+    "ensemble_disagreement_bits": 0.0024609616242154964,
+    "empirical_observer_jsd_bits": 0.5800414018118323,
+    "outcome_entropy_bits": 2.794913935536741,
+    "regions": 8
+  },
+  {
+    "image": "1211.jpg",
+    "ensemble_disagreement_bits": 0.001927440142219794,
+    "empirical_observer_jsd_bits": 0.8668791189626455,
+    "outcome_entropy_bits": 2.9609141632951164,
+    "regions": 14
+  },
+  {
+    "image": "1224.jpg",
+    "ensemble_disagreement_bits": 0.0012115541948634068,
+    "empirical_observer_jsd_bits": 0.5144841563545657,
+    "outcome_entropy_bits": 2.626340521582323,
+    "regions": 7
+  },
+  {
+    "image": "1229.jpg",
+    "ensemble_disagreement_bits": 0.004459658009182466,
+    "empirical_observer_jsd_bits": 0.9171845521420718,
+    "outcome_entropy_bits": 3.0099761804342715,
+    "regions": 12
+  },
+  {
+    "image": "1231.jpg",
+    "ensemble_disagreement_bits": 0.002482541127060145,
+    "empirical_observer_jsd_bits": 0.5926316760389634,
+    "outcome_entropy_bits": 1.7917935269763972,
+    "regions": 5
+  },
+  {
+    "image": "1237.jpg",
+    "ensemble_disagreement_bits": 0.0018779084081428365,
+    "empirical_observer_jsd_bits": 0.8035654060336523,
+    "outcome_entropy_bits": 2.903301475871225,
+    "regions": 16
+  },
+  {
+    "image": "1249.jpg",
+    "ensemble_disagreement_bits": 0.0013737778021758462,
+    "empirical_observer_jsd_bits": 0.3626864859968877,
+    "outcome_entropy_bits": 1.640142404973768,
+    "regions": 5
+  },
+  {
+    "image": "1260.jpg",
+    "ensemble_disagreement_bits": 0.002347033496992168,
+    "empirical_observer_jsd_bits": 1.1011947495965684,
+    "outcome_entropy_bits": 3.516937829202322,
+    "regions": 26
+  },
+  {
+    "image": "1261.jpg",
+    "ensemble_disagreement_bits": 0.0009181109595157722,
+    "empirical_observer_jsd_bits": 0.8948385678221233,
+    "outcome_entropy_bits": 2.728601490588562,
+    "regions": 13
+  },
+  {
+    "image": "1263.jpg",
+    "ensemble_disagreement_bits": 0.004534089881901515,
+    "empirical_observer_jsd_bits": 0.7197079368059907,
+    "outcome_entropy_bits": 2.7854080140738255,
+    "regions": 12
+  },
+  {
+    "image": "1265.jpg",
+    "ensemble_disagreement_bits": 0.0021541932714335132,
+    "empirical_observer_jsd_bits": 0.5648834923676493,
+    "outcome_entropy_bits": 1.813839361067178,
+    "regions": 6
+  },
+  {
+    "image": "1268.jpg",
+    "ensemble_disagreement_bits": 0.0016940526270543543,
+    "empirical_observer_jsd_bits": 0.6757535599487428,
+    "outcome_entropy_bits": 2.4367946719853046,
+    "regions": 11
+  },
+  {
+    "image": "1275.jpg",
+    "ensemble_disagreement_bits": 0.0026419104569352925,
+    "empirical_observer_jsd_bits": 0.30583069541003804,
+    "outcome_entropy_bits": 1.7410090976826433,
+    "regions": 4
+  },
+  {
+    "image": "1278.jpg",
+    "ensemble_disagreement_bits": 0.002018793442505107,
+    "empirical_observer_jsd_bits": 0.6058769595183313,
+    "outcome_entropy_bits": 2.7453578609240785,
+    "regions": 10
+  },
+  {
+    "image": "1281.jpg",
+    "ensemble_disagreement_bits": 0.0024931908831247185,
+    "empirical_observer_jsd_bits": 0.26996363363441334,
+    "outcome_entropy_bits": 1.9404482502278646,
+    "regions": 5
+  },
+  {
+    "image": "1286.jpg",
+    "ensemble_disagreement_bits": 0.003946856000144994,
+    "empirical_observer_jsd_bits": 0.49670273051337244,
+    "outcome_entropy_bits": 2.513399277533128,
+    "regions": 8
+  },
+  {
+    "image": "1295.jpg",
+    "ensemble_disagreement_bits": 0.0028551564786023498,
+    "empirical_observer_jsd_bits": 0.8274912415590989,
+    "outcome_entropy_bits": 2.6268652116441262,
+    "regions": 17
+  },
+  {
+    "image": "1297.jpg",
+    "ensemble_disagreement_bits": 0.0023026961585888017,
+    "empirical_observer_jsd_bits": 0.6924177733903336,
+    "outcome_entropy_bits": 2.0939682741020986,
+    "regions": 5
+  },
+  {
+    "image": "1300.jpg",
+    "ensemble_disagreement_bits": 0.0023087147763636295,
+    "empirical_observer_jsd_bits": 0.9262526039658701,
+    "outcome_entropy_bits": 2.9666639082977837,
+    "regions": 12
+  },
+  {
+    "image": "1302.jpg",
+    "ensemble_disagreement_bits": 0.0014450684852804763,
+    "empirical_observer_jsd_bits": 0.5100569701432522,
+    "outcome_entropy_bits": 2.4570967302462985,
+    "regions": 7
+  },
+  {
+    "image": "1303.jpg",
+    "ensemble_disagreement_bits": 0.0025056939967682546,
+    "empirical_observer_jsd_bits": 0.5888032297619801,
+    "outcome_entropy_bits": 2.5338518250184743,
+    "regions": 10
+  },
+  {
+    "image": "1320.jpg",
+    "ensemble_disagreement_bits": 0.0018760094783303316,
+    "empirical_observer_jsd_bits": 0.9546956630296277,
+    "outcome_entropy_bits": 3.004376938973401,
+    "regions": 15
+  },
+  {
+    "image": "1326.jpg",
+    "ensemble_disagreement_bits": 0.002459200218811297,
+    "empirical_observer_jsd_bits": 0.39233291961914984,
+    "outcome_entropy_bits": 2.0542168210430756,
+    "regions": 8
+  },
+  {
+    "image": "1342.jpg",
+    "ensemble_disagreement_bits": 0.0014255298958598672,
+    "empirical_observer_jsd_bits": 0.7063845212269133,
+    "outcome_entropy_bits": 2.4862098492620976,
+    "regions": 8
+  },
+  {
+    "image": "1349.jpg",
+    "ensemble_disagreement_bits": 0.005155068120771267,
+    "empirical_observer_jsd_bits": 0.5879928835835411,
+    "outcome_entropy_bits": 1.9404380434536765,
+    "regions": 5
+  },
+  {
+    "image": "1350.jpg",
+    "ensemble_disagreement_bits": 0.0026523472101942502,
+    "empirical_observer_jsd_bits": 0.9135214527209696,
+    "outcome_entropy_bits": 2.7843328286451707,
+    "regions": 9
+  },
+  {
+    "image": "1354.jpg",
+    "ensemble_disagreement_bits": 0.003993650933562964,
+    "empirical_observer_jsd_bits": 0.44938068550071875,
+    "outcome_entropy_bits": 2.2549439484961473,
+    "regions": 6
+  },
+  {
+    "image": "1360.jpg",
+    "ensemble_disagreement_bits": 0.0032233012301592368,
+    "empirical_observer_jsd_bits": 0.9456505771727959,
+    "outcome_entropy_bits": 3.0193376037022235,
+    "regions": 12
+  },
+  {
+    "image": "1364.jpg",
+    "ensemble_disagreement_bits": 0.002094259832811751,
+    "empirical_observer_jsd_bits": 0.9587395374268755,
+    "outcome_entropy_bits": 3.077922994629009,
+    "regions": 13
+  },
+  {
+    "image": "1367.jpg",
+    "ensemble_disagreement_bits": 0.0027804034147349554,
+    "empirical_observer_jsd_bits": 0.5995590538997839,
+    "outcome_entropy_bits": 2.600184700017805,
+    "regions": 10
+  },
+  {
+    "image": "1370.jpg",
+    "ensemble_disagreement_bits": 0.0027814421186782567,
+    "empirical_observer_jsd_bits": 0.5330178654415099,
+    "outcome_entropy_bits": 2.4317104395173,
+    "regions": 6
+  },
+  {
+    "image": "1373.jpg",
+    "ensemble_disagreement_bits": 0.001685498023630938,
+    "empirical_observer_jsd_bits": 0.8175763300580263,
+    "outcome_entropy_bits": 2.7221982116985934,
+    "regions": 10
+  },
+  {
+    "image": "1375.jpg",
+    "ensemble_disagreement_bits": 0.0007546952096437742,
+    "empirical_observer_jsd_bits": 0.36547771156425446,
+    "outcome_entropy_bits": 1.9093743774460394,
+    "regions": 4
+  },
+  {
+    "image": "1379.jpg",
+    "ensemble_disagreement_bits": 0.002065343246791862,
+    "empirical_observer_jsd_bits": 0.4141918677918299,
+    "outcome_entropy_bits": 1.9271234503025751,
+    "regions": 5
+  },
+  {
+    "image": "1387.jpg",
+    "ensemble_disagreement_bits": 0.002995624202736469,
+    "empirical_observer_jsd_bits": 0.9558528862466205,
+    "outcome_entropy_bits": 2.6459365244713813,
+    "regions": 10
+  },
+  {
+    "image": "1399.jpg",
+    "ensemble_disagreement_bits": 0.003378875936923098,
+    "empirical_observer_jsd_bits": 0.5468401857200378,
+    "outcome_entropy_bits": 2.3764793082267115,
+    "regions": 8
+  },
+  {
+    "image": "1400.jpg",
+    "ensemble_disagreement_bits": 0.002004078739510806,
+    "empirical_observer_jsd_bits": 0.6941263247982747,
+    "outcome_entropy_bits": 2.8883384898902174,
+    "regions": 8
+  },
+  {
+    "image": "1403.jpg",
+    "ensemble_disagreement_bits": 0.0013723487565182602,
+    "empirical_observer_jsd_bits": 0.3996513543781748,
+    "outcome_entropy_bits": 2.054444593585065,
+    "regions": 5
+  },
+  {
+    "image": "1405.jpg",
+    "ensemble_disagreement_bits": 0.004353749740471979,
+    "empirical_observer_jsd_bits": 0.421754001946828,
+    "outcome_entropy_bits": 1.7966093922293498,
+    "regions": 4
+  },
+  {
+    "image": "1406.jpg",
+    "ensemble_disagreement_bits": 0.0013796760899085214,
+    "empirical_observer_jsd_bits": 0.49171763158388204,
+    "outcome_entropy_bits": 2.0887605173927013,
+    "regions": 7
+  },
+  {
+    "image": "1411.jpg",
+    "ensemble_disagreement_bits": 0.0017726649528699845,
+    "empirical_observer_jsd_bits": 0.5912663816602004,
+    "outcome_entropy_bits": 2.6313239860552753,
+    "regions": 8
+  },
+  {
+    "image": "1430.jpg",
+    "ensemble_disagreement_bits": 0.00280661485265421,
+    "empirical_observer_jsd_bits": 0.6495667352326231,
+    "outcome_entropy_bits": 2.4487149739420433,
+    "regions": 7
+  },
+  {
+    "image": "1433.jpg",
+    "ensemble_disagreement_bits": 0.004239974485114928,
+    "empirical_observer_jsd_bits": 0.5545355095195179,
+    "outcome_entropy_bits": 2.1511283747842485,
+    "regions": 5
+  },
+  {
+    "image": "1436.jpg",
+    "ensemble_disagreement_bits": 0.001903433632526319,
+    "empirical_observer_jsd_bits": 0.6888436067983259,
+    "outcome_entropy_bits": 2.2672579073862886,
+    "regions": 7
+  },
+  {
+    "image": "1438.jpg",
+    "ensemble_disagreement_bits": 0.001553909223511507,
+    "empirical_observer_jsd_bits": 0.6276452645263157,
+    "outcome_entropy_bits": 2.6881575855820565,
+    "regions": 8
+  },
+  {
+    "image": "1440.jpg",
+    "ensemble_disagreement_bits": 0.0020893468715073027,
+    "empirical_observer_jsd_bits": 0.6588933973566524,
+    "outcome_entropy_bits": 2.287262238350091,
+    "regions": 8
+  },
+  {
+    "image": "1441.jpg",
+    "ensemble_disagreement_bits": 0.0026659740387358077,
+    "empirical_observer_jsd_bits": 0.562674034195412,
+    "outcome_entropy_bits": 2.406435221945898,
+    "regions": 7
+  },
+  {
+    "image": "1442.jpg",
+    "ensemble_disagreement_bits": 0.0036750852476219453,
+    "empirical_observer_jsd_bits": 0.48655901882022135,
+    "outcome_entropy_bits": 1.5984330263000046,
+    "regions": 4
+  },
+  {
+    "image": "1444.jpg",
+    "ensemble_disagreement_bits": 0.004788122801216321,
+    "empirical_observer_jsd_bits": 0.6683634161099605,
+    "outcome_entropy_bits": 2.4342570382643296,
+    "regions": 6
+  },
+  {
+    "image": "1446.jpg",
+    "ensemble_disagreement_bits": 0.0036070698764740783,
+    "empirical_observer_jsd_bits": 0.5397477923633773,
+    "outcome_entropy_bits": 2.549709549172903,
+    "regions": 6
+  },
+  {
+    "image": "1451.jpg",
+    "ensemble_disagreement_bits": 0.0020541854213225186,
+    "empirical_observer_jsd_bits": 0.3777242399417562,
+    "outcome_entropy_bits": 2.1731824505267388,
+    "regions": 5
+  },
+  {
+    "image": "1453.jpg",
+    "ensemble_disagreement_bits": 0.002949462881994158,
+    "empirical_observer_jsd_bits": 0.6147272851257901,
+    "outcome_entropy_bits": 2.4132258818092573,
+    "regions": 6
+  },
+  {
+    "image": "1462.jpg",
+    "ensemble_disagreement_bits": 0.005174312536822878,
+    "empirical_observer_jsd_bits": 0.6045580707393077,
+    "outcome_entropy_bits": 2.5924043900211937,
+    "regions": 8
+  },
+  {
+    "image": "1466.jpg",
+    "ensemble_disagreement_bits": 0.003272048165015251,
+    "empirical_observer_jsd_bits": 0.67078531935936,
+    "outcome_entropy_bits": 1.7018506544569123,
+    "regions": 5
+  },
+  {
+    "image": "1474.jpg",
+    "ensemble_disagreement_bits": 0.0015482846550396445,
+    "empirical_observer_jsd_bits": 0.6592729508974928,
+    "outcome_entropy_bits": 2.1314833105414803,
+    "regions": 5
+  },
+  {
+    "image": "1481.jpg",
+    "ensemble_disagreement_bits": 0.002362314277263522,
+    "empirical_observer_jsd_bits": 0.9610286477288161,
+    "outcome_entropy_bits": 3.1091903611045364,
+    "regions": 11
+  },
+  {
+    "image": "1489.jpg",
+    "ensemble_disagreement_bits": 0.002086479427826138,
+    "empirical_observer_jsd_bits": 0.5609820739983917,
+    "outcome_entropy_bits": 2.401076269660156,
+    "regions": 7
+  },
+  {
+    "image": "1499.jpg",
+    "ensemble_disagreement_bits": 0.0014081061028470288,
+    "empirical_observer_jsd_bits": 0.2570823320807245,
+    "outcome_entropy_bits": 1.1058225080373247,
+    "regions": 5
+  },
+  {
+    "image": "1500.jpg",
+    "ensemble_disagreement_bits": 0.002653072090905262,
+    "empirical_observer_jsd_bits": 0.5783621984412093,
+    "outcome_entropy_bits": 2.4424715240816406,
+    "regions": 8
+  },
+  {
+    "image": "1506.jpg",
+    "ensemble_disagreement_bits": 0.0019712392828692415,
+    "empirical_observer_jsd_bits": 0.738765193332837,
+    "outcome_entropy_bits": 2.5498474982937736,
+    "regions": 10
+  },
+  {
+    "image": "1521.jpg",
+    "ensemble_disagreement_bits": 0.0019467793731364758,
+    "empirical_observer_jsd_bits": 0.6532581882007868,
+    "outcome_entropy_bits": 2.4101156539420105,
+    "regions": 6
+  },
+  {
+    "image": "1525.jpg",
+    "ensemble_disagreement_bits": 0.0022527477621014924,
+    "empirical_observer_jsd_bits": 0.6508183513037282,
+    "outcome_entropy_bits": 2.267871108119947,
+    "regions": 10
+  },
+  {
+    "image": "1527.jpg",
+    "ensemble_disagreement_bits": 0.0018575139176979505,
+    "empirical_observer_jsd_bits": 0.5104679328082726,
+    "outcome_entropy_bits": 2.071174982188148,
+    "regions": 5
+  },
+  {
+    "image": "1528.jpg",
+    "ensemble_disagreement_bits": 0.002465939672790185,
+    "empirical_observer_jsd_bits": 0.9382713188367027,
+    "outcome_entropy_bits": 2.98553632762392,
+    "regions": 14
+  },
+  {
+    "image": "1540.jpg",
+    "ensemble_disagreement_bits": 0.0016812908793935044,
+    "empirical_observer_jsd_bits": 0.5046253675485677,
+    "outcome_entropy_bits": 2.3594155944578445,
+    "regions": 7
+  },
+  {
+    "image": "1541.jpg",
+    "ensemble_disagreement_bits": 0.0009385417948837294,
+    "empirical_observer_jsd_bits": 0.4063029425581446,
+    "outcome_entropy_bits": 1.7452397800725916,
+    "regions": 5
+  },
+  {
+    "image": "1542.jpg",
+    "ensemble_disagreement_bits": 0.002235122381792909,
+    "empirical_observer_jsd_bits": 0.4551947141649777,
+    "outcome_entropy_bits": 1.9815834803736994,
+    "regions": 5
+  },
+  {
+    "image": "1543.jpg",
+    "ensemble_disagreement_bits": 0.0018025260541167931,
+    "empirical_observer_jsd_bits": 0.7475711082063805,
+    "outcome_entropy_bits": 2.911085255603762,
+    "regions": 10
+  },
+  {
+    "image": "1553.jpg",
+    "ensemble_disagreement_bits": 0.004608566310321471,
+    "empirical_observer_jsd_bits": 0.9537306448512635,
+    "outcome_entropy_bits": 2.57336827212394,
+    "regions": 13
+  },
+  {
+    "image": "1557.jpg",
+    "ensemble_disagreement_bits": 0.0020790501046503707,
+    "empirical_observer_jsd_bits": 0.32721129086538525,
+    "outcome_entropy_bits": 1.8917932859564446,
+    "regions": 5
+  },
+  {
+    "image": "1559.jpg",
+    "ensemble_disagreement_bits": 0.0032385613024779047,
+    "empirical_observer_jsd_bits": 0.6152422182140609,
+    "outcome_entropy_bits": 2.4561114433973876,
+    "regions": 8
+  },
+  {
+    "image": "1562.jpg",
+    "ensemble_disagreement_bits": 0.002209880195096936,
+    "empirical_observer_jsd_bits": 0.6234051197724497,
+    "outcome_entropy_bits": 2.562319583509041,
+    "regions": 7
+  },
+  {
+    "image": "1566.jpg",
+    "ensemble_disagreement_bits": 0.002002249981290838,
+    "empirical_observer_jsd_bits": 1.0437118813307416,
+    "outcome_entropy_bits": 2.887740706704373,
+    "regions": 15
+  },
+  {
+    "image": "1575.jpg",
+    "ensemble_disagreement_bits": 0.0040314005537567255,
+    "empirical_observer_jsd_bits": 0.5412660816412753,
+    "outcome_entropy_bits": 2.585794691620519,
+    "regions": 8
+  },
+  {
+    "image": "1584.jpg",
+    "ensemble_disagreement_bits": 0.001592671158268999,
+    "empirical_observer_jsd_bits": 0.7807317729938683,
+    "outcome_entropy_bits": 2.1366354452552034,
+    "regions": 7
+  },
+  {
+    "image": "1596.jpg",
+    "ensemble_disagreement_bits": 0.003509079984059138,
+    "empirical_observer_jsd_bits": 0.7178428084229842,
+    "outcome_entropy_bits": 2.918137112057849,
+    "regions": 18
+  },
+  {
+    "image": "1598.jpg",
+    "ensemble_disagreement_bits": 0.002915503083003923,
+    "empirical_observer_jsd_bits": 0.8603437395965834,
+    "outcome_entropy_bits": 2.896586632864054,
+    "regions": 9
+  },
+  {
+    "image": "1608.jpg",
+    "ensemble_disagreement_bits": 0.0019825111016347208,
+    "empirical_observer_jsd_bits": 0.5368475079377537,
+    "outcome_entropy_bits": 2.12840541733516,
+    "regions": 6
+  },
+  {
+    "image": "1610.jpg",
+    "ensemble_disagreement_bits": 0.002105367334006125,
+    "empirical_observer_jsd_bits": 0.835309331461523,
+    "outcome_entropy_bits": 2.7495419996920365,
+    "regions": 8
+  },
+  {
+    "image": "1613.jpg",
+    "ensemble_disagreement_bits": 0.0013957783412692493,
+    "empirical_observer_jsd_bits": 0.4875049498521009,
+    "outcome_entropy_bits": 2.436612019465371,
+    "regions": 8
+  },
+  {
+    "image": "1631.jpg",
+    "ensemble_disagreement_bits": 0.004490176645256749,
+    "empirical_observer_jsd_bits": 0.5831940615688165,
+    "outcome_entropy_bits": 2.438187190022879,
+    "regions": 8
+  },
+  {
+    "image": "1636.jpg",
+    "ensemble_disagreement_bits": 0.0015379481980795084,
+    "empirical_observer_jsd_bits": 0.6082058539105688,
+    "outcome_entropy_bits": 2.2018189782531796,
+    "regions": 6
+  },
+  {
+    "image": "1651.jpg",
+    "ensemble_disagreement_bits": 0.002908301766727739,
+    "empirical_observer_jsd_bits": 0.5009346064518159,
+    "outcome_entropy_bits": 2.65420379829575,
+    "regions": 9
+  },
+  {
+    "image": "1655.jpg",
+    "ensemble_disagreement_bits": 0.0012046382525086052,
+    "empirical_observer_jsd_bits": 0.3706351082852034,
+    "outcome_entropy_bits": 1.2974346664148686,
+    "regions": 4
+  },
+  {
+    "image": "1658.jpg",
+    "ensemble_disagreement_bits": 0.002243631077215813,
+    "empirical_observer_jsd_bits": 0.5421009510563468,
+    "outcome_entropy_bits": 2.2576088605558238,
+    "regions": 8
+  },
+  {
+    "image": "1664.jpg",
+    "ensemble_disagreement_bits": 0.002620669888245164,
+    "empirical_observer_jsd_bits": 0.6307999333409493,
+    "outcome_entropy_bits": 2.4914689885996517,
+    "regions": 10
+  },
+  {
+    "image": "1674.jpg",
+    "ensemble_disagreement_bits": 0.002180400388957615,
+    "empirical_observer_jsd_bits": 0.6652371322265729,
+    "outcome_entropy_bits": 2.603902495134021,
+    "regions": 7
+  },
+  {
+    "image": "1692.jpg",
+    "ensemble_disagreement_bits": 0.004038892213487966,
+    "empirical_observer_jsd_bits": 0.6856208819230996,
+    "outcome_entropy_bits": 2.752233612886296,
+    "regions": 9
+  },
+  {
+    "image": "1695.jpg",
+    "ensemble_disagreement_bits": 0.0027404282786691603,
+    "empirical_observer_jsd_bits": 0.5613878934927701,
+    "outcome_entropy_bits": 2.1327930625139957,
+    "regions": 6
+  },
+  {
+    "image": "1697.jpg",
+    "ensemble_disagreement_bits": 0.0016029574531346569,
+    "empirical_observer_jsd_bits": 0.8417914798798836,
+    "outcome_entropy_bits": 2.4743603312468685,
+    "regions": 8
+  }
+]

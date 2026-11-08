@@ -1,0 +1,34 @@
+{
+  "status": "local_draft_not_submitted",
+  "publication_route": "preprint_first",
+  "title": "Robustness of Object Attention Prediction With Annotated and Detected Objects",
+  "authors": [
+    {
+      "name": "Göktuğ Sina Bekçioğulları",
+      "affiliation": "Department of Computer Engineering, Marmara University, İstanbul, Türkiye",
+      "orcid": "0009-0001-2026-1019"
+    }
+  ],
+  "abstract": "Object-based gaze models often rely on human-defined regions and semantic labels that are absent at image-only inference. We compare annotated and detected representations using 700 OSIE scenes with an image-disjoint 420/140/140 split. Semantic annotations improve log score beyond geometry by 0.101 to 0.149 bits per fixation across five overlapping split sensitivities. On the original test set, human semantic and detected linear models achieve 1.515 and 0.501 bits of information gain over uniform pixels, versus 0.522 for a center prior. Frozen ResNet50 features with local or graph-attention heads do not improve these linear references. A frozen DeepGaze IIE comparator achieves 2.695 bits under documented common-pixel evaluation. Zero-shot evaluation on 698 public EMOd images gives the OSIE-trained detected linear model 0.206 bits versus 0.590 for the center prior. Excluding five OSIE observers from training and validation preserves a 0.149-bit semantic benefit for annotated regions. The evidence supports a reproducible analysis of representation limits and transfer, rather than a new attention mechanism. Pretraining differences, partial EMOd access and cohort-conditioned uncertainty limit broader conclusions.",
+  "keywords": [
+    "object attention",
+    "eye tracking",
+    "semantic attributes",
+    "object detection",
+    "robustness",
+    "probability evaluation"
+  ],
+  "candidate_arxiv_category": "cs.CV",
+  "suggested_comments": "7 pages, 1 figure, 3 tables. Exploratory OSIE and public EMOd study.",
+  "journal_reference": null,
+  "publication_doi": null,
+  "license": null,
+  "pdf": "output/pdf/object_attention_paper.pdf",
+  "pdf_sha256": "ca3b08e1d893e041ec17a11f5eca6baa75f8fca394e7f2ae74c4015ba23a16a7",
+  "author_actions_before_submission": [
+    "Review the manuscript, analysis and references and confirm author details.",
+    "Check account and any endorsement requirements.",
+    "Choose the distribution license.",
+    "Confirm repository visibility and decide how readers can access the code."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "status": "complete",
+  "hash_checks": 1412,
+  "held_out_observers": 15,
+  "observer_rows": 1680,
+  "emod_rows": 6282,
+  "sampled_images": [
+    "0001.jpg",
+    "0350.jpg",
+    "0698.jpg"
+  ],
+  "sampled_replay_max_ig_error": 4.4564725065754374e-07,
+  "probability_normalization_max_error": 2.220446049250313e-16,
+  "osie_reference_replay": {
+    "human": 8.881784197001252e-16,
+    "detected": 9.992007221626409e-16
+  },
+  "scope": "All transfer cache hashes and observer partitions; 3 transfer images replayed from cached visual features, not full detector extraction."
+}
