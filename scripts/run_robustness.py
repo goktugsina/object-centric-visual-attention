@@ -1,4 +1,4 @@
-"""Run the exploratory specification in research/extension_protocol.md."""
+"""Run split, semantic-feature and observer-weighting robustness experiments."""
 import csv
 import json
 import platform

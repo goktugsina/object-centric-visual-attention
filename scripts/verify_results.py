@@ -1,4 +1,4 @@
-"""Audit saved aggregate scores and manuscript metadata without retraining models.
+"""Audit saved aggregate scores without retraining models.
 
 Run from any directory with Python's standard library. This verifies arithmetic
 from existing per-image CSVs, not the upstream data or independent reproduction.
@@ -7,7 +7,6 @@ import csv
 import hashlib
 import json
 import math
-import re
 from collections import defaultdict
 from pathlib import Path
 from statistics import mean
@@ -83,38 +82,12 @@ def main():
         close(mean(full_ig), observer['aggregate'][arm]['full_ig_bits'], f'Observers/{arm}: full-model IG')
         facts[f'observer_holdout/{arm}/gain_bits'] = mean(gains)
 
-    manuscript = read('paper/manuscript.md')
-    metadata = json.loads(read('output/submission/metadata.json'))
-    details = json.loads(read('paper/submission_details.json'))
-    require(metadata['publication_route'] == details['publication_route'], 'Metadata: selected publication route preserved')
-    require(metadata['authors'] == [{'name': details['author_name'], 'affiliation': details['affiliation'], 'orcid': details['orcid']}], 'Metadata: author details preserved')
-    require(metadata['license'] == details['license'], 'Metadata: license choice preserved without an invented default')
-    body, references = manuscript.split('## References', 1)
-    require('{{' not in manuscript, 'Manuscript: no unresolved template fields')
-    require(manuscript.splitlines()[0].removeprefix('# ').strip() == metadata['title'], 'Metadata: title matches manuscript')
-    abstract = manuscript.split('### Abstract', 1)[1].split('Keywords:', 1)[0].strip()
-    require(abstract == metadata['abstract'], 'Metadata: abstract matches manuscript')
-    citation_ids = list(dict.fromkeys(int(x) for x in re.findall(r'\[(\d+)\]', body)))
-    bibliography_ids = [int(x) for x in re.findall(r'^\[(\d+)\]', references, re.M)]
-    require(citation_ids == bibliography_ids == list(range(1, 25)), 'References: all 24 entries cited in first-use order')
-    pdf_path = metadata['pdf']
-    pdf_hash = hashlib.sha256((ROOT / pdf_path).read_bytes()).hexdigest()
-    inputs[pdf_path] = pdf_hash
-    require(pdf_hash == metadata['pdf_sha256'], 'PDF: checksum matches submission metadata')
-    require(metadata['status'] == 'local_draft_not_submitted', 'Submission: draft status remains explicit')
-    for key in ('saliency_comparison/deepgaze_iie/ig_uniform_bits',
-                'saliency_comparison/detected_linear/ig_uniform_bits',
-                'emod_transfer/center/ig_uniform_bits', 'emod_transfer/linear/ig_uniform_bits',
-                'observer_holdout/annotated/gain_bits', 'observer_holdout/detected/gain_bits'):
-        require(f'{facts[key]:.3f}' in body, f'Manuscript contains rounded headline value: {key}')
-
     result = {'status': 'complete', 'checks_passed': len(checks), 'checks': checks,
               'headline_values': facts, 'input_sha256': inputs,
-              'scope': 'Saved CSV aggregate arithmetic, observer pairing, citation numbering and manuscript/PDF metadata consistency. Does not rerun models, bootstrap intervals, PDF rendering, full bibliography verification or remote CI; does not establish submission approval.'}
-    out = ROOT / 'output/submission/publication_verification.json'
+              'scope': 'Arithmetic checks of saved CSV aggregates and observer pairing; does not retrain models or recompute bootstrap intervals.'}
+    out = ROOT/'results/aggregate_verification.json'
     out.write_text(json.dumps(result, indent=2) + '\n', encoding='utf-8')
-    print(json.dumps({'status': result['status'], 'checks_passed': len(checks), 'report': str(out)}))
-
+    print(json.dumps({'status': 'complete', 'checks_passed': len(checks)}))
 
 if __name__ == '__main__':
     main()

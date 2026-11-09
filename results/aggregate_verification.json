@@ -1,6 +1,6 @@
 {
   "status": "complete",
-  "checks_passed": 159,
+  "checks_passed": 144,
   "checks": [
     "saliency_comparison: completed result",
     "saliency_comparison: model count",
@@ -145,22 +145,7 @@
     "Observers/annotated: paired fold-then-image mean gain",
     "Observers/annotated: full-model IG",
     "Observers/detected: paired fold-then-image mean gain",
-    "Observers/detected: full-model IG",
-    "Metadata: selected publication route preserved",
-    "Metadata: author details preserved",
-    "Metadata: license choice preserved without an invented default",
-    "Manuscript: no unresolved template fields",
-    "Metadata: title matches manuscript",
-    "Metadata: abstract matches manuscript",
-    "References: all 24 entries cited in first-use order",
-    "PDF: checksum matches submission metadata",
-    "Submission: draft status remains explicit",
-    "Manuscript contains rounded headline value: saliency_comparison/deepgaze_iie/ig_uniform_bits",
-    "Manuscript contains rounded headline value: saliency_comparison/detected_linear/ig_uniform_bits",
-    "Manuscript contains rounded headline value: emod_transfer/center/ig_uniform_bits",
-    "Manuscript contains rounded headline value: emod_transfer/linear/ig_uniform_bits",
-    "Manuscript contains rounded headline value: observer_holdout/annotated/gain_bits",
-    "Manuscript contains rounded headline value: observer_holdout/detected/gain_bits"
+    "Observers/detected: full-model IG"
   ],
   "headline_values": {
     "saliency_comparison/uniform/ig_uniform_bits": -1.601713251907459e-16,
@@ -188,11 +173,7 @@
     "results/emod_transfer/summary.json": "d9e86388c8e29b24296e86c9b90cf7568398bf92141bac57ca5f431d3abbfd59",
     "results/emod_transfer/per_image_metrics.csv": "d13f5afd628fdde07307c7312fe8e709a0ca3ba85697ec26bafe75c114078d30",
     "results/observer_holdout/summary.json": "280ccee693897ddf1488b096adcf18d8e9300efde9e047b9e81c4ec85dbc68a3",
-    "results/observer_holdout/per_image_metrics.csv": "6f8b2259de299f44a019136f17457d38fe20e956adedabade8756116052b7271",
-    "paper/manuscript.md": "f164ab722e661e29288afbbb62e339c5d087972a89498768c8526b5fffe63cfd",
-    "output/submission/metadata.json": "c3e895fc560f3e4a74db7e251db9ca68a259e8abb368fa8042deeaf8d284843f",
-    "paper/submission_details.json": "68a31ae42181cc4279e75b717d757ef7a0b5c49376691f223f364c9c68aee0e8",
-    "output/pdf/object_attention_paper.pdf": "ca3b08e1d893e041ec17a11f5eca6baa75f8fca394e7f2ae74c4015ba23a16a7"
+    "results/observer_holdout/per_image_metrics.csv": "6f8b2259de299f44a019136f17457d38fe20e956adedabade8756116052b7271"
   },
-  "scope": "Saved CSV aggregate arithmetic, observer pairing, citation numbering and manuscript/PDF metadata consistency. Does not rerun models, bootstrap intervals, PDF rendering, full bibliography verification or remote CI; does not establish submission approval."
+  "scope": "Arithmetic checks of saved CSV aggregates and observer pairing; does not retrain models or recompute bootstrap intervals."
 }

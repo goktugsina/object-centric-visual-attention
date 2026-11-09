@@ -151,8 +151,8 @@ def main():
                 for p in sorted(detection_dir.glob('*.json')) if p.name != 'config.json']
     source_files = ['src/attention/relational.py', 'src/attention/visual.py', 'src/attention/data.py',
                     'src/attention/image_only.py', 'scripts/run_relational.py',
-                    'scripts/extract_visual_features.py', 'research/relational_protocol.md']
-    summary = dict(status='in_progress', protocol='research/relational_protocol.md',
+                    'scripts/extract_visual_features.py']
+    summary = dict(status='in_progress', protocol='static region choice; image-disjoint 420/140/140 split; validation-only model selection',
                    configuration={k: str(v) if isinstance(v, Path) else v for k, v in vars(args).items()},
                    environment=dict(python=platform.python_version(), torch=torch.__version__, numpy=np.__version__),
                    source_sha256={p: sha256(ROOT/p) for p in source_files},

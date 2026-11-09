@@ -37,7 +37,7 @@ def main():
     split=json.loads((ROOT/'results/primary/splits.json').read_text())
     grid=(0.,1e-6,1e-5,1e-4,1e-3,1e-2)
     summary=dict(status='in_progress', weighting='equal observer, then equal image, then equal fold', folds=[],
-                 source_sha256={p:sha256(ROOT/p) for p in ['scripts/run_observer_holdout.py','research/observer_holdout_protocol.md',
+                 source_sha256={p:sha256(ROOT/p) for p in ['scripts/run_observer_holdout.py',
                  'src/attention/data.py','src/attention/model.py','src/attention/robustness.py','src/attention/image_only.py']},
                  split_sha256=sha256(ROOT/'results/primary/splits.json'))
     rows=[]

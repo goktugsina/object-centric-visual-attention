@@ -14,6 +14,7 @@ jobs:
       - run: python -m unittest discover -s tests -v
         env:
           PYTHONPATH: src
+      - run: python scripts/verify_results.py
   neural-contracts:
     runs-on: ubuntu-latest
     steps:

@@ -8,9 +8,9 @@ ROOT = Path(__file__).resolve().parents[1]
 def main():
     destination = ROOT/'output/colab/object_attention_source.zip'
     destination.parent.mkdir(parents=True, exist_ok=True)
-    files = [ROOT/name for name in ('README.md', 'DATA_CARD.md', 'pyproject.toml', 'requirements.txt', 'requirements-vision.txt', 'requirements-saliency.txt')]
+    files = [ROOT/name for name in ('README.md', 'pyproject.toml', 'requirements.txt', 'requirements-vision.txt', 'requirements-saliency.txt')]
     for folder, pattern in [('src', '*.py'), ('scripts', '*.py'), ('tests', '*.py'),
-                            ('research', '*.md'), ('notebooks', '*.ipynb')]:
+                            ('notebooks', '*.ipynb')]:
         files.extend((ROOT/folder).rglob(pattern))
     for name in ('results/primary/splits.json', 'results/primary/per_image_metrics.csv',
                  'results/image_only/per_image_metrics.csv', 'results/image_only/model.json',

@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 ROOT=Path(__file__).resolve().parents[1]
-out=ROOT/'paper/figures'; out.mkdir(parents=True,exist_ok=True)
+out=ROOT/'results/figures'; out.mkdir(parents=True,exist_ok=True)
 data=json.loads((ROOT/'results/primary/summary.json').read_text())
 models=data['models']
 labels={'uniform_regions':'Uniform regions','area':'Area prior','center':'Center prior',
